@@ -1,0 +1,4030 @@
+{
+  "meta": {
+    "Semester I": "1 Aug - 3 Dec 2022",
+    "Semester II": "9 Jan - 6 May 2023",
+    "last_modified": "2022-06-19T23:00:13"
+  },
+  "schedule": [
+    {
+      "Module Code": "BT1101",
+      "Module Title": [
+        "Introduction to Business Analytics",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Sharon TAN Swee Lin",
+        "ZHAI Yingda",
+        "Grp L1: Tue 12:00-14:00 E-Learn_C",
+        "Exam: 24 NOV 2022 09:00-11:30"
+      ],
+      "Semester II": [
+        "Sharon TAN Swee Lin",
+        "External teaching staff",
+        "Grp L1: Thu 16:00-18:00 LT15",
+        "Exam: 27 APR 2023 13:00-15:30"
+      ]
+    },
+    {
+      "Module Code": "BT2101",
+      "Module Title": [
+        "Econometrics Modeling for Business Analytics",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Varun KARAMSHETTY",
+        "Grp L1: Tue 14:00-16:00 I3-AUD",
+        "Exam: 22 NOV 2022 13:00-15:00"
+      ],
+      "Semester II": [
+        "Nakyung KYUNG",
+        "Grp L1: Wed 10:00-12:00 LT15",
+        "Exam: 25 APR 2023 17:00-19:00"
+      ]
+    },
+    {
+      "Module Code": "BT2102",
+      "Module Title": [
+        "Data Management and Visualisation",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Danny POO Chiang Choon",
+        "Grp L1: Mon 10:00-12:00 I3-AUD"
+      ],
+      "Semester II": [
+        "Danny POO Chiang Choon",
+        "Grp L1: Mon 10:00-12:00 I3-AUD"
+      ]
+    },
+    {
+      "Module Code": "BT2103",
+      "Module Title": [
+        "Optimization Methods in Business Analytics",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Rudy SETIONO",
+        "Grp L1: Tue 10:00-12:00 LT19",
+        "Exam: 28 NOV 2022 17:00-19:00"
+      ],
+      "Semester II": [
+        "Rudy SETIONO",
+        "Grp L1: Tue 10:00-12:00 LT19",
+        "Exam: 02 MAY 2023 17:00-19:00"
+      ]
+    },
+    {
+      "Module Code": "BT2201",
+      "Module Title": [
+        "Business Concepts and Metrics for Analytics",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "YANG Lu",
+        "Thomas Frank Marie CHEVRIER",
+        "Grp L1: Tue 12:00-14:00 COM1-0206"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "BT3017",
+      "Module Title": [
+        "Feature Engineering for Machine Learning",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "NG Teck Khim",
+        "Grp L1: Mon 16:00-18:00",
+        "Exam: 29 APR 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "BT3102",
+      "Module Title": [
+        "Computational Methods for Business Analytics",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Stanley KOK",
+        "Grp L1: Wed 12:00-14:00 LT15",
+        "Exam: 28 NOV 2022 13:00-15:00"
+      ],
+      "Semester II": [
+        "Aditya KARANAM",
+        "Grp L1: Tue 14:00-16:00 LT15",
+        "Exam: 25 APR 2023 17:00-19:00"
+      ]
+    },
+    {
+      "Module Code": "BT3103",
+      "Module Title": [
+        "Application Systems Development for Business Analytics",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Shashank Shekhar TRIPATHI",
+        "Grp L1: Tue 15:00-18:00 COM1-0206"
+      ],
+      "Semester II": [
+        "Shashank Shekhar TRIPATHI",
+        "Grp L1: Mon 12:00-15:00",
+        "Grp L2: Mon 18:30-21:30"
+      ]
+    },
+    {
+      "Module Code": "BT4012",
+      "Module Title": [
+        "Fraud Analytics",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "ZHAO Rui",
+        "ZHAO Yiliang",
+        "Grp L1: Fri 18:30-21:30 LT19"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "BT4013",
+      "Module Title": [
+        "Analytics for Capital Market Trading and Investment",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Stanley KOK",
+        "Grp L1: Fri 12:00-14:00 COM1-0204",
+        "Exam: 28 NOV 2022 09:00-11:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "BT4014",
+      "Module Title": [
+        "Analytics Driven Design of Adaptive Systems",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "QIAO Dandan",
+        "Grp L1: Fri 12:00-14:00"
+      ]
+    },
+    {
+      "Module Code": "BT4015",
+      "Module Title": [
+        "Geospatial Analytics",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Praneeth Shalinda Adikari A. A.",
+        "Grp L1: Thu 09:00-12:00 COM1-0212"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "BT4016",
+      "Module Title": [
+        "Risk Analytics for Financial Services",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Frank XING Zhutian",
+        "Grp L1: Thu 12:00-14:00",
+        "Exam: 27 APR 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "BT4103",
+      "Module Title": [
+        "Business Analytics Capstone Project",
+        "Modular Credits = 8"
+      ],
+      "Semester I": [
+        "Praneeth Shalinda Adikari A. A.",
+        "HAHN Jungpil",
+        "UM Sungyong",
+        "Grp L1: Fri 15:00-18:00 COM1-0206"
+      ],
+      "Semester II": [
+        "Praneeth Shalinda Adikari A. A.",
+        "Sharon TAN Swee Lin",
+        "Grp L1: Wed 13:00-16:00"
+      ]
+    },
+    {
+      "Module Code": "BT4211",
+      "Module Title": [
+        "Data-Driven Marketing",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Vivek Sundar MAGESH",
+        "Grp L1: Thu 15:00-18:00"
+      ]
+    },
+    {
+      "Module Code": "BT4212",
+      "Module Title": [
+        "Search Engine Optimization and Analytics",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "JIN Chen",
+        "Grp L1: Tue 09:00-12:00 COM1-0206",
+        "Exam: 25 NOV 2022 14:30-16:30"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "BT4221",
+      "Module Title": [
+        "Big Data Techniques and Technologies",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "UM Sungyong",
+        "Grp L1: Fri 09:00-12:00",
+        "Exam: 26 APR 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "BT4222",
+      "Module Title": [
+        "Mining Web Data for Business Insights",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "WANG Qiuhong",
+        "Grp L1: Fri 09:00-12:00 LT19"
+      ],
+      "Semester II": [
+        "QIAO Dandan",
+        "Grp L1: Fri 18:30-21:30"
+      ]
+    },
+    {
+      "Module Code": "BT4240",
+      "Module Title": [
+        "Machine Learning for Predictive Data Analytics",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Rudy SETIONO",
+        "Grp L1: Mon 15:00-18:00 COM1-VCRM",
+        "Exam: 28 NOV 2022 17:00-19:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "BT4301",
+      "Module Title": [
+        "Business Analytics Solutions Development and Deployment",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "LU Weiquan",
+        "Grp L1: Mon 15:00-18:00 COM1-0206"
+      ],
+      "Semester II": [
+        "LU Weiquan",
+        "Grp L1: Mon 15:00-18:00 COM1-0206"
+      ]
+    },
+    {
+      "Module Code": "BT5110",
+      "Module Title": [
+        "Data Management and Warehousing",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Stephane BRESSAN",
+        "Grp L1: Wed 18:30-20:30 LT15"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "BT5126",
+      "Module Title": [
+        "Hands-on with Business Analytics",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "ZHAI Yingda",
+        "Grp L1: Wed 18:30-20:30"
+      ]
+    },
+    {
+      "Module Code": "BT5151",
+      "Module Title": [
+        "Advanced Analytics and Machine Learning",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Vaibhav RAJAN",
+        "Grp L1: Mon 14:00-16:00",
+        "Grp L2: Mon 18:30-20:30",
+        "Grp L3: Tue 14:00-16:00"
+      ]
+    },
+    {
+      "Module Code": "BT5153",
+      "Module Title": [
+        "Applied Machine Learning for Business Analytics",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "ZHAO Rui",
+        "Grp L1: Fri 18:30-20:30"
+      ]
+    },
+    {
+      "Module Code": "CG1111A",
+      "Module Title": [
+        "Engineering Principles and Practice I",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Ravi SUPPIAH",
+        "Grp L01:  -"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CG2111A",
+      "Module Title": [
+        "Engineering Principles and Practice II",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Colin TAN Keng Yan",
+        "Ravi SUPPIAH",
+        "Ronald Boyd ANDERSON",
+        "Grp L01:  -"
+      ]
+    },
+    {
+      "Module Code": "CG2271",
+      "Module Title": [
+        "Real-Time Operating Systems",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Ravi SUPPIAH",
+        "Grp L01: Wed 10:00-12:00 E-Learn_A",
+        "Exam: 02 MAY 2023 13:00-15:00"
+      ]
+    },
+    {
+      "Module Code": "CG4002",
+      "Module Title": [
+        "Computer Engineering Capstone Project",
+        "Modular Credits = 8"
+      ],
+      "Semester I": [
+        "Jithin VACHERY",
+        "LI Jialin",
+        "Grp L01: Thu 09:00-12:00",
+        "Grp L02: Thu 14:00-17:00"
+      ],
+      "Semester II": [
+        "Jithin VACHERY",
+        "Grp L01: Wed 09:00-12:00 COM1-0206",
+        "Grp L02: Wed 14:00-17:00 COM1-0206"
+      ]
+    },
+    {
+      "Module Code": "CP2106",
+      "Module Title": [
+        "Independent Software Development Project (Orbital)",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "ZHAO Jin",
+        "TAN Sun Teck",
+        "Henry CHIA Wai Kit",
+        "Grp L1:  -"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CP2201",
+      "Module Title": [
+        "Journey of the Innovator",
+        "Modular Credits = 2"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Francis YEOH",
+        "Grp L1: Mon 18:30-21:30 I3-AUD"
+      ]
+    },
+    {
+      "Module Code": "CP3201",
+      "Module Title": [
+        "Industry Seminar",
+        "Modular Credits = 2"
+      ],
+      "Semester I": [
+        "Danny POO Chiang Choon",
+        "Grp L1: Mon 14:00-16:00 LT19"
+      ],
+      "Semester II": [
+        "Danny POO Chiang Choon",
+        "Grp L1: Mon 14:00-16:00 LT15"
+      ]
+    },
+    {
+      "Module Code": "CS1010",
+      "Module Title": [
+        "Programming Methodology",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "OOI Wei Tsang",
+        "Grp S1: Mon 12:00-14:00 I3-AUD",
+        "Exam: 25 NOV 2022 09:00-11:00"
+      ],
+      "Semester II": [
+        "TAN Sun Teck",
+        "Grp S1: Tue 10:00-12:00 COM1-0204",
+        "Exam: 29 APR 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "CS1010E",
+      "Module Title": [
+        "Programming Methodology",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "KHOO Siau Cheng",
+        "Alan CHENG Holun",
+        "Grp S1: Mon 16:00-18:00 UT-AUD1",
+        "Grp S2: Tue 16:00-18:00 UT-AUD1",
+        "Exam: 26 NOV 2022 13:00-15:00"
+      ],
+      "Semester II": [
+        "ZHOU Lifeng",
+        "TAN Sun Teck",
+        "PRABAWA Adi Yoga Sidi",
+        "Grp S1: Tue 16:00-18:00",
+        "Grp S2: Mon 14:00-16:00",
+        "Exam: 28 APR 2023 14:30-16:30"
+      ]
+    },
+    {
+      "Module Code": "CS1010J",
+      "Module Title": [
+        "Programming Methodology",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "ZHOU Lifeng",
+        "Grp L1: Tue 14:00-16:00 LT15",
+        "Exam: 22 NOV 2022 13:00-15:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS1010S",
+      "Module Title": [
+        "Programming Methodology",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "LEONG Wai Kay",
+        "Ashish Deepak DANDEKAR",
+        "Nitya LAKSHMANAN",
+        "Grp L1: Wed 10:00-12:00 E-Hybrid_C",
+        "Grp L1V: Wed 10:00-12:00 COM1-0206",
+        "Exam: 22 NOV 2022 13:00-15:00"
+      ],
+      "Semester II": [
+        "Ashish Deepak DANDEKAR",
+        "LEONG Wai Kay",
+        "Nitya LAKSHMANAN",
+        "Grp L1: Wed 14:00-16:00 COM1-0206",
+        "Exam: 29 APR 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "CS1010X",
+      "Module Title": [
+        "Programming Methodology",
+        "(iBLOC Module, not for Undergraduate, offered from Jan - Jun.",
+        "Details at https://www.nus.edu.sg/ibloc/iBLOC.html)",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "TAN Tiow Seng",
+        "Grp L1:  -"
+      ]
+    },
+    {
+      "Module Code": "CS1101S",
+      "Module Title": [
+        "Programming Methodology",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "LOW Kok Lim",
+        "Ronald Boyd ANDERSON",
+        "Sanka RASNAYAKA",
+        "Grp L1: Wed 10:00-12:00 E-Learn_C",
+        "Fri 10:00-12:00 E-Learn_C",
+        "Exam: 22 NOV 2022 13:00-15:00"
+      ],
+      "Semester II": [
+        "LOW Kok Lim",
+        "Grp L1: Wed 12:00-14:00 COM1-0212",
+        "Exam: 29 APR 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "CS1231",
+      "Module Title": [
+        "Discrete Structures",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "TAY Yong Chiang",
+        "Grp S1: Wed 12:00-14:00 UT-AUD1",
+        "Fri 12:00-13:00 UT-AUD1",
+        "Exam: 24 NOV 2022 13:00-15:00"
+      ],
+      "Semester II": [
+        "Math Dept Lecturer",
+        "Grp S1: Wed 09:00-10:00 I3-AUD",
+        "Thu 12:00-14:00 LT19",
+        "Exam: 25 APR 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "CS1231S",
+      "Module Title": [
+        "Discrete Structures",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Aaron TAN Tuck Choy",
+        "Ashish Deepak DANDEKAR",
+        "LEONG Hon Wai",
+        "Grp L1: Thu 12:00-14:00 E-Learn_C",
+        "Fri 15:00-16:00 E-Learn_C",
+        "Exam: 24 NOV 2022 13:00-15:00"
+      ],
+      "Semester II": [
+        "Aaron TAN Tuck Choy",
+        "SIRIGINA Rajendra Prasad",
+        "Grp L1: Wed 09:00-10:00 LT15",
+        "Thu 12:00-14:00 LT15",
+        "Exam: 25 APR 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "CS2030",
+      "Module Title": [
+        "Programming Methodology II",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Henry CHIA Wai Kit",
+        "Grp L1: Mon 12:00-14:00 LT19",
+        "Exam: 30 NOV 2022 13:00-15:00"
+      ],
+      "Semester II": [
+        "Henry CHIA Wai Kit",
+        "Grp L1: Mon 12:00-14:00 LT15",
+        "Exam: 27 APR 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "CS2030S",
+      "Module Title": [
+        "Programming Methodology II",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "PRABAWA Adi Yoga Sidi",
+        "Grp L1: Mon 12:00-14:00 COM1-0206",
+        "Exam: 30 NOV 2022 13:00-15:00"
+      ],
+      "Semester II": [
+        "OOI Wei Tsang",
+        "Ronald Boyd ANDERSON",
+        "PRABAWA Adi Yoga Sidi",
+        "Grp L1: Mon 12:00-14:00 I3-AUD",
+        "Exam: 27 APR 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "CS2040",
+      "Module Title": [
+        "Data Structures and Algorithms",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Roger ZIMMERMANN",
+        "TAN Sun Teck",
+        "Grp L1: Wed 10:00-12:00 E-Hybrid_C",
+        "Thu 17:00-18:00 E-Hybrid_C",
+        "Grp L1V: Wed 10:00-12:00 I3-AUD",
+        "Thu 17:00-18:00 I3-AUD",
+        "Exam: 26 NOV 2022 13:00-15:00"
+      ],
+      "Semester II": [
+        "Roger ZIMMERMANN",
+        "CHONG Ket Fah",
+        "Grp L1: Mon 16:00-18:00 LT19",
+        "Wed 14:00-15:00 LT19",
+        "Exam: 26 APR 2023 13:00-15:00"
+      ]
+    },
+    {
+      "Module Code": "CS2040C",
+      "Module Title": [
+        "Data Structures and Algorithms",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Steven HALIM",
+        "Grp L1: Wed 10:00-12:00 LT15",
+        "Thu 17:00-18:00 E-Learn_C",
+        "Exam: 26 NOV 2022 13:00-15:00"
+      ],
+      "Semester II": [
+        "Alan CHENG Holun",
+        "Grp L1: Tue 12:00-14:00 LT19",
+        "Wed 12:00-13:00 LT19",
+        "Exam: 26 APR 2023 13:00-15:00"
+      ]
+    },
+    {
+      "Module Code": "CS2040S",
+      "Module Title": [
+        "Data Structures and Algorithms",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "CHONG Ket Fah",
+        "Grp L1: Wed 10:00-12:00 E-Learn_C",
+        "Thu 17:00-18:00 E-Learn_C",
+        "Exam: 26 NOV 2022 13:00-15:00"
+      ],
+      "Semester II": [
+        "Seth Lewis GILBERT",
+        "Arnab BHATTACHARYYA",
+        "Grp L1: Mon 16:00-18:00 I3-AUD",
+        "Wed 14:00-15:00 I3-AUD",
+        "Exam: 26 APR 2023 13:00-15:00"
+      ]
+    },
+    {
+      "Module Code": "CS2100",
+      "Module Title": [
+        "Computer Organisation",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Colin TAN Keng Yan",
+        "NATARAJAN Prabhu",
+        "Ravi SUPPIAH",
+        "Grp L1: Tue 16:00-18:00 E-Learn_C",
+        "Exam: 26 NOV 2022 09:00-11:00"
+      ],
+      "Semester II": [
+        "Aaron TAN Tuck Choy",
+        "Colin TAN Keng Yan",
+        "Grp L1: Mon 10:00-12:00 E-Learn_C",
+        "Exam: 28 APR 2023 14:30-16:30"
+      ]
+    },
+    {
+      "Module Code": "CS2101",
+      "Module Title": [
+        "Effective Communication for Computing Professionals",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "External teaching staff",
+        "Grp SC01:  - E-Learn_A",
+        "- E-Learn_A",
+        "Grp SC02:  - E-Learn_A",
+        "- E-Learn_A",
+        "Grp SC03:  - E-Learn_A",
+        "- E-Learn_A",
+        "Grp SG01:  - E-Learn_A",
+        "- E-Learn_A",
+        "Grp SG02:  - E-Learn_A",
+        "- E-Learn_A",
+        "Grp SG03:  - E-Learn_A",
+        "- E-Learn_A",
+        "Grp SG04:  - E-Learn_A",
+        "- E-Learn_A",
+        "Grp SG05:  - E-Learn_A",
+        "- E-Learn_A",
+        "Grp SG06:  - E-Learn_A",
+        "- E-Learn_A",
+        "Grp SG07:  - E-Learn_A",
+        "- E-Learn_A",
+        "Grp SG08:  - E-Learn_A",
+        "- E-Learn_A",
+        "Grp SG09:  - E-Learn_A",
+        "- E-Learn_A",
+        "Grp SG10:  - E-Learn_A",
+        "- E-Learn_A",
+        "Grp SG11:  - E-Learn_A",
+        "- E-Learn_A",
+        "Grp SG12:  - E-Learn_A",
+        "- E-Learn_A",
+        "Grp SG13:  - E-Learn_A",
+        "- E-Learn_A",
+        "Grp SG14:  - E-Learn_A",
+        "- E-Learn_A",
+        "Grp SG15:  - E-Learn_A",
+        "- E-Learn_A",
+        "Grp SG16:  - E-Learn_A",
+        "- E-Learn_A",
+        "Grp SG17:  - E-Learn_A",
+        "- E-Learn_A",
+        "Grp SG18:  - E-Learn_A",
+        "- E-Learn_A",
+        "Grp SG19:  - E-Learn_A",
+        "- E-Learn_A",
+        "- E-Learn_A",
+        "- E-Learn_A"
+      ],
+      "Semester II": [
+        "External teaching staff",
+        "Grp SC01:  -",
+        "-",
+        "Grp SC02:  -",
+        "-",
+        "Grp SC03:  -",
+        "-",
+        "Grp SC04:  -",
+        "-",
+        "Grp SG01:  -",
+        "-",
+        "Grp SG02:  -",
+        "-",
+        "Grp SG03:  -",
+        "-",
+        "Grp SG04:  -",
+        "-",
+        "Grp SG05:  -",
+        "-",
+        "Grp SG06:  -",
+        "-",
+        "Grp SG07:  -",
+        "-",
+        "Grp SG08:  -",
+        "-",
+        "Grp SG09:  -",
+        "-",
+        "Grp SG10:  -",
+        "-",
+        "Grp SG11:  -",
+        "-",
+        "Grp SG12:  -",
+        "-",
+        "Grp SG13:  -",
+        "-",
+        "Grp SG14:  -",
+        "-",
+        "Grp SG15:  -",
+        "-",
+        "Grp SG16:  -",
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS2102",
+      "Module Title": [
+        "Database Systems",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "PRABAWA Adi Yoga Sidi",
+        "Christian Von Der WETH",
+        "Grp L1: Tue 12:00-14:00 E-Hybrid_C",
+        "Grp L1V: Tue 12:00-14:00 I3-AUD",
+        "Exam: 22 NOV 2022 17:00-19:00"
+      ],
+      "Semester II": [
+        "CHAN Chee Yong",
+        "XIAO Xiaokui",
+        "Grp L1: Mon 12:00-14:00 LT19",
+        "Exam: 29 APR 2023 13:00-15:00"
+      ]
+    },
+    {
+      "Module Code": "CS2103",
+      "Module Title": [
+        "Software Engineering",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Damith Chatura RAJAPAKSE",
+        "Grp L1: Fri 16:00-18:00 I3-AUD",
+        "Exam: 25 NOV 2022 09:00-11:00"
+      ],
+      "Semester II": [
+        "Damith Chatura RAJAPAKSE",
+        "Grp L1: Fri 14:00-16:00 I3-AUD",
+        "Exam: 26 APR 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "CS2103T",
+      "Module Title": [
+        "Software Engineering",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Damith Chatura RAJAPAKSE",
+        "Grp LG01: Mon 08:00-10:00 AS6-0210",
+        "Wed 09:00-10:00 COM1-B103",
+        "Thu 08:00-10:00 AS6-0210",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG02: Mon 10:00-12:00 COM2-0108",
+        "Wed 10:00-11:00 COM1-B103",
+        "Thu 10:00-12:00 COM2-0108",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG03: Mon 12:00-14:00 COM2-0108",
+        "Wed 11:00-12:00 COM1-B103",
+        "Thu 12:00-14:00 COM2-0108",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG04: Tue 12:00-14:00 COM2-0108",
+        "Wed 12:00-13:00 COM1-B103",
+        "Fri 12:00-14:00 COM2-0108",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG05: Tue 14:00-16:00 COM2-0108",
+        "Wed 13:00-14:00 COM1-B103",
+        "Fri 14:00-16:00 AS6-0211",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG06: Tue 12:00-14:00 COM1-0203",
+        "Wed 15:00-16:00 COM1-B103",
+        "Fri 12:00-14:00 AS6-0211",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG07: Mon 16:00-18:00 AS6-0210",
+        "Wed 16:00-17:00 COM1-B103",
+        "Thu 16:00-18:00 AS6-0210",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG08: Mon 16:00-18:00 COM2-0108",
+        "Wed 17:00-18:00 COM1-B103",
+        "Thu 16:00-18:00 COM2-0108",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG09: Mon 14:00-16:00 AS6-0210",
+        "Thu 09:00-10:00 COM1-B103",
+        "Thu 14:00-16:00 AS6-0210",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG10: Tue 08:00-10:00 COM2-0108",
+        "Thu 10:00-11:00 COM1-B103",
+        "Fri 08:00-10:00 COM2-0108",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG11: Tue 14:00-16:00 COM1-0203",
+        "Thu 11:00-12:00 COM1-B103",
+        "Fri 14:00-16:00 COM1-0203",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG12: Mon 10:00-12:00 COM1-0203",
+        "Thu 10:00-12:00 COM1-0209",
+        "Thu 12:00-13:00 COM1-B103",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG13: Mon 08:00-10:00 COM2-0108",
+        "Thu 08:00-10:00 COM2-0108",
+        "Thu 13:00-14:00 COM1-B103",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG14: Mon 14:00-16:00 COM2-0108",
+        "Thu 14:00-16:00 COM2-0108",
+        "Thu 17:00-18:00 COM1-B103",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG15: Tue 10:00-12:00 COM2-0108",
+        "Thu 15:00-16:00 COM1-B103",
+        "Fri 10:00-12:00 COM2-0108",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG16: Tue 08:00-10:00 COM1-0203",
+        "Fri 08:00-10:00 AS6-0210",
+        "Fri 11:00-12:00 COM1-B103",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG17: Tue 10:00-12:00 COM1-0203",
+        "Fri 10:00-12:00 AS6-0210",
+        "Fri 12:00-13:00 COM1-B103",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG18: Tue 12:00-14:00 COM1-0209",
+        "Thu 14:00-15:00 COM1-B103",
+        "Fri 12:00-14:00 COM1-0209",
+        "Fri 16:00-18:00 I3-AUD",
+        "Grp LG19: Mon 08:00-10:00 COM1-0203",
+        "Wed 08:00-09:00 COM1-B103",
+        "Thu 08:00-10:00 COM1-0203",
+        "Fri 16:00-18:00 I3-AUD",
+        "Exam: 25 NOV 2022 09:00-11:00"
+      ],
+      "Semester II": [
+        "Damith Chatura RAJAPAKSE",
+        "Ganesh NEELAKANTA IYER",
+        "Grp LG01: Mon 14:00-16:00 E-Learn_C",
+        "Wed 11:00-12:00 E-Learn_C",
+        "Thu 14:00-16:00 E-Learn_C",
+        "Fri 14:00-16:00 I3-AUD",
+        "Grp LG02: Mon 16:00-18:00 E-Learn_C",
+        "Wed 12:00-13:00 E-Learn_C",
+        "Thu 16:00-18:00 E-Learn_C",
+        "Fri 14:00-16:00 I3-AUD",
+        "Grp LG03: Mon 08:00-10:00 E-Learn_C",
+        "Wed 14:00-15:00 E-Learn_C",
+        "Thu 08:00-10:00 E-Learn_C",
+        "Fri 14:00-16:00 I3-AUD",
+        "Grp LG04: Mon 10:00-12:00 E-Learn_C",
+        "Wed 13:00-14:00 E-Learn_C",
+        "Thu 10:00-12:00 E-Learn_C",
+        "Fri 14:00-16:00 I3-AUD",
+        "Grp LG05: Tue 10:00-12:00 E-Learn_C",
+        "Thu 11:00-12:00 E-Learn_C",
+        "Fri 14:00-16:00 I3-AUD",
+        "Fri 10:00-12:00 E-Learn_C",
+        "Grp LG06: Tue 12:00-14:00 E-Learn_C",
+        "Thu 12:00-13:00 E-Learn_C",
+        "Fri 14:00-16:00 I3-AUD",
+        "Fri 12:00-14:00 E-Learn_C",
+        "Grp LG07: Tue 08:00-10:00 E-Learn_C",
+        "Thu 16:00-17:00 E-Learn_C",
+        "Fri 08:00-10:00 E-Learn_C",
+        "Fri 14:00-16:00 I3-AUD",
+        "Grp LG08: Mon 12:00-14:00 E-Learn_C",
+        "Wed 15:00-16:00 E-Learn_C",
+        "Thu 12:00-14:00 E-Learn_C",
+        "Fri 14:00-16:00 I3-AUD",
+        "Grp LG09: Tue 16:00-18:00 E-Learn_C",
+        "Thu 13:00-14:00 E-Learn_C",
+        "Fri 14:00-16:00 I3-AUD",
+        "Fri 16:00-18:00 E-Learn_C",
+        "Grp LG10: Mon 14:00-16:00 E-Learn_C",
+        "Wed 09:00-10:00 E-Learn_C",
+        "Thu 14:00-16:00 E-Learn_C",
+        "Fri 14:00-16:00 I3-AUD",
+        "Grp LG11: Tue 16:00-18:00 E-Learn_C",
+        "Thu 17:00-18:00 E-Learn_C",
+        "Fri 14:00-16:00 I3-AUD",
+        "Fri 16:00-18:00 E-Learn_C",
+        "Grp LG12: Tue 08:00-10:00 E-Learn_C",
+        "Thu 10:00-11:00 E-Learn_C",
+        "Fri 14:00-16:00 I3-AUD",
+        "Fri 08:00-10:00 E-Learn_C",
+        "Grp LG13: Tue 12:00-14:00 E-Learn_C",
+        "Thu 09:00-10:00 E-Learn_C",
+        "Fri 14:00-16:00 I3-AUD",
+        "Fri 12:00-14:00 E-Learn_C",
+        "Grp LG14: Fri 14:00-16:00 I3-AUD",
+        "Grp LG15: Fri 14:00-16:00 I3-AUD",
+        "Grp LG16: Fri 14:00-16:00 I3-AUD",
+        "Grp LG17: Fri 14:00-16:00 I3-AUD",
+        "Grp LG18: Fri 14:00-16:00 I3-AUD",
+        "Grp LG19: Fri 14:00-16:00 I3-AUD",
+        "Exam: 26 APR 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "CS2104",
+      "Module Title": [
+        "Programming Language Concepts",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "CHIN Wei Ngan",
+        "Grp L1: Thu 12:00-14:00 LT15",
+        "Exam: 29 NOV 2022 17:00-19:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS2105",
+      "Module Title": [
+        "Introduction to Computer Networks",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "ZHOU Lifeng",
+        "Jithin VACHERY",
+        "Grp L1: Mon 14:00-16:00 E-Hybrid_C",
+        "Grp L1V: Mon 14:00-16:00 I3-AUD",
+        "Exam: 28 NOV 2022 17:00-19:00"
+      ],
+      "Semester II": [
+        "Richard MA Tianbai",
+        "Jithin VACHERY",
+        "Grp L1: Thu 16:00-18:00 I3-AUD",
+        "Exam: 26 APR 2023 13:00-15:00"
+      ]
+    },
+    {
+      "Module Code": "CS2106",
+      "Module Title": [
+        "Introduction to Operating Systems",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "WONG Weng Fai",
+        "Nitya LAKSHMANAN",
+        "Grp L1: Wed 14:00-16:00 UT-AUD1",
+        "Exam: 29 NOV 2022 09:00-11:00"
+      ],
+      "Semester II": [
+        "Djordje JEVDJIC",
+        "NATARAJAN Prabhu",
+        "Nitya LAKSHMANAN",
+        "Grp L1: Wed 10:00-12:00 I3-AUD",
+        "Exam: 02 MAY 2023 17:00-19:00"
+      ]
+    },
+    {
+      "Module Code": "CS2107",
+      "Module Title": [
+        "Introduction to Information Security",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Sufatrio",
+        "Grp L1: Wed 12:00-14:00 I3-AUD",
+        "Exam: 28 NOV 2022 09:00-11:00"
+      ],
+      "Semester II": [
+        "CHANG Ee Chien",
+        "Grp L1: Thu 10:00-12:00 I3-AUD",
+        "Exam: 24 APR 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "CS2108",
+      "Module Title": [
+        "Introduction to Media Computing",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "NG Teck Khim",
+        "Grp L1: Tue 10:00-12:00 LT15",
+        "Exam: 27 APR 2023 13:00-15:00"
+      ]
+    },
+    {
+      "Module Code": "CS2109",
+      "Module Title": [
+        "Introduction to AI and Machine Learning",
+        "Modular Credits = -"
+      ],
+      "Semester I": [],
+      "Semester II": []
+    },
+    {
+      "Module Code": "CS2109S",
+      "Module Title": [
+        "Introduction to AI and Machine Learning",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Ben LEONG Wing Lup",
+        "Grp L1: Fri 10:00-12:00 I3-AUD",
+        "Exam: 25 NOV 2022 14:30-16:30"
+      ],
+      "Semester II": [
+        "Ben LEONG Wing Lup",
+        "Grp L1: Tue 16:00-18:00 I3-AUD",
+        "Exam: 25 APR 2023 17:00-19:00"
+      ]
+    },
+    {
+      "Module Code": "CS2113",
+      "Module Title": [
+        "Software Engineering & Object-Oriented Programming",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Akshay NARAYAN",
+        "Grp L1: Fri 16:00-18:00 LT19",
+        "Exam: 29 NOV 2022 17:00-19:00"
+      ],
+      "Semester II": [
+        "Akshay NARAYAN",
+        "Grp L1: Fri 16:00-18:00 LT19",
+        "Exam: 03 MAY 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "CS2113T",
+      "Module Title": [
+        "Software Engineering & Object-Oriented Programming",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Akshay NARAYAN",
+        "Grp LC01: Mon 12:00-14:00 COM1-0203",
+        "Wed 12:00-13:00 COM1-0210",
+        "Thu 12:00-14:00 AS6-0211",
+        "Fri 16:00-18:00 LT19",
+        "Grp LC02: Mon 14:00-16:00 COM1-0209",
+        "Wed 13:00-14:00 COM1-0210",
+        "Thu 14:00-16:00 COM1-0209",
+        "Fri 16:00-18:00 LT19",
+        "Grp LC03: Tue 10:00-12:00 COM1-0209",
+        "Wed 11:00-12:00 COM1-0210",
+        "Fri 10:00-12:00 AS6-0211",
+        "Fri 16:00-18:00 LT19",
+        "Exam: 29 NOV 2022 17:00-19:00"
+      ],
+      "Semester II": [
+        "Akshay NARAYAN",
+        "Grp LC01: Tue 12:00-14:00 E-Learn_C",
+        "Thu 09:00-10:00 E-Learn_C",
+        "Fri 16:00-18:00 LT19",
+        "Fri 12:00-14:00 E-Learn_C",
+        "Grp LC02: Mon 10:00-12:00 E-Learn_C",
+        "Thu 10:00-12:00 E-Learn_C",
+        "Fri 09:00-10:00 E-Learn_C",
+        "Fri 16:00-18:00 LT19",
+        "Grp LC03: Tue 10:00-12:00 E-Learn_C",
+        "Thu 10:00-11:00 E-Learn_C",
+        "Fri 10:00-12:00 E-Learn_C",
+        "Fri 16:00-18:00 LT19",
+        "Exam: 03 MAY 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "CS2220",
+      "Module Title": [
+        "Introduction to Computational Biology",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "WONG Lim Soon",
+        "Grp L1: Thu 14:00-16:00 COM1-VCRM",
+        "Exam: 28 NOV 2022 13:00-15:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS2309",
+      "Module Title": [
+        "CS Research Methodology",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Bimlesh WADHWA",
+        "Grp L1: Mon 09:00-11:00 SR_LT19",
+        "Exam: 29 NOV 2022 17:00-19:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS3103",
+      "Module Title": [
+        "Computer Networks Practice",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "CHAN Mun Choon",
+        "Grp L1: Tue 14:00-16:00 LT19"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS3203",
+      "Module Title": [
+        "Software Engineering Project",
+        "Modular Credits = 8"
+      ],
+      "Semester I": [
+        "Ganesh NEELAKANTA IYER",
+        "LEONG Wai Kay",
+        "Sanka RASNAYAKA",
+        "Grp L1: Tue 12:00-14:00 COM1-VCRM",
+        "Grp L2: Tue 12:00-14:00 COM1-0212",
+        "Grp L3: Tue 16:00-18:00 COM1-VCRM",
+        "Grp L4: Tue 16:00-18:00 COM1-0212"
+      ],
+      "Semester II": [
+        "Ganesh NEELAKANTA IYER",
+        "ZHAO Jin",
+        "Sanka RASNAYAKA",
+        "External",
+        "Grp L1: Tue 10:00-12:00 I3-AUD",
+        "Tue 14:00-16:00 I3-AUD",
+        "Grp L2: Tue 10:00-12:00",
+        "Tue 14:00-16:00"
+      ]
+    },
+    {
+      "Module Code": "CS3210",
+      "Module Title": [
+        "Parallel Computing",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Cristina CARBUNARU",
+        "Grp L1: Mon 14:00-16:00 COM1-0204",
+        "Exam: 23 NOV 2022 17:00-19:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS3211",
+      "Module Title": [
+        "Parallel and Concurrent Programming",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Cristina CARBUNARU",
+        "Grp L1: Tue 12:00-14:00 COM1-0204",
+        "Exam: 04 MAY 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "CS3213",
+      "Module Title": [
+        "Foundations of Software Engineering",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Abhik ROYCHOUDHURY",
+        "Grp L1: Wed 13:00-16:00 LT15",
+        "Exam: 02 MAY 2023 17:00-19:00"
+      ]
+    },
+    {
+      "Module Code": "CS3216",
+      "Module Title": [
+        "Software Product Engineering for Digital Markets",
+        "Modular Credits = 5"
+      ],
+      "Semester I": [
+        "SOO Yuen Jien",
+        "Grp L1: Mon 18:30-20:30 COM1-VCRM"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS3217",
+      "Module Title": [
+        "Software Engineering on Modern Application Platforms",
+        "Modular Credits = 5"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "LEONG Wai Kay",
+        "Grp L1: Mon 14:00-16:00 COM1-0212",
+        "Tue 14:00-15:00 COM1-0212"
+      ]
+    },
+    {
+      "Module Code": "CS3219",
+      "Module Title": [
+        "Software Engineering Principles and Patterns",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Bimlesh WADHWA",
+        "Akshay NARAYAN",
+        "Grp L1: Thu 14:00-16:00 LT15",
+        "Exam: 28 NOV 2022 09:00-10:30"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS3223",
+      "Module Title": [
+        "Database Systems Implementation",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "TAN Kian Lee",
+        "Grp L1: Fri 10:00-12:00 LT19",
+        "Exam: 28 APR 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "CS3230",
+      "Module Title": [
+        "Design and Analysis of Algorithms",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Arnab BHATTACHARYYA",
+        "Prashant Nalini VASUDEVAN",
+        "Grp L1: Tue 10:00-12:00 E-Hybrid_C",
+        "Grp L1V: Tue 10:00-12:00 I3-AUD",
+        "Exam: 28 NOV 2022 17:00-19:30"
+      ],
+      "Semester II": [
+        "Steven HALIM",
+        "Diptarka CHAKRABORTY",
+        "Grp L1: Thu 14:00-16:00 I3-AUD",
+        "Exam: 27 APR 2023 13:00-15:00"
+      ]
+    },
+    {
+      "Module Code": "CS3231",
+      "Module Title": [
+        "Theory of Computation",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Sanjay JAIN",
+        "Grp L1: Fri 10:00-12:00 COM1-VCRM",
+        "Exam: 21 NOV 2022 09:00-11:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS3233",
+      "Module Title": [
+        "Competitive Programming",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Steven HALIM",
+        "Grp L1: Mon 17:00-22:00 COM1-B109"
+      ]
+    },
+    {
+      "Module Code": "CS3234",
+      "Module Title": [
+        "Logic for Proofs and Programs",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Olivier DANVY",
+        "Grp L1: Mon 10:00-12:00 COM1-0212"
+      ]
+    },
+    {
+      "Module Code": "CS3235",
+      "Module Title": [
+        "Computer Security",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Reza SHOKRI",
+        "Grp L1: Thu 12:00-14:00 COM1-0206"
+      ],
+      "Semester II": [
+        "Prateek SAXENA",
+        "Grp L1: Tue 08:00-10:00"
+      ]
+    },
+    {
+      "Module Code": "CS3236",
+      "Module Title": [
+        "Introduction to Information Theory",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Jonathan SCARLETT",
+        "Grp L1: Mon 14:00-16:00 COM1-VCRM",
+        "Exam: 04 MAY 2023 13:00-15:00"
+      ]
+    },
+    {
+      "Module Code": "CS3237",
+      "Module Title": [
+        "Introduction to Internet of Things",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Ronald Boyd ANDERSON",
+        "Grp L1: Wed 14:00-16:00 COM1-0206",
+        "Exam: 23 NOV 2022 13:00-15:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS3240",
+      "Module Title": [
+        "Interaction Design",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "ZHAO Shengdong",
+        "Grp L1: Mon 11:00-14:00 LT15",
+        "Exam: 19 NOV 2022 09:00-11:00"
+      ],
+      "Semester II": [
+        "Bimlesh WADHWA",
+        "Grp L1: Wed 09:00-12:00 LT19",
+        "Exam: 03 MAY 2023 13:00-15:00"
+      ]
+    },
+    {
+      "Module Code": "CS3241",
+      "Module Title": [
+        "Computer Graphics",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "LOW Kok Lim",
+        "Grp L1: Fri 14:00-16:00 LT15",
+        "Exam: 29 NOV 2022 13:00-15:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS3242",
+      "Module Title": [
+        "3D Modeling and Animation",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Alan CHENG Holun",
+        "Grp L1: Fri 14:00-16:00 LT15",
+        "Exam: 02 MAY 2023 13:00-15:00"
+      ]
+    },
+    {
+      "Module Code": "CS3243",
+      "Module Title": [
+        "Introduction to Artificial Intelligence",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Daren LER Shan Wen",
+        "Grp L1: Wed 10:00-12:00 LT19",
+        "Exam: 28 NOV 2022 09:00-11:00"
+      ],
+      "Semester II": [
+        "Daren LER Shan Wen",
+        "Grp L1: Mon 10:00-12:00 LT19",
+        "Exam: 29 APR 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "CS3244",
+      "Module Title": [
+        "Machine Learning",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "KAN Min Yen",
+        "Brian LIM Youliang",
+        "Grp L1: Mon 16:00-18:00 I3-AUD",
+        "Thu 11:00-12:00 I3-AUD",
+        "Exam: 21 NOV 2022 17:00-19:00"
+      ],
+      "Semester II": [
+        "Daren LER Shan Wen",
+        "Anand BHOJAN",
+        "Grp L1: Mon 14:00-15:00 I3-AUD",
+        "Thu 12:00-14:00 I3-AUD",
+        "Exam: 25 APR 2023 17:00-19:00"
+      ]
+    },
+    {
+      "Module Code": "CS3245",
+      "Module Title": [
+        "Information Retrieval",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "ZHAO Jin",
+        "Grp L1: Fri 12:00-14:00 LT15",
+        "Exam: 25 APR 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "CS3247",
+      "Module Title": [
+        "Game Development",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Anand BHOJAN",
+        "Grp L1: Fri 10:00-12:00"
+      ]
+    },
+    {
+      "Module Code": "CS3249",
+      "Module Title": [
+        "User Interface Development",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": []
+    },
+    {
+      "Module Code": "CS3263",
+      "Module Title": [
+        "Artificial Intelligence",
+        "Modular Credits = -"
+      ],
+      "Semester I": [],
+      "Semester II": [
+        "LEONG Tze Yun"
+      ]
+    },
+    {
+      "Module Code": "CS3264",
+      "Module Title": [
+        "Machine Learning",
+        "Modular Credits = -"
+      ],
+      "Semester I": [],
+      "Semester II": [
+        "LOW Kian Hsiang"
+      ]
+    },
+    {
+      "Module Code": "CS3281",
+      "Module Title": [
+        "Thematic Systems Project I",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Damith Chatura RAJAPAKSE",
+        "Grp L1: Mon 12:00-14:00 COM1-0204"
+      ]
+    },
+    {
+      "Module Code": "CS3282",
+      "Module Title": [
+        "Thematic Systems Project II",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Damith Chatura RAJAPAKSE",
+        "Grp L1: Thu 14:00-16:00 COM1-0204"
+      ]
+    },
+    {
+      "Module Code": "CS4211",
+      "Module Title": [
+        "Formal Methods for Software Engineering",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "DONG Jin Song",
+        "Grp L1: Thu 09:00-12:00 LT19"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS4212",
+      "Module Title": [
+        "Compiler Design",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Ilya SERGEY",
+        "Grp L1: Mon 09:00-12:00 COM1-VCRM",
+        "Exam: 21 NOV 2022 17:00-19:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS4215",
+      "Module Title": [
+        "Programming Language Implementation",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Martin HENZ",
+        "Grp L1: Thu 14:00-16:00"
+      ]
+    },
+    {
+      "Module Code": "CS4218",
+      "Module Title": [
+        "Software Testing",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Cristina CARBUNARU",
+        "Grp L1: Mon 16:00-18:00 LT15",
+        "Exam: 28 APR 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "CS4220",
+      "Module Title": [
+        "Knowledge Discovery Methods in Bioinformatics",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Niranjan NAGARAJAN",
+        "Anders Jacobsen SKANDERUP",
+        "Grp L1: Tue 11:00-14:00 COM1-0212",
+        "Exam: 03 MAY 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "CS4221",
+      "Module Title": [
+        "Database Applications Design and Tuning",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Stephane BRESSAN",
+        "Grp L1: Fri 18:30-20:30 LT19"
+      ]
+    },
+    {
+      "Module Code": "CS4222",
+      "Module Title": [
+        "Wireless Networking",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Ambuj VARSHNEY",
+        "Grp L1: Fri 18:30-20:30",
+        "Exam: 24 APR 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "CS4223",
+      "Module Title": [
+        "Multi-core Architectures",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Trevor Erik CARLSON",
+        "Grp L1: Mon 14:00-16:00 COM1-0212",
+        "Exam: 29 NOV 2022 13:00-15:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS4224",
+      "Module Title": [
+        "Distributed Databases",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "CHAN Chee Yong",
+        "Grp L1: Mon 18:30-20:30 I3-AUD",
+        "Exam: 22 NOV 2022 09:00-11:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS4225",
+      "Module Title": [
+        "Big Data Systems for Data Science",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Bryan HOOI Kuen Yew",
+        "Grp L1: Fri 18:30-20:30 I3-AUD"
+      ],
+      "Semester II": [
+        "HE Bingsheng",
+        "Grp L1: Thu 18:30-20:30 I3-AUD",
+        "Grp L2: Thu 14:00-16:00 COM1-0206"
+      ]
+    },
+    {
+      "Module Code": "CS4226",
+      "Module Title": [
+        "Internet Architecture",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Richard MA Tianbai",
+        "Grp L1: Fri 12:00-14:00 LT15",
+        "Exam: 24 NOV 2022 17:00-19:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS4231",
+      "Module Title": [
+        "Parallel and Distributed Algorithms",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "YU Haifeng",
+        "Grp L1: Wed 18:30-20:30",
+        "Exam: 03 MAY 2023 13:00-15:00"
+      ]
+    },
+    {
+      "Module Code": "CS4234",
+      "Module Title": [
+        "Optimisation Algorithms",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Steven HALIM",
+        "Grp L1: Thu 12:00-14:00 LT19",
+        "Exam: 29 NOV 2022 17:00-19:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS4236",
+      "Module Title": [
+        "Cryptography Theory and Practice",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Hugh ANDERSON",
+        "Grp L1: Wed 13:00-15:00 LT19",
+        "Exam: 22 NOV 2022 13:00-15:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS4238",
+      "Module Title": [
+        "Computer Security Practice",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Prasanna Karthik VAIRAM",
+        "Grp L1: Mon 18:30-20:30"
+      ]
+    },
+    {
+      "Module Code": "CS4239",
+      "Module Title": [
+        "Software Security",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Roland YAP Hock Chuan",
+        "Grp L1: Tue 18:30-20:30 COM1-0206",
+        "Exam: 22 NOV 2022 17:00-19:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS4240",
+      "Module Title": [
+        "Interaction Design for Virtual and Augmented Reality",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Anand BHOJAN",
+        "Grp L1: Mon 18:30-20:30"
+      ]
+    },
+    {
+      "Module Code": "CS4242",
+      "Module Title": [
+        "Social Media Computing",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "CHUA Tat Seng",
+        "Grp L1: Mon 18:30-20:30 COM1-0204"
+      ]
+    },
+    {
+      "Module Code": "CS4243",
+      "Module Title": [
+        "Computer Vision and Pattern Recognition",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "MONAJEMI Amirhassan",
+        "Grp L1: Thu 16:00-18:00 COM1-0206",
+        "Exam: 30 NOV 2022 17:00-19:00"
+      ],
+      "Semester II": [
+        "Angela YAO Yingjie",
+        "Grp L1: Tue 14:00-16:00",
+        "Exam: 04 MAY 2023 13:00-15:00"
+      ]
+    },
+    {
+      "Module Code": "CS4244",
+      "Module Title": [
+        "Knowledge Representation and Reasoning",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Kuldeep S. MEEL",
+        "Grp L1: Mon 16:00-18:00 COM1-VCRM",
+        "Exam: 04 MAY 2023 17:00-19:00"
+      ]
+    },
+    {
+      "Module Code": "CS4246",
+      "Module Title": [
+        "AI Planning and Decision Making",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "LEONG Tze Yun",
+        "Grp L1: Thu 14:00-16:00 COM1-0206",
+        "Grp L2: Thu 18:30-20:30 I3-AUD",
+        "Exam: 23 NOV 2022 17:00-19:00"
+      ],
+      "Semester II": [
+        "Akshay NARAYAN",
+        "Grp L1: Wed 18:30-20:30",
+        "Exam: 02 MAY 2023 17:00-19:00"
+      ]
+    },
+    {
+      "Module Code": "CS4247",
+      "Module Title": [
+        "Graphics Rendering Techniques",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "LOW Kok Lim",
+        "Grp L1: Mon 14:00-16:00 COM1-0204",
+        "Fri 16:00-17:00 COM1-0204",
+        "Exam: 02 MAY 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "CS4248",
+      "Module Title": [
+        "Natural Language Processing",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "NG Hwee Tou",
+        "Grp L1: Fri 09:00-12:00 LT15",
+        "Exam: 29 NOV 2022 09:00-10:30"
+      ],
+      "Semester II": [
+        "KAN Min Yen",
+        "Christian Von Der WETH",
+        "Grp L1: Fri 09:00-12:00 LT15",
+        "Grp L2: Mon 18:30-20:30",
+        "Exam: 02 MAY 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "CS4249",
+      "Module Title": [
+        "Phenomena and Theories of Human-Computer Interaction",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Brian LIM Youliang",
+        "Grp L1: Tue 18:30-20:30 LT19"
+      ]
+    },
+    {
+      "Module Code": "CS4261",
+      "Module Title": [
+        "Algorithmic Mechanism Design",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Warut SUKSOMPONG",
+        "Grp L1: Wed 18:30-20:30 I3-AUD",
+        "Exam: 28 NOV 2022 17:00-19:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS4268",
+      "Module Title": [
+        "Quantum Computing",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Rahul JAIN",
+        "Grp L1: Thu 10:00-12:00 COM1-0212",
+        "Exam: 29 APR 2023 13:00-15:00"
+      ]
+    },
+    {
+      "Module Code": "CS4269",
+      "Module Title": [
+        "Fundamentals of Logic in Computer Science",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Umang MATHUR",
+        "Grp L1: Mon 18:30-20:30",
+        "Exam: 25 APR 2023 13:00-15:00"
+      ]
+    },
+    {
+      "Module Code": "CS4277",
+      "Module Title": [
+        "3D Computer Vision",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "LEE Gim Hee",
+        "Grp L1: Wed 18:30-21:30",
+        "Exam: 03 MAY 2023 17:00-19:00"
+      ]
+    },
+    {
+      "Module Code": "CS4278",
+      "Module Title": [
+        "Intelligent Robots: Algorithms and Systems",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [],
+      "Semester II": [
+        "David HSU",
+        "Grp L1: Tue 18:30-20:30"
+      ]
+    },
+    {
+      "Module Code": "CS4330",
+      "Module Title": [
+        "Combinatorial Methods in Bioinformatics",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Ken SUNG Wing Kin",
+        "Grp L1: Thu 14:00-16:00 COM1-0212",
+        "Exam: 27 APR 2023 13:00-15:00"
+      ]
+    },
+    {
+      "Module Code": "CS4347",
+      "Module Title": [
+        "Sound and Music Computing",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "WANG Ye",
+        "Grp L1: Mon 16:00-18:00 LT15"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS4350",
+      "Module Title": [
+        "Game Development Project",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Anand BHOJAN",
+        "Grp E1: Thu 10:00-12:00 E-Learn_C"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS5215",
+      "Module Title": [
+        "Constraint Processing",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Roland YAP Hock Chuan",
+        "Grp L1: Mon 18:30-20:30"
+      ]
+    },
+    {
+      "Module Code": "CS5218",
+      "Module Title": [
+        "Principles and Practice of Program Analysis",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Joxan JAFFAR",
+        "Grp L1: Tue 18:30-20:30"
+      ]
+    },
+    {
+      "Module Code": "CS5219",
+      "Module Title": [
+        "Automated Software Validation",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Abhik ROYCHOUDHURY",
+        "Grp L1: Mon 12:00-14:00 COM1-0212",
+        "Exam: 30 NOV 2022 17:00-19:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS5222",
+      "Module Title": [
+        "Advanced Computer Architecture",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Trevor Erik CARLSON",
+        "Grp L1: Thu 18:30-20:30"
+      ]
+    },
+    {
+      "Module Code": "CS5223",
+      "Module Title": [
+        "Distributed Systems",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "YU Haifeng",
+        "Grp L1: Thu 18:30-20:30 COM1-0204"
+      ],
+      "Semester II": [
+        "LI Jialin",
+        "Grp L1: Thu 18:30-20:30"
+      ]
+    },
+    {
+      "Module Code": "CS5224",
+      "Module Title": [
+        "Cloud Computing",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Dumitrel LOGHIN",
+        "TEO Yong Meng",
+        "Grp L1: Tue 18:30-20:30",
+        "Grp L2: Wed 16:00-18:00"
+      ]
+    },
+    {
+      "Module Code": "CS5228",
+      "Module Title": [
+        "Knowledge Discovery and Data Mining",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Christian Von Der WETH",
+        "Grp L1: Mon 18:30-20:30 COM1-0206"
+      ],
+      "Semester II": [
+        "Bryan HOOI Kuen Yew",
+        "Grp L1: Fri 18:30-20:30"
+      ]
+    },
+    {
+      "Module Code": "CS5229",
+      "Module Title": [
+        "Advanced Computer Networks",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "CHAN Mun Choon",
+        "Grp L1: Mon 18:30-20:30 LT15",
+        "Exam: 24 NOV 2022 09:00-11:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS5230",
+      "Module Title": [
+        "Computational Complexity",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Divesh AGGARWAL",
+        "Grp L1: Mon 18:30-20:30 COM1-VCRM",
+        "Exam: 26 APR 2023 13:00-16:00"
+      ]
+    },
+    {
+      "Module Code": "CS5231",
+      "Module Title": [
+        "Systems Security",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "LIANG Zhenkai",
+        "Grp L1: Fri 18:30-20:30 COM1-0204"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS5232",
+      "Module Title": [
+        "Formal Specification and Design Techniques",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Ilya SERGEY",
+        "Grp L1: Wed 10:00-12:00 COM1-0212"
+      ]
+    },
+    {
+      "Module Code": "CS5233",
+      "Module Title": [
+        "Simulation and Modelling Techniques",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Gary TAN Soon Huat",
+        "Grp L1: Wed 18:30-20:30",
+        "Exam: 24 APR 2023 17:00-19:00"
+      ]
+    },
+    {
+      "Module Code": "CS5234",
+      "Module Title": [
+        "Algorithms at Scale",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Diptarka CHAKRABORTY",
+        "Grp L1: Thu 18:30-20:30 COM1-0212"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS5236",
+      "Module Title": [
+        "Advanced Automata Theory",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Frank Christian STEPHAN",
+        "Grp L1: Tue 18:30-20:30 COM1-VCRM",
+        "Exam: 28 NOV 2022 13:00-15:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS5237",
+      "Module Title": [
+        "Computational Geometry and Applications",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": []
+    },
+    {
+      "Module Code": "CS5238",
+      "Module Title": [
+        "Advanced Combinatorial Methods in Bioinformatics",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Ken SUNG Wing Kin",
+        "Grp L1: Thu 18:30-20:30 LT15",
+        "Exam: 26 NOV 2022 09:00-11:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS5239",
+      "Module Title": [
+        "Computer System Performance Analysis",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Cristina CARBUNARU",
+        "Grp L1: Tue 18:30-20:30 LT15"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS5240",
+      "Module Title": [
+        "Theoretical Foundations in MultiMedia",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "LEOW Wee Kheng",
+        "Grp L1: Tue 18:30-21:30 COM1-0204"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS5242",
+      "Module Title": [
+        "Neural Networks and Deep Learning",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "AI Xin",
+        "YOU Yang",
+        "Grp L1: Tue 15:00-17:00 COM1-0204",
+        "Grp L2: Tue 18:30-20:30 COM1-0212"
+      ],
+      "Semester II": [
+        "YOU Yang",
+        "Grp L1: Mon 18:30-20:30"
+      ]
+    },
+    {
+      "Module Code": "CS5246",
+      "Module Title": [
+        "Text Mining",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Christian Von Der WETH",
+        "Grp L1: Tue 18:30-20:30"
+      ]
+    },
+    {
+      "Module Code": "CS5250",
+      "Module Title": [
+        "Advanced Operating Systems",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "WONG Weng Fai",
+        "Grp L1: Mon 18:30-20:30",
+        "Exam: 25 APR 2023 17:00-19:00"
+      ]
+    },
+    {
+      "Module Code": "CS5260",
+      "Module Title": [
+        "Neural Networks and Deep Learning II",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "MONAJEMI Amirhassan",
+        "Grp L1: Fri 18:30-20:30",
+        "Exam: 03 MAY 2023 17:00-19:00"
+      ]
+    },
+    {
+      "Module Code": "CS5272",
+      "Module Title": [
+        "Embedded Software Design",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": []
+    },
+    {
+      "Module Code": "CS5321",
+      "Module Title": [
+        "Network Security",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Daisuke MASHIMA",
+        "Grp L1: Mon 18:30-20:30"
+      ]
+    },
+    {
+      "Module Code": "CS5322",
+      "Module Title": [
+        "Database Security",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "XIAO Xiaokui",
+        "Grp L1: Wed 18:30-20:30 SR_LT19",
+        "Exam: 30 NOV 2022 09:00-11:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS5330",
+      "Module Title": [
+        "Randomized Algorithms",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "CHANG Yi-Jun",
+        "Grp L1: Wed 18:30-20:30"
+      ]
+    },
+    {
+      "Module Code": "CS5331",
+      "Module Title": [
+        "Web Security",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "LIANG Zhenkai",
+        "Grp L1: Tue 18:30-20:30 SR_LT19"
+      ]
+    },
+    {
+      "Module Code": "CS5332",
+      "Module Title": [
+        "Biometric Authentication",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Terence SIM Mong Cheng",
+        "Grp L1: Wed 18:30-20:30 COM1-0204"
+      ]
+    },
+    {
+      "Module Code": "CS5339",
+      "Module Title": [
+        "Theory and Algorithms for Machine Learning",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Kenji KAWAGUCHI",
+        "Grp L1: Fri 18:30-21:30",
+        "Exam: 24 APR 2023 13:00-15:00"
+      ]
+    },
+    {
+      "Module Code": "CS5340",
+      "Module Title": [
+        "Uncertainty Modelling in AI",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "LEE Gim Hee",
+        "Grp L1: Wed 14:00-16:00 COM1-0212",
+        "Grp L2: Wed 18:30-20:30 COM1-0212",
+        "Exam: 21 NOV 2022 17:00-19:00"
+      ],
+      "Semester II": [
+        "Harold SOH Soon Hong",
+        "Grp L1: Thu 18:30-20:30"
+      ]
+    },
+    {
+      "Module Code": "CS5344",
+      "Module Title": [
+        "Big-Data Analytics Technology",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Anthony TUNG Kum Hoe",
+        "Grp L1: Fri 18:30-20:30 COM1-0206"
+      ],
+      "Semester II": [
+        "LEE Mong Li",
+        "Grp L1: Tue 18:30-20:30"
+      ]
+    },
+    {
+      "Module Code": "CS5346",
+      "Module Title": [
+        "Information Visualisation",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Bimlesh WADHWA",
+        "Grp L1: Thu 18:30-20:30"
+      ]
+    },
+    {
+      "Module Code": "CS5421",
+      "Module Title": [
+        "Database Applications Design and Tuning",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Stephane BRESSAN",
+        "Grp L1: Fri 18:30-20:30 LT19"
+      ]
+    },
+    {
+      "Module Code": "CS5422",
+      "Module Title": [
+        "Wireless Networking",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Ambuj VARSHNEY",
+        "Grp L1: Fri 18:30-20:30",
+        "Exam: 24 APR 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "CS5424",
+      "Module Title": [
+        "Distributed Databases",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "CHAN Chee Yong",
+        "Grp L1: Mon 18:30-20:30 I3-AUD",
+        "Exam: 22 NOV 2022 09:00-11:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS5425",
+      "Module Title": [
+        "Big Data Systems for Data Science",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Bryan HOOI Kuen Yew",
+        "Grp L1: Fri 18:30-20:30 I3-AUD"
+      ],
+      "Semester II": [
+        "HE Bingsheng",
+        "AI Xin",
+        "Grp L1: Thu 18:30-20:30 I3-AUD",
+        "Grp L2: Thu 14:00-16:00 COM1-0206"
+      ]
+    },
+    {
+      "Module Code": "CS5439",
+      "Module Title": [
+        "Software Security",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Roland YAP Hock Chuan",
+        "Grp L1: Tue 18:30-20:30 COM1-0206",
+        "Exam: 22 NOV 2022 17:00-19:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS5446",
+      "Module Title": [
+        "AI Planning and Decision Making",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "LEONG Tze Yun",
+        "Akshay NARAYAN",
+        "Grp L1: Thu 14:00-16:00 COM1-0206",
+        "Grp L2: Thu 18:30-20:30 I3-AUD",
+        "Exam: 23 NOV 2022 17:00-19:00"
+      ],
+      "Semester II": [
+        "Akshay NARAYAN",
+        "Grp L1: Wed 18:30-20:30",
+        "Exam: 02 MAY 2023 17:00-19:00"
+      ]
+    },
+    {
+      "Module Code": "CS5461",
+      "Module Title": [
+        "Algorithmic Mechanism Design",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Warut SUKSOMPONG",
+        "Grp L1: Wed 18:30-20:30 I3-AUD",
+        "Exam: 28 NOV 2022 17:00-19:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS5469",
+      "Module Title": [
+        "Fundamentals of Logic in Computer Science",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Umang MATHUR",
+        "Grp L1: Mon 18:30-20:30",
+        "Exam: 25 APR 2023 13:00-15:00"
+      ]
+    },
+    {
+      "Module Code": "CS5477",
+      "Module Title": [
+        "3D Computer Vision",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "LEE Gim Hee",
+        "Grp L1: Wed 18:30-21:30",
+        "Exam: 03 MAY 2023 17:00-19:00"
+      ]
+    },
+    {
+      "Module Code": "CS5478",
+      "Module Title": [
+        "Intelligent Robots: Algorithms and Systems",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [],
+      "Semester II": [
+        "David HSU",
+        "Grp L1: Tue 18:30-20:30"
+      ]
+    },
+    {
+      "Module Code": "CS5562",
+      "Module Title": [
+        "Trustworthy Machine Learning",
+        "(Module will only be offered from Round 1 onwards)",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Reza SHOKRI",
+        "Grp L1: Fri 16:00-18:00 COM1-0204"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS6101",
+      "Module Title": [
+        "Exploration of Computer Science Research",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Grp E1:  -"
+      ],
+      "Semester II": [
+        "Grp E1:  -"
+      ]
+    },
+    {
+      "Module Code": "CS6203",
+      "Module Title": [
+        "Advanced Topics in Database Systems",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "OOI Beng Chin",
+        "Grp L1: Wed 10:00-12:00 SR_LT19"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS6204",
+      "Module Title": [
+        "Advanced Topics in Networking",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS6206",
+      "Module Title": [
+        "Advanced Topics in Human-Computer Interaction",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "ZHAO Shengdong",
+        "Grp L1: Wed 11:00-13:00 COM1-VCRM"
+      ]
+    },
+    {
+      "Module Code": "CS6207",
+      "Module Title": [
+        "Advanced Natural Language Processing",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [],
+      "Semester II": [
+        "NG Hwee Tou",
+        "Grp L1: Mon 10:00-12:00 COM1-VCRM"
+      ]
+    },
+    {
+      "Module Code": "CS6208",
+      "Module Title": [
+        "Advanced Topics in Artificial Intelligence",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Xavier Roger Gilbert BRESSON",
+        "Grp L1: Tue 14:00-16:00 COM1-VCRM"
+      ]
+    },
+    {
+      "Module Code": "CS6210",
+      "Module Title": [
+        "The Art of Computer Science Research",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": []
+    },
+    {
+      "Module Code": "CS6211",
+      "Module Title": [
+        "Analytical Performance Modelling for Computer Systems",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS6213",
+      "Module Title": [
+        "Special Topics in Distributed Computing",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS6215",
+      "Module Title": [
+        "Advanced Topics in Program Analysis",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Joxan JAFFAR",
+        "Grp L1: Thu 14:00-16:00 COM1-VCRM"
+      ]
+    },
+    {
+      "Module Code": "CS6216",
+      "Module Title": [
+        "Advanced Topics in Machine Learning",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Kenji KAWAGUCHI",
+        "Grp L1: Fri 14:00-16:00 COM1-VCRM"
+      ],
+      "Semester II": []
+    },
+    {
+      "Module Code": "CS6217",
+      "Module Title": [
+        "Topics in Prog. Languages & Software Engineering",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Umang MATHUR",
+        "Grp L1: Thu 10:00-12:00 COM1-VCRM"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS6218",
+      "Module Title": [
+        "Principles of Prog. Languages & Software Engineering",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Manuel RIGGER",
+        "Grp L1: Tue 16:00-18:00 SR_LT19",
+        "Exam: 19 NOV 2022 13:00-15:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS6219",
+      "Module Title": [
+        "Advanced Topics in Computer Systems",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Djordje JEVDJIC",
+        "Grp L1: Mon 16:00-18:00 SR_LT19"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS6220",
+      "Module Title": [
+        "Advanced Topics in Data Mining",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Wynne HSU",
+        "Grp L1: Thu 10:00-12:00 COM1-VCRM"
+      ]
+    },
+    {
+      "Module Code": "CS6222",
+      "Module Title": [
+        "Advanced Topics in Computational Biology",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "WONG Lim Soon",
+        "Grp L1: Mon 14:00-16:00 SR_LT19"
+      ],
+      "Semester II": []
+    },
+    {
+      "Module Code": "CS6231",
+      "Module Title": [
+        "Advanced Topics in Security and Privacy",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Prateek SAXENA",
+        "Grp L1: Tue 10:00-12:00 COM1-VCRM"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS6234",
+      "Module Title": [
+        "Advanced Algorithms",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "CHANG Yi-Jun",
+        "Grp L1: Tue 14:00-16:00 SR_LT19"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS6235",
+      "Module Title": [
+        "Advanced Topics in Theoretical Computer Science",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Warut SUKSOMPONG",
+        "Grp L1: Wed 14:00-16:00 COM1-VCRM"
+      ]
+    },
+    {
+      "Module Code": "CS6240",
+      "Module Title": [
+        "Multimedia Analysis",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "CHUA Tat Seng",
+        "Grp L1: Tue 10:00-12:00 COM1-VCRM"
+      ]
+    },
+    {
+      "Module Code": "CS6241",
+      "Module Title": [
+        "Advanced Topics in Computer Graphics",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "CS6244",
+      "Module Title": [
+        "Advanced Topics in Robotics",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [],
+      "Semester II": [
+        "Angela YAO Yingjie",
+        "Grp L1: Fri 10:00-12:00 COM1-VCRM"
+      ]
+    },
+    {
+      "Module Code": "CS6880",
+      "Module Title": [
+        "Advanced Topics in Software Engineering",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": []
+    },
+    {
+      "Module Code": "GEI1000",
+      "Module Title": [
+        "Computational Thinking",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "LEOW Wee Kheng",
+        "LEONG Hon Wai",
+        "Grp L1:  -"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "GET1031",
+      "Module Title": [
+        "Computational Thinking",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "LEOW Wee Kheng",
+        "LEONG Hon Wai",
+        "Grp L1:  -"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "IFS4101",
+      "Module Title": [
+        "Legal Aspects of Information Security",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Welly TANTONO",
+        "Grp L1: Tue 18:30-21:30",
+        "Exam: 27 APR 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "IFS4102",
+      "Module Title": [
+        "Digital Forensics",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Sufatrio",
+        "Grp L1: Fri 12:00-14:00 COM1-0212"
+      ]
+    },
+    {
+      "Module Code": "IFS4103",
+      "Module Title": [
+        "Penetration Testing Practice",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Sufatrio",
+        "Grp L1: Thu 14:00-16:00 SR_LT19"
+      ],
+      "Semester II": [
+        "Roland YAP Hock Chuan",
+        "Grp L1: Fri 14:00-16:00 COM1-VCRM"
+      ]
+    },
+    {
+      "Module Code": "IFS4205",
+      "Module Title": [
+        "Information Security Capstone Project.",
+        "Modular Credits = 8"
+      ],
+      "Semester I": [
+        "Hugh ANDERSON",
+        "Grp L1: Mon 12:00-14:00 SR_LT19"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "IS1108",
+      "Module Title": [
+        "Digital Ethics and Data Privacy",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "LEE Boon Kee",
+        "Grp L1: Thu 09:00-11:00 I3-AUD",
+        "Grp L2: Thu 09:00-11:00 I3-AUD",
+        "Grp L3: Thu 09:00-11:00 I3-AUD"
+      ],
+      "Semester II": [
+        "LEE Boon Kee",
+        "Grp L1: Fri 12:00-14:00 I3-AUD"
+      ]
+    },
+    {
+      "Module Code": "IS1128",
+      "Module Title": [
+        "IT, Management and Organisation",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "YANG Lu",
+        "Grp L1: Thu 10:00-12:00 LT15"
+      ],
+      "Semester II": [
+        "YANG Lu"
+      ]
+    },
+    {
+      "Module Code": "IS2101",
+      "Module Title": [
+        "Business and Technical Communication",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "External teaching staff",
+        "Grp SG01: Mon 09:00-12:00 AS6-0211",
+        "Grp SG02: Mon 12:00-15:00 AS6-0211",
+        "Grp SG03: Mon 15:00-18:00 AS6-0211",
+        "Grp SG04: Tue 09:00-12:00 AS6-0211",
+        "Grp SG05: Tue 12:00-15:00 AS6-0211",
+        "Grp SG06: Tue 09:00-12:00 AS6-0210",
+        "Grp SG07: Wed 09:00-12:00 AS6-0211",
+        "Grp SG08: Wed 09:00-12:00 AS6-0208",
+        "Grp SG09: Wed 12:00-15:00 AS6-0211",
+        "Grp SG10: Thu 09:00-12:00 AS6-0211",
+        "Grp SG11: Thu 15:00-18:00 AS6-0211"
+      ],
+      "Semester II": [
+        "External teaching staff",
+        "Grp SG01: Mon 12:00-15:00 E-Learn_A",
+        "Grp SG02: Mon 15:00-18:00 E-Learn_A",
+        "Grp SG03: Tue 09:00-12:00 E-Learn_A",
+        "Grp SG04: Tue 15:00-18:00 E-Learn_A",
+        "Grp SG05: Wed 12:00-15:00 E-Learn_A",
+        "Grp SG06: Wed 15:00-18:00 E-Learn_A",
+        "Grp SG07: Thu 09:00-12:00 E-Learn_A",
+        "Grp SG08: Thu 12:00-15:00 E-Learn_A",
+        "Grp SG09: Fri 09:00-12:00 E-Learn_A",
+        "Grp SG10: Fri 12:00-15:00 E-Learn_A"
+      ]
+    },
+    {
+      "Module Code": "IS2102",
+      "Module Title": [
+        "Enterprise Systems Architecture and Design",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "LEK Hsiang Hui",
+        "Grp L1: Thu 16:00-18:00 COM1-0212"
+      ],
+      "Semester II": [
+        "LEK Hsiang Hui",
+        "Grp L1: Wed 14:00-16:00 COM1-0212"
+      ]
+    },
+    {
+      "Module Code": "IS2103",
+      "Module Title": [
+        "Enterprise Systems Server-side Design and Development",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "TAN Wee Kek",
+        "Grp L1: Tue 10:00-12:00 LT15",
+        "Exam: 25 NOV 2022 14:30-16:30"
+      ],
+      "Semester II": [
+        "TAN Wee Kek",
+        "Grp L1: Thu 10:00-12:00 LT19",
+        "Exam: 25 APR 2023 17:00-19:00"
+      ]
+    },
+    {
+      "Module Code": "IS2218",
+      "Module Title": [
+        "Digital Platforms for Business",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Vivek Sundar MAGESH",
+        "Grp L1: Mon 09:00-11:00 LT15"
+      ],
+      "Semester II": [
+        "Vivek Sundar MAGESH"
+      ]
+    },
+    {
+      "Module Code": "IS2238",
+      "Module Title": [
+        "Economics of IT and AI",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Nakyung KYUNG",
+        "Grp L1: Mon 14:00-16:00 LT15",
+        "Exam: 30 NOV 2022 09:00-11:00"
+      ],
+      "Semester II": [
+        "WANG Qiuhong",
+        "Exam: 02 MAY 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "IS3103",
+      "Module Title": [
+        "Information Systems Leadership and Communication",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "OH Lih Bin",
+        "Grp L1: Wed 18:30-20:30 LT19"
+      ],
+      "Semester II": [
+        "OH Lih Bin",
+        "Grp L1: Wed 18:30-20:30 LT19"
+      ]
+    },
+    {
+      "Module Code": "IS3106",
+      "Module Title": [
+        "Enterprise Systems Interface Design and Development",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "LEK Hsiang Hui",
+        "Grp L1: Mon 16:00-18:00 LT19",
+        "Exam: 29 NOV 2022 17:00-19:00"
+      ],
+      "Semester II": [
+        "Praneeth Shalinda Adikari A. A.",
+        "Grp L1: Tue 14:00-16:00 LT19",
+        "Exam: 03 MAY 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "IS3107",
+      "Module Title": [
+        "Data Engineering",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Frank XING Zhutian",
+        "Grp L1: Fri 12:00-14:00 LT19"
+      ],
+      "Semester II": [
+        "ZHAO Yiliang",
+        "Grp L1: Fri 18:30-20:30 LT19"
+      ]
+    },
+    {
+      "Module Code": "IS3150",
+      "Module Title": [
+        "Digital Media Marketing",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "LAI Kok Fung",
+        "Grp L1: Fri 14:00-16:00 COM1-0204"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "IS3221",
+      "Module Title": [
+        "ERP Systems with Analytics Solutions",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Kisenchand Nathumal RANAI",
+        "Grp L1: Thu 12:00-15:00 COM1-0204",
+        "Exam: 29 NOV 2022 13:00-15:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "IS3240",
+      "Module Title": [
+        "Digital Platform Strategy and Architecture",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Anand Mohan RAMCHAND",
+        "Grp L1: Fri 12:00-14:00",
+        "Exam: 04 MAY 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "IS3251",
+      "Module Title": [
+        "Principles of Technology Entrepreneurship",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Suranga Chandima NANAYAKKARA",
+        "Grp L1: Wed 14:00-16:00 COM1-0210"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "IS4100",
+      "Module Title": [
+        "IT Project Management",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Sharon TAN Swee Lin",
+        "Grp L1: Thu 10:00-12:00 COM1-0204"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "IS4103",
+      "Module Title": [
+        "Information Systems Capstone Project",
+        "Modular Credits = 8"
+      ],
+      "Semester I": [
+        "TAN Wee Kek",
+        "Grp L1: Mon 12:00-14:00 COM1-0204"
+      ],
+      "Semester II": [
+        "LEK Hsiang Hui",
+        "Grp L1: Mon 12:00-14:00"
+      ]
+    },
+    {
+      "Module Code": "IS4151",
+      "Module Title": [
+        "Pervasive Technology Solutions and Development",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "TAN Wee Kek",
+        "Grp L1: Fri 10:00-12:00"
+      ]
+    },
+    {
+      "Module Code": "IS4204",
+      "Module Title": [
+        "IT Governance",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Anand Mohan RAMCHAND",
+        "Grp L1: Tue 12:00-14:00 COM1-0204",
+        "Exam: 29 NOV 2022 09:00-11:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "IS4226",
+      "Module Title": [
+        "Systematic Trading Strategies and Systems",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Shashank Shekhar TRIPATHI",
+        "Grp L1: Thu 15:00-18:00 COM1-0204"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "IS4228",
+      "Module Title": [
+        "Information Technologies in Financial Services",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "LI Xiaofan",
+        "Grp L1: Tue 18:30-21:30 LT19"
+      ],
+      "Semester II": [
+        "External teaching staff",
+        "Grp L1: Tue 18:30-21:30"
+      ]
+    },
+    {
+      "Module Code": "IS4231",
+      "Module Title": [
+        "Information Security Management",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "YANG Lu",
+        "Grp L1: Wed 12:00-14:00",
+        "Exam: 02 MAY 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "IS4233",
+      "Module Title": [
+        "Legal Aspects of Information Technology",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "WANG Qiuhong",
+        "Grp L1: Mon 18:30-21:30 LT19",
+        "Exam: 24 NOV 2022 13:00-15:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "IS4234",
+      "Module Title": [
+        "Compliance and Regulation Technology",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Atreyi KANKANHALLI",
+        "Grp L1: Tue 09:00-12:00 COM1-0204"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "IS4238",
+      "Module Title": [
+        "Strategic Cybersecurity",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "WANG Qiuhong",
+        "Exam: 04 MAY 2023 17:00-19:00"
+      ]
+    },
+    {
+      "Module Code": "IS4241",
+      "Module Title": [
+        "Social Media Network Analysis",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "HENG Cheng Suang",
+        "Grp L1: Wed 08:00-10:00",
+        "Exam: 03 MAY 2023 13:00-15:00"
+      ]
+    },
+    {
+      "Module Code": "IS4242",
+      "Module Title": [
+        "Intelligent Systems and Techniques",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "External teaching staff",
+        "Grp L1: Thu 14:00-16:00",
+        "Exam: 03 MAY 2023 09:00-11:00"
+      ]
+    },
+    {
+      "Module Code": "IS4243",
+      "Module Title": [
+        "Information Systems Consulting",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "TEO Hock Hai",
+        "Grp L1: Mon 09:00-12:00"
+      ]
+    },
+    {
+      "Module Code": "IS4246",
+      "Module Title": [
+        "Smart Systems and AI Governance",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "HAHN Jungpil",
+        "Grp L1: Tue 12:00-14:00",
+        "Exam: 28 APR 2023 14:30-16:30"
+      ]
+    },
+    {
+      "Module Code": "IS4248",
+      "Module Title": [
+        "Digital Business and the Metaverse",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "LU Weiquan",
+        "Grp L1: Tue 09:00-12:00"
+      ]
+    },
+    {
+      "Module Code": "IS4250",
+      "Module Title": [
+        "IT-enabled Healthcare Solutioning",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "LIM Shi Ying"
+      ]
+    },
+    {
+      "Module Code": "IS4261",
+      "Module Title": [
+        "Designing IT-enabled Business Innovations",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "LU Weiquan",
+        "Grp L1: Wed 09:00-12:00 COM1-0204"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "IS4262",
+      "Module Title": [
+        "Digital Product Management",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "LEE Boon Kee",
+        "Grp L1: Mon 14:00-16:00",
+        "Exam: 26 APR 2023 17:00-19:00"
+      ]
+    },
+    {
+      "Module Code": "IS4301",
+      "Module Title": [
+        "Agile IT with DevOps",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "FOONG Sew Bun",
+        "Grp L1: Fri 08:00-10:00 COM1-0206"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "IS4302",
+      "Module Title": [
+        "Blockchain and Distributed Ledger Technologies",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "LI Xiaofan",
+        "Grp L1: Fri 14:00-16:00"
+      ]
+    },
+    {
+      "Module Code": "IS4303",
+      "Module Title": [
+        "IT-mediated financial solutions and platforms",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "JIN Chen",
+        "Grp L1: Thu 18:30-20:30"
+      ]
+    },
+    {
+      "Module Code": "IS5002",
+      "Module Title": [
+        "Digital Transformation",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "TAN Chuan Hoo",
+        "Grp L1: Fri 18:30-20:30"
+      ]
+    },
+    {
+      "Module Code": "IS5003",
+      "Module Title": [
+        "Platform Design and Economy",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Varun KARAMSHETTY",
+        "Grp L1: Wed 18:30-20:30",
+        "Exam: 24 APR 2023 13:00-15:00"
+      ]
+    },
+    {
+      "Module Code": "IS5004",
+      "Module Title": [
+        "Enterprise Architecture",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "KWONG Yuk Wah",
+        "Grp L1: Thu 18:30-20:30"
+      ]
+    },
+    {
+      "Module Code": "IS5005",
+      "Module Title": [
+        "Digital Engagement",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "HENG Cheng Suang",
+        "Grp L1: Wed 18:30-20:30 COM1-0206",
+        "Exam: 19 NOV 2022 13:00-15:00"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "IS5007",
+      "Module Title": [
+        "Strategising for Global IT-enabled Business Success",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "TEO Tat Khai",
+        "Grp L1: Thu 18:30-20:30 COM1-VCRM"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "IS5008",
+      "Module Title": [
+        "Technology Risk & Cyber Resilience",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Vincent LOY JITCHEN",
+        "Grp L1: Tue 18:30-20:30"
+      ]
+    },
+    {
+      "Module Code": "IS5116",
+      "Module Title": [
+        "Digital Entrepreneurship",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Francis YEOH",
+        "Grp L1: Fri 18:30-20:30 COM1-0212"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "IS5117",
+      "Module Title": [
+        "Digital Government",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Alex SIOW Yuen Khong",
+        "Grp L1: Mon 18:30-20:30"
+      ]
+    },
+    {
+      "Module Code": "IS5126",
+      "Module Title": [
+        "Hands-on with Applied Analytics",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "HUANG Ke-Wei",
+        "Grp L1: Tue 18:30-20:30 I3-AUD"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "IS5128",
+      "Module Title": [
+        "Digital Innovation",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "OH Lih Bin",
+        "Grp L1: Tue 18:30-20:30 SR_LT19"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "IS5151",
+      "Module Title": [
+        "Information Security Policy and Management",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Atreyi KANKANHALLI",
+        "Grp L1: Tue 18:30-20:30"
+      ]
+    },
+    {
+      "Module Code": "IS5152",
+      "Module Title": [
+        "Data-Driven Decision Making",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Rudy SETIONO",
+        "Grp L1: Wed 18:30-20:30"
+      ]
+    },
+    {
+      "Module Code": "IS5451",
+      "Module Title": [
+        "Pervasive Technology Solutions and Development",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "TAN Wee Kek",
+        "Grp L1: Fri 10:00-12:00"
+      ]
+    },
+    {
+      "Module Code": "IS6000",
+      "Module Title": [
+        "Topics in Information Systems and Analytics Research",
+        "Modular Credits = 0"
+      ],
+      "Semester I": [
+        "LIM Shi Ying",
+        "Grp L1: Fri 14:00-17:00 COM1-0210",
+        "-"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "IS6001",
+      "Module Title": [
+        "Qualitative Methods for IS Research",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "LIM Shi Ying",
+        "Grp L1: Fri 15:00-18:00 I3-0344"
+      ]
+    },
+    {
+      "Module Code": "IS6002",
+      "Module Title": [
+        "Quantitative Methods for IS Research",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "TAN Chuan Hoo",
+        "Grp L1: Mon 09:00-12:00 I3-0344"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "IS6004",
+      "Module Title": [
+        "Econometrics for IS Research",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "GOH Khim Yong",
+        "Grp L1: Wed 18:30-21:30 I3-0344",
+        "Exam: 27 APR 2023 17:00-19:00"
+      ]
+    },
+    {
+      "Module Code": "IS6101",
+      "Module Title": [
+        "Topics in Machine Learning and Optimization",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Vaibhav RAJAN",
+        "Grp L1: Fri 09:00-12:00 I3-0344"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "IS6102",
+      "Module Title": [
+        "TOPICS IN INFORMATION SYSTEMS II",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "External teaching staff",
+        "Grp L1: Thu 18:30-21:30 I3-0344"
+      ]
+    },
+    {
+      "Module Code": "IT1244",
+      "Module Title": [
+        "Artificial Intelligence: Technology and Impact",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "NATARAJAN Prabhu",
+        "Grp L1: Mon 10:00-12:00 E-Learn_C",
+        "Exam: 21 NOV 2022 17:00-19:00"
+      ],
+      "Semester II": [
+        "NATARAJAN Prabhu",
+        "Grp L1: Fri 10:00-12:00 E-Learn_C",
+        "Exam: 26 APR 2023 13:00-15:00"
+      ]
+    },
+    {
+      "Module Code": "IT2002",
+      "Module Title": [
+        "Database Technology and Management",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Stephane BRESSAN",
+        "Grp L1: Tue 12:00-14:00 LT15"
+      ]
+    },
+    {
+      "Module Code": "IT2900",
+      "Module Title": [
+        "Technical Management and Leadership",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Ben LEONG Wing Lup",
+        "Grp L1: Wed 18:30-20:30 COM1-VCRM"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Module Code": "IT3010",
+      "Module Title": [
+        "Data Management for Business Analytics",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "Anand Mohan RAMCHAND",
+        "Grp L1: Wed 12:00-14:00 COM1-0206",
+        "Exam: 28 NOV 2022 13:00-15:00"
+      ],
+      "Semester II": [
+        "Anand Mohan RAMCHAND",
+        "Grp L1: Wed 12:00-14:00 I3-AUD",
+        "Exam: 03 MAY 2023 09:00-11:00"
+      ]
+    }
+  ]
+}
