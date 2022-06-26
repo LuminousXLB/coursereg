@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "1 Aug - 3 Dec 2022",
     "Semester II": "9 Jan - 6 May 2023",
-    "last_modified": "2022-06-19T23:00:13"
+    "last_modified": "2022-06-26T23:00:12"
   },
   "schedule": [
     {
@@ -309,7 +309,7 @@
       ],
       "Semester I": [
         "LU Weiquan",
-        "Grp L1: Mon 15:00-18:00 COM1-0206"
+        "Grp L1: Mon 09:00-12:00 COM1-0206"
       ],
       "Semester II": [
         "LU Weiquan",
@@ -1143,11 +1143,13 @@
       ],
       "Semester I": [
         "Ben LEONG Wing Lup",
+        "Muhammad Rizki Aulia Rahman Maulana",
         "Grp L1: Fri 10:00-12:00 I3-AUD",
         "Exam: 25 NOV 2022 14:30-16:30"
       ],
       "Semester II": [
         "Ben LEONG Wing Lup",
+        "Muhammad Rizki Aulia Rahman Maulana",
         "Grp L1: Tue 16:00-18:00 I3-AUD",
         "Exam: 25 APR 2023 17:00-19:00"
       ]
@@ -1230,6 +1232,7 @@
         "Modular Credits = 4"
       ],
       "Semester I": [
+        "OOI Beng Chin",
         "Bimlesh WADHWA",
         "Grp L1: Mon 09:00-11:00 SR_LT19",
         "Exam: 29 NOV 2022 17:00-19:00"
@@ -1499,13 +1502,11 @@
       ],
       "Semester I": [
         "ZHAO Shengdong",
-        "Grp L1: Mon 11:00-14:00 LT15",
-        "Exam: 19 NOV 2022 09:00-11:00"
+        "Grp L1: Mon 11:00-14:00 LT15"
       ],
       "Semester II": [
         "Bimlesh WADHWA",
-        "Grp L1: Wed 09:00-12:00 LT19",
-        "Exam: 03 MAY 2023 13:00-15:00"
+        "Grp L1: Wed 09:00-12:00 LT19"
       ]
     },
     {
@@ -1973,8 +1974,7 @@
       "Semester I": [
         "LEONG Tze Yun",
         "Grp L1: Thu 14:00-16:00 COM1-0206",
-        "Grp L2: Thu 18:30-20:30 I3-AUD",
-        "Exam: 23 NOV 2022 17:00-19:00"
+        "Grp L2: Thu 18:30-20:30 I3-AUD"
       ],
       "Semester II": [
         "Akshay NARAYAN",
@@ -2211,7 +2211,7 @@
       ],
       "Semester I": [
         "YU Haifeng",
-        "Grp L1: Thu 18:30-20:30 COM1-0204"
+        "Grp L1: Thu 18:30-20:30 COM1-0206"
       ],
       "Semester II": [
         "LI Jialin",
@@ -2370,7 +2370,7 @@
       ],
       "Semester I": [
         "Ken SUNG Wing Kin",
-        "Grp L1: Thu 18:30-20:30 LT15",
+        "Grp L1: Thu 18:30-20:30 COM1-0204",
         "Exam: 26 NOV 2022 09:00-11:00"
       ],
       "Semester II": [
@@ -2412,8 +2412,8 @@
         "Modular Credits = 4"
       ],
       "Semester I": [
-        "AI Xin",
         "YOU Yang",
+        "AI Xin",
         "Grp L1: Tue 15:00-17:00 COM1-0204",
         "Grp L2: Tue 18:30-20:30 COM1-0212"
       ],
@@ -2695,8 +2695,7 @@
         "LEONG Tze Yun",
         "Akshay NARAYAN",
         "Grp L1: Thu 14:00-16:00 COM1-0206",
-        "Grp L2: Thu 18:30-20:30 I3-AUD",
-        "Exam: 23 NOV 2022 17:00-19:00"
+        "Grp L2: Thu 18:30-20:30 I3-AUD"
       ],
       "Semester II": [
         "Akshay NARAYAN",
@@ -3233,7 +3232,7 @@
       ],
       "Semester I": [
         "LEK Hsiang Hui",
-        "Grp L1: Thu 16:00-18:00 COM1-0212"
+        "Grp L1: Thu 15:00-17:00 I3-AUD"
       ],
       "Semester II": [
         "LEK Hsiang Hui",
@@ -3620,7 +3619,8 @@
         "-"
       ],
       "Semester II": [
-        "LIM Shi Ying"
+        "LIM Shi Ying",
+        "Grp L1: Mon 09:00-12:00 COM1-0204"
       ]
     },
     {
@@ -3972,11 +3972,13 @@
       ],
       "Semester I": [
         "NATARAJAN Prabhu",
+        "Muhammad Rizki Aulia Rahman Maulana",
         "Grp L1: Mon 10:00-12:00 E-Learn_C",
         "Exam: 21 NOV 2022 17:00-19:00"
       ],
       "Semester II": [
         "NATARAJAN Prabhu",
+        "Muhammad Rizki Aulia Rahman Maulana",
         "Grp L1: Fri 10:00-12:00 E-Learn_C",
         "Exam: 26 APR 2023 13:00-15:00"
       ]
