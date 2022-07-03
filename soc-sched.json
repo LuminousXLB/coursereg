@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "1 Aug - 3 Dec 2022",
     "Semester II": "9 Jan - 6 May 2023",
-    "last_modified": "2022-06-26T23:00:12"
+    "last_modified": "2022-07-03T23:00:12"
   },
   "schedule": [
     {
@@ -159,7 +159,7 @@
       ],
       "Semester I": [
         "Stanley KOK",
-        "Grp L1: Fri 12:00-14:00 COM1-0204",
+        "Grp L1: Fri 12:00-14:00 COM1-0206",
         "Exam: 28 NOV 2022 09:00-11:00"
       ],
       "Semester II": [
@@ -515,7 +515,7 @@
       "Semester II": [
         "ZHOU Lifeng",
         "TAN Sun Teck",
-        "PRABAWA Adi Yoga Sidi",
+        "Adi Yoga Sidi PRABAWA",
         "Grp S1: Tue 16:00-18:00",
         "Grp S2: Mon 14:00-16:00",
         "Exam: 28 APR 2023 14:30-16:30"
@@ -629,7 +629,7 @@
       ],
       "Semester II": [
         "Aaron TAN Tuck Choy",
-        "SIRIGINA Rajendra Prasad",
+        "Rajendra Prasad SIRIGINA",
         "Grp L1: Wed 09:00-10:00 LT15",
         "Thu 12:00-14:00 LT15",
         "Exam: 25 APR 2023 09:00-11:00"
@@ -659,14 +659,14 @@
         "Modular Credits = 4"
       ],
       "Semester I": [
-        "PRABAWA Adi Yoga Sidi",
+        "Adi Yoga Sidi PRABAWA",
         "Grp L1: Mon 12:00-14:00 COM1-0206",
         "Exam: 30 NOV 2022 13:00-15:00"
       ],
       "Semester II": [
         "OOI Wei Tsang",
         "Ronald Boyd ANDERSON",
-        "PRABAWA Adi Yoga Sidi",
+        "Adi Yoga Sidi PRABAWA",
         "Grp L1: Mon 12:00-14:00 I3-AUD",
         "Exam: 27 APR 2023 09:00-11:00"
       ]
@@ -741,7 +741,7 @@
       ],
       "Semester I": [
         "Colin TAN Keng Yan",
-        "NATARAJAN Prabhu",
+        "Prabhu NATARAJAN",
         "Ravi SUPPIAH",
         "Grp L1: Tue 16:00-18:00 E-Learn_C",
         "Exam: 26 NOV 2022 09:00-11:00"
@@ -859,7 +859,7 @@
         "Modular Credits = 4"
       ],
       "Semester I": [
-        "PRABAWA Adi Yoga Sidi",
+        "Adi Yoga Sidi PRABAWA",
         "Christian Von Der WETH",
         "Grp L1: Tue 12:00-14:00 E-Hybrid_C",
         "Grp L1V: Tue 12:00-14:00 I3-AUD",
@@ -1088,7 +1088,7 @@
       ],
       "Semester II": [
         "Djordje JEVDJIC",
-        "NATARAJAN Prabhu",
+        "Prabhu NATARAJAN",
         "Nitya LAKSHMANAN",
         "Grp L1: Wed 10:00-12:00 I3-AUD",
         "Exam: 02 MAY 2023 17:00-19:00"
@@ -1274,7 +1274,7 @@
         "Ganesh NEELAKANTA IYER",
         "ZHAO Jin",
         "Sanka RASNAYAKA",
-        "External",
+        "Michael D. ADAMS",
         "Grp L1: Tue 10:00-12:00 I3-AUD",
         "Tue 14:00-16:00 I3-AUD",
         "Grp L2: Tue 10:00-12:00",
@@ -1289,7 +1289,7 @@
       ],
       "Semester I": [
         "Cristina CARBUNARU",
-        "Grp L1: Mon 14:00-16:00 COM1-0204",
+        "Grp L1: Mon 14:00-16:00 COM1-0206",
         "Exam: 23 NOV 2022 17:00-19:00"
       ],
       "Semester II": [
@@ -1365,6 +1365,7 @@
         "Bimlesh WADHWA",
         "Akshay NARAYAN",
         "Grp L1: Thu 14:00-16:00 LT15",
+        "Grp L2: Thu 14:00-16:00 E-Hybrid_C",
         "Exam: 28 NOV 2022 09:00-10:30"
       ],
       "Semester II": [
@@ -1517,7 +1518,7 @@
       ],
       "Semester I": [
         "LOW Kok Lim",
-        "Grp L1: Fri 14:00-16:00 LT15",
+        "Grp L1: Fri 14:00-16:00 LT19",
         "Exam: 29 NOV 2022 13:00-15:00"
       ],
       "Semester II": [
@@ -1940,7 +1941,7 @@
         "Modular Credits = 4"
       ],
       "Semester I": [
-        "MONAJEMI Amirhassan",
+        "Amirhassan MONAJEMI",
         "Grp L1: Thu 16:00-18:00 COM1-0206",
         "Exam: 30 NOV 2022 17:00-19:00"
       ],
@@ -2461,7 +2462,7 @@
         "-"
       ],
       "Semester II": [
-        "MONAJEMI Amirhassan",
+        "Amirhassan MONAJEMI",
         "Grp L1: Fri 18:30-20:30",
         "Exam: 03 MAY 2023 17:00-19:00"
       ]
@@ -2808,7 +2809,10 @@
         "Advanced Topics in Networking",
         "Modular Credits = 4"
       ],
-      "Semester I": [],
+      "Semester I": [
+        "Ambuj VARSHNEY",
+        "Grp L1: Wed 14:00-16:00 SR_LT19"
+      ],
       "Semester II": [
         "-"
       ]
@@ -2934,8 +2938,7 @@
       ],
       "Semester I": [
         "Manuel RIGGER",
-        "Grp L1: Tue 16:00-18:00 SR_LT19",
-        "Exam: 19 NOV 2022 13:00-15:00"
+        "Grp L1: Tue 16:00-18:00 SR_LT19"
       ],
       "Semester II": [
         "-"
@@ -3971,13 +3974,13 @@
         "Modular Credits = 4"
       ],
       "Semester I": [
-        "NATARAJAN Prabhu",
+        "Prabhu NATARAJAN",
         "Muhammad Rizki Aulia Rahman Maulana",
         "Grp L1: Mon 10:00-12:00 E-Learn_C",
         "Exam: 21 NOV 2022 17:00-19:00"
       ],
       "Semester II": [
-        "NATARAJAN Prabhu",
+        "Prabhu NATARAJAN",
         "Muhammad Rizki Aulia Rahman Maulana",
         "Grp L1: Fri 10:00-12:00 E-Learn_C",
         "Exam: 26 APR 2023 13:00-15:00"
