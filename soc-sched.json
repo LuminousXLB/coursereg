@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "1 Aug - 3 Dec 2022",
     "Semester II": "9 Jan - 6 May 2023",
-    "last_modified": "2022-07-03T23:00:12"
+    "last_modified": "2022-07-10T23:00:13"
   },
   "schedule": [
     {
@@ -428,8 +428,8 @@
       "Semester I": [
         "Jithin VACHERY",
         "LI Jialin",
-        "Grp L01: Thu 09:00-12:00",
-        "Grp L02: Thu 14:00-17:00"
+        "Grp L01: Thu 09:00-12:00 COM3-01-19",
+        "Grp L02: Thu 14:00-17:00 COM3-01-19"
       ],
       "Semester II": [
         "Jithin VACHERY",
@@ -861,6 +861,7 @@
       "Semester I": [
         "Adi Yoga Sidi PRABAWA",
         "Christian Von Der WETH",
+        "Stephane BRESSAN",
         "Grp L1: Tue 12:00-14:00 E-Hybrid_C",
         "Grp L1V: Tue 12:00-14:00 I3-AUD",
         "Exam: 22 NOV 2022 17:00-19:00"
@@ -1233,7 +1234,7 @@
       ],
       "Semester I": [
         "OOI Beng Chin",
-        "Bimlesh WADHWA",
+        "Anthony TUNG Kum Hoe",
         "Grp L1: Mon 09:00-11:00 SR_LT19",
         "Exam: 29 NOV 2022 17:00-19:00"
       ],
@@ -1364,8 +1365,7 @@
       "Semester I": [
         "Bimlesh WADHWA",
         "Akshay NARAYAN",
-        "Grp L1: Thu 14:00-16:00 LT15",
-        "Grp L2: Thu 14:00-16:00 E-Hybrid_C",
+        "Grp L1: Thu 14:00-16:00 I3-AUD",
         "Exam: 28 NOV 2022 09:00-10:30"
       ],
       "Semester II": [
@@ -1507,7 +1507,8 @@
       ],
       "Semester II": [
         "Bimlesh WADHWA",
-        "Grp L1: Wed 09:00-12:00 LT19"
+        "Grp L1: Wed 09:00-12:00 LT19",
+        "Exam: 03 MAY 2023 13:00-15:00"
       ]
     },
     {
@@ -1903,7 +1904,8 @@
         "Exam: 22 NOV 2022 17:00-19:00"
       ],
       "Semester II": [
-        "-"
+        "Roland YAP Hock Chuan",
+        "Grp L1: Mon 18:30-20:30"
       ]
     },
     {
@@ -2148,20 +2150,6 @@
       ]
     },
     {
-      "Module Code": "CS5215",
-      "Module Title": [
-        "Constraint Processing",
-        "Modular Credits = 4"
-      ],
-      "Semester I": [
-        "-"
-      ],
-      "Semester II": [
-        "Roland YAP Hock Chuan",
-        "Grp L1: Mon 18:30-20:30"
-      ]
-    },
-    {
       "Module Code": "CS5218",
       "Module Title": [
         "Principles and Practice of Program Analysis",
@@ -2243,7 +2231,8 @@
       ],
       "Semester I": [
         "Christian Von Der WETH",
-        "Grp L1: Mon 18:30-20:30 COM1-0206"
+        "Grp L1: Mon 18:30-20:30 COM1-0206",
+        "Grp L2: Mon 14:00-16:00 COM1-0204"
       ],
       "Semester II": [
         "Bryan HOOI Kuen Yew",
@@ -2331,7 +2320,8 @@
       ],
       "Semester I": [
         "Diptarka CHAKRABORTY",
-        "Grp L1: Thu 18:30-20:30 COM1-0212"
+        "Grp L1: Thu 18:30-20:30 COM1-0212",
+        "Grp L2: Thu 18:30-20:30 E-Hybrid_C"
       ],
       "Semester II": [
         "-"
@@ -2415,8 +2405,9 @@
       "Semester I": [
         "YOU Yang",
         "AI Xin",
-        "Grp L1: Tue 15:00-17:00 COM1-0204",
-        "Grp L2: Tue 18:30-20:30 COM1-0212"
+        "Grp L1: Tue 15:00-17:00 RMI-SR1",
+        "Grp L2: Tue 18:30-20:30 COM1-0212",
+        "Grp L2H: Tue 18:30-20:30 E-Hybrid_C"
       ],
       "Semester II": [
         "YOU Yang",
@@ -2683,7 +2674,8 @@
         "Exam: 22 NOV 2022 17:00-19:00"
       ],
       "Semester II": [
-        "-"
+        "Roland YAP Hock Chuan",
+        "Grp L1: Mon 18:30-20:30"
       ]
     },
     {
@@ -3235,7 +3227,7 @@
       ],
       "Semester I": [
         "LEK Hsiang Hui",
-        "Grp L1: Thu 15:00-17:00 I3-AUD"
+        "Grp L1: Thu 15:00-17:00 RMI-SR1"
       ],
       "Semester II": [
         "LEK Hsiang Hui",
@@ -3344,7 +3336,7 @@
       ],
       "Semester I": [
         "LAI Kok Fung",
-        "Grp L1: Fri 14:00-16:00 COM1-0204"
+        "Grp L1: Fri 14:00-16:00 COM1-0212"
       ],
       "Semester II": [
         "-"
