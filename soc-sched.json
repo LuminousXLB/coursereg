@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "1 Aug - 3 Dec 2022",
     "Semester II": "9 Jan - 6 May 2023",
-    "last_modified": "2022-07-31T23:00:12"
+    "last_modified": "2022-08-07T23:00:13"
   },
   "schedule": [
     {
@@ -64,7 +64,7 @@
       ],
       "Semester I": [
         "Rudy SETIONO",
-        "Grp L1: Tue 10:00-12:00 LT19",
+        "Grp L1: Tue 10:00-12:00 LT15",
         "Exam: 28 NOV 2022 17:00-19:00"
       ],
       "Semester II": [
@@ -111,7 +111,7 @@
       ],
       "Semester I": [
         "Stanley KOK",
-        "Grp L1: Wed 12:00-14:00 LT15",
+        "Grp L1: Wed 12:00-14:00 COM1-0204",
         "Exam: 28 NOV 2022 13:00-15:00"
       ],
       "Semester II": [
@@ -1184,10 +1184,6 @@
       ],
       "Semester I": [
         "Akshay NARAYAN",
-        "Grp LC01: Mon 12:00-14:00 COM1-0203",
-        "Wed 12:00-13:00 COM1-0210",
-        "Thu 12:00-14:00 AS6-0211",
-        "Fri 16:00-18:00 LT19",
         "Grp LC03: Tue 10:00-12:00 COM1-0209",
         "Wed 11:00-12:00 COM1-0210",
         "Fri 10:00-12:00 AS6-0211",
@@ -1235,8 +1231,7 @@
       "Semester I": [
         "OOI Beng Chin",
         "Anthony TUNG Kum Hoe",
-        "Grp L1: Mon 09:00-11:00 SR_LT19",
-        "Exam: 29 NOV 2022 17:00-19:00"
+        "Grp L1: Mon 09:00-11:00 SR_LT19"
       ],
       "Semester II": [
         "-"
@@ -1488,8 +1483,7 @@
       ],
       "Semester I": [
         "Ronald Boyd ANDERSON",
-        "Grp L1: Wed 14:00-16:00 COM1-0206",
-        "Exam: 23 NOV 2022 13:00-15:00"
+        "Grp L1: Wed 14:00-16:00 COM1-0206"
       ],
       "Semester II": [
         "-"
@@ -1977,6 +1971,7 @@
       ],
       "Semester I": [
         "LEONG Tze Yun",
+        "Akshay NARAYAN",
         "Grp L1: Thu 14:00-16:00 COM1-0206",
         "Grp L2: Thu 18:30-20:30 I3-AUD"
       ],
@@ -2772,10 +2767,11 @@
       "Module Code": "CS5647",
       "Module Title": [
         "Sound and Music Computing",
-        "Modular Credits = -"
+        "Modular Credits = 4"
       ],
       "Semester I": [
-        "WANG Ye"
+        "WANG Ye",
+        "Grp L1: Mon 16:00-18:00 LT15"
       ],
       "Semester II": [
         "-"
@@ -3270,7 +3266,7 @@
       ],
       "Semester I": [
         "TAN Wee Kek",
-        "Grp L1: Tue 10:00-12:00 LT15",
+        "Grp L1: Tue 10:00-12:00 LT19",
         "Exam: 25 NOV 2022 14:30-16:30"
       ],
       "Semester II": [
@@ -3938,7 +3934,7 @@
       ],
       "Semester I": [
         "TAN Chuan Hoo",
-        "Grp L1: Mon 09:00-12:00 I3-0344"
+        "Grp L1: Mon 09:00-12:00"
       ],
       "Semester II": [
         "-"
@@ -3967,7 +3963,7 @@
       ],
       "Semester I": [
         "Vaibhav RAJAN",
-        "Grp L1: Fri 09:00-12:00 I3-0344"
+        "Grp L1: Wed 14:00-17:00 COM1-0208"
       ],
       "Semester II": [
         "-"
