@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "1 Aug - 3 Dec 2022",
     "Semester II": "9 Jan - 6 May 2023",
-    "last_modified": "2022-08-21T23:00:13"
+    "last_modified": "2022-08-28T23:00:13"
   },
   "schedule": [
     {
@@ -400,7 +400,7 @@
       "Semester II": [
         "Colin TAN Keng Yan",
         "Ravi SUPPIAH",
-        "Ronald Boyd ANDERSON",
+        "Boyd ANDERSON",
         "Grp L01:  -"
       ]
     },
@@ -582,7 +582,7 @@
       ],
       "Semester I": [
         "LOW Kok Lim",
-        "Ronald Boyd ANDERSON",
+        "Boyd ANDERSON",
         "Sanka RASNAYAKA",
         "Grp L1: Wed 10:00-12:00 E-Learn_C",
         "Fri 10:00-12:00 E-Learn_C",
@@ -665,7 +665,7 @@
       ],
       "Semester II": [
         "OOI Wei Tsang",
-        "Ronald Boyd ANDERSON",
+        "Boyd ANDERSON",
         "Adi Yoga Sidi PRABAWA",
         "Grp L1: Mon 12:00-14:00 I3-AUD",
         "Exam: 27 APR 2023 09:00-11:00"
@@ -882,7 +882,7 @@
       "Semester I": [
         "Damith Chatura RAJAPAKSE",
         "Grp L1: Fri 16:00-18:00 I3-AUD",
-        "Exam: 25 NOV 2022 09:00-11:00"
+        "Exam: 25 NOV 2022 09:00-10:30"
       ],
       "Semester II": [
         "Damith Chatura RAJAPAKSE",
@@ -978,7 +978,7 @@
         "Thu 08:00-09:00 COM1-B103",
         "Thu 14:00-16:00 COM1-0209",
         "Fri 16:00-18:00 I3-AUD",
-        "Exam: 25 NOV 2022 09:00-11:00"
+        "Exam: 25 NOV 2022 09:00-10:30"
       ],
       "Semester II": [
         "Damith Chatura RAJAPAKSE",
@@ -1168,7 +1168,7 @@
       "Semester I": [
         "Akshay NARAYAN",
         "Grp L1: Fri 16:00-18:00 LT19",
-        "Exam: 29 NOV 2022 17:00-19:00"
+        "Exam: 29 NOV 2022 17:00-18:30"
       ],
       "Semester II": [
         "Akshay NARAYAN",
@@ -1188,7 +1188,7 @@
         "Wed 11:00-12:00 COM1-0210",
         "Fri 10:00-12:00 AS6-0211",
         "Fri 16:00-18:00 LT19",
-        "Exam: 29 NOV 2022 17:00-19:00"
+        "Exam: 29 NOV 2022 17:00-18:30"
       ],
       "Semester II": [
         "Akshay NARAYAN",
@@ -1364,7 +1364,7 @@
         "Exam: 28 NOV 2022 09:00-10:30"
       ],
       "Semester II": [
-        "ZHAO Jin"
+        "-"
       ]
     },
     {
@@ -1432,20 +1432,6 @@
       ]
     },
     {
-      "Module Code": "CS3234",
-      "Module Title": [
-        "Logic for Proofs and Programs",
-        "Modular Credits = 4"
-      ],
-      "Semester I": [
-        "-"
-      ],
-      "Semester II": [
-        "Olivier DANVY",
-        "Grp L1: Mon 10:00-12:00 COM1-0212"
-      ]
-    },
-    {
       "Module Code": "CS3235",
       "Module Title": [
         "Computer Security",
@@ -1482,7 +1468,7 @@
         "Modular Credits = 4"
       ],
       "Semester I": [
-        "Ronald Boyd ANDERSON",
+        "Boyd ANDERSON",
         "Grp L1: Wed 14:00-16:00 COM1-0206"
       ],
       "Semester II": [
@@ -3207,7 +3193,8 @@
         "Grp L1: Thu 10:00-12:00 LT15"
       ],
       "Semester II": [
-        "YANG Lu"
+        "YANG Lu",
+        "Grp L1: Thu 10:00-12:00 LT15"
       ]
     },
     {
@@ -3287,7 +3274,8 @@
         "Grp L1: Mon 09:00-11:00 LT15"
       ],
       "Semester II": [
-        "Vivek Sundar MAGESH"
+        "Vivek Sundar MAGESH",
+        "Grp L1: Tue 16:00-18:00 LT15"
       ]
     },
     {
@@ -3298,11 +3286,12 @@
       ],
       "Semester I": [
         "Nakyung KYUNG",
-        "Grp L1: Mon 14:00-16:00 LT15",
+        "Grp L1: Mon 14:00-16:00 COM1-0207",
         "Exam: 30 NOV 2022 09:00-11:00"
       ],
       "Semester II": [
         "WANG Qiuhong",
+        "Grp L1: Mon 10:00-12:00 LT15",
         "Exam: 02 MAY 2023 09:00-11:00"
       ]
     },
