@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "1 Aug - 3 Dec 2022",
     "Semester II": "9 Jan - 6 May 2023",
-    "last_modified": "2022-08-28T23:00:13"
+    "last_modified": "2022-09-04T23:00:15"
   },
   "schedule": [
     {
@@ -516,8 +516,8 @@
         "ZHOU Lifeng",
         "TAN Sun Teck",
         "Adi Yoga Sidi PRABAWA",
-        "Grp S1: Tue 16:00-18:00",
-        "Grp S2: Mon 14:00-16:00",
+        "Grp S1: Tue 16:00-18:00 UT-AUD1",
+        "Grp S2: Mon 14:00-16:00 UT-AUD1",
         "Exam: 28 APR 2023 14:30-16:30"
       ]
     },
@@ -1534,7 +1534,7 @@
       ],
       "Semester II": [
         "Daren LER Shan Wen",
-        "Grp L1: Mon 10:00-12:00 LT19",
+        "Grp L1: Mon 10:00-12:00 LT15",
         "Exam: 29 APR 2023 09:00-11:00"
       ]
     },
@@ -3291,7 +3291,7 @@
       ],
       "Semester II": [
         "WANG Qiuhong",
-        "Grp L1: Mon 10:00-12:00 LT15",
+        "Grp L1: Fri 16:00-18:00 LT15",
         "Exam: 02 MAY 2023 09:00-11:00"
       ]
     },
@@ -3339,7 +3339,7 @@
       ],
       "Semester II": [
         "ZHAO Yiliang",
-        "Grp L1: Fri 18:30-20:30 LT19"
+        "Grp L1: Fri 18:30-20:30 LT15"
       ]
     },
     {
