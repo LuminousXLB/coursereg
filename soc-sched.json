@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "1 Aug - 3 Dec 2022",
     "Semester II": "9 Jan - 6 May 2023",
-    "last_modified": "2022-09-25T23:00:14"
+    "last_modified": "2022-10-02T23:00:12"
   },
   "schedule": [
     {
@@ -811,8 +811,6 @@
         "External teaching staff",
         "Grp SC01:  -",
         "-",
-        "Grp SC02:  -",
-        "-",
         "Grp SC03:  -",
         "-",
         "Grp SC04:  -",
@@ -848,6 +846,8 @@
         "Grp SG15:  -",
         "-",
         "Grp SG16:  -",
+        "-",
+        "Grp SG17:  -",
         "-"
       ]
     },
@@ -2081,7 +2081,7 @@
     {
       "Module Code": "CS4278",
       "Module Title": [
-        "Intelligent Robots: Algorithms and Systems",
+        "Intelligent Robots Algorithms and Systems",
         "Modular Credits = 4"
       ],
       "Semester I": [],
@@ -3220,16 +3220,20 @@
       ],
       "Semester II": [
         "External teaching staff",
-        "Grp SG01: Mon 12:00-15:00 E-Learn_A",
-        "Grp SG02: Mon 15:00-18:00 E-Learn_A",
-        "Grp SG03: Tue 09:00-12:00 E-Learn_A",
-        "Grp SG04: Tue 15:00-18:00 E-Learn_A",
-        "Grp SG05: Wed 12:00-15:00 E-Learn_A",
-        "Grp SG06: Wed 15:00-18:00 E-Learn_A",
-        "Grp SG07: Thu 09:00-12:00 E-Learn_A",
-        "Grp SG08: Thu 12:00-15:00 E-Learn_A",
-        "Grp SG09: Fri 09:00-12:00 E-Learn_A",
-        "Grp SG10: Fri 12:00-15:00 E-Learn_A"
+        "Grp SG01: Mon 09:00-12:00 AS6-0210",
+        "Grp SG02: Mon 12:00-15:00 AS6-0210",
+        "Grp SG03: Mon 15:00-18:00 AS6-0210",
+        "Grp SG04: Tue 09:00-12:00 AS6-0210",
+        "Grp SG05: Tue 12:00-15:00 AS6-0210",
+        "Grp SG06: Tue 15:00-18:00 AS6-0210",
+        "Grp SG07: Wed 09:00-12:00 AS6-0210",
+        "Grp SG08: Wed 12:00-15:00 AS6-0210",
+        "Grp SG09: Wed 15:00-18:00 AS6-0210",
+        "Grp SG10: Thu 09:00-12:00 AS6-0210",
+        "Grp SG11: Thu 12:00-15:00 AS6-0210",
+        "Grp SG12: Thu 15:00-18:00 AS6-0210",
+        "Grp SG13: Fri 09:00-12:00 AS6-0210",
+        "Grp SG14: Fri 12:00-15:00 AS6-0210"
       ]
     },
     {
