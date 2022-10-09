@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "1 Aug - 3 Dec 2022",
     "Semester II": "9 Jan - 6 May 2023",
-    "last_modified": "2022-10-02T23:00:12"
+    "last_modified": "2022-10-09T23:00:12"
   },
   "schedule": [
     {
@@ -990,9 +990,9 @@
         "Wed 12:00-13:00 E-Learn_C",
         "Thu 16:00-18:00 E-Learn_C",
         "Fri 14:00-16:00 I3-AUD",
-        "Grp LG03: Mon 08:00-10:00 E-Learn_C",
+        "Grp LG03: Mon 08:00-10:00 COM2-0108",
         "Wed 14:00-15:00 E-Learn_C",
-        "Thu 08:00-10:00 E-Learn_C",
+        "Thu 08:00-10:00 COM2-0108",
         "Fri 14:00-16:00 I3-AUD",
         "Grp LG04: Mon 10:00-12:00 E-Learn_C",
         "Wed 13:00-14:00 E-Learn_C",
@@ -1000,12 +1000,12 @@
         "Fri 14:00-16:00 I3-AUD",
         "Grp LG05: Tue 10:00-12:00 E-Learn_C",
         "Thu 11:00-12:00 E-Learn_C",
-        "Fri 14:00-16:00 I3-AUD",
         "Fri 10:00-12:00 E-Learn_C",
+        "Fri 14:00-16:00 I3-AUD",
         "Grp LG06: Tue 12:00-14:00 E-Learn_C",
         "Thu 12:00-13:00 E-Learn_C",
-        "Fri 14:00-16:00 I3-AUD",
         "Fri 12:00-14:00 E-Learn_C",
+        "Fri 14:00-16:00 I3-AUD",
         "Grp LG07: Tue 08:00-10:00 E-Learn_C",
         "Thu 16:00-17:00 E-Learn_C",
         "Fri 08:00-10:00 E-Learn_C",
@@ -1024,12 +1024,12 @@
         "Fri 14:00-16:00 I3-AUD",
         "Grp LG11: Tue 16:00-18:00 E-Learn_C",
         "Thu 17:00-18:00 E-Learn_C",
-        "Fri 14:00-16:00 I3-AUD",
         "Fri 16:00-18:00 E-Learn_C",
+        "Fri 14:00-16:00 I3-AUD",
         "Grp LG12: Tue 08:00-10:00 E-Learn_C",
         "Thu 10:00-11:00 E-Learn_C",
-        "Fri 14:00-16:00 I3-AUD",
         "Fri 08:00-10:00 E-Learn_C",
+        "Fri 14:00-16:00 I3-AUD",
         "Grp LG13: Tue 12:00-14:00 E-Learn_C",
         "Thu 09:00-10:00 E-Learn_C",
         "Fri 14:00-16:00 I3-AUD",
@@ -3547,7 +3547,7 @@
       ],
       "Semester II": [
         "WANG Qiuhong",
-        "Grp L1: Wed 10:00-12:00 COM3-MPH",
+        "Grp L1: Wed 09:00-11:00 COM1-0204",
         "Exam: 04 MAY 2023 17:00-19:00"
       ]
     },
@@ -3605,7 +3605,7 @@
         "-"
       ],
       "Semester II": [
-        "HAHN Jungpil",
+        "External teaching staff",
         "Grp L1: Tue 12:00-14:00 COM3-MPH",
         "Exam: 28 APR 2023 14:30-16:30"
       ]
@@ -3794,6 +3794,17 @@
         "Vincent LOY JITCHEN",
         "Grp L1: Tue 18:30-20:30 COM1-0204"
       ]
+    },
+    {
+      "Module Code": "IS5009",
+      "Module Title": [
+        "Topics in Financial Technology Solutions",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": []
     },
     {
       "Module Code": "IS5116",
