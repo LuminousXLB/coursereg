@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "1 Aug - 3 Dec 2022",
     "Semester II": "9 Jan - 6 May 2023",
-    "last_modified": "2022-10-09T23:00:12"
+    "last_modified": "2022-10-16T23:00:12"
   },
   "schedule": [
     {
@@ -982,62 +982,70 @@
       "Semester II": [
         "Damith Chatura RAJAPAKSE",
         "Ganesh NEELAKANTA IYER",
-        "Grp LG01: Mon 14:00-16:00 E-Learn_C",
-        "Wed 11:00-12:00 E-Learn_C",
-        "Thu 14:00-16:00 E-Learn_C",
-        "Fri 14:00-16:00 I3-AUD",
-        "Grp LG02: Mon 16:00-18:00 E-Learn_C",
-        "Wed 12:00-13:00 E-Learn_C",
-        "Thu 16:00-18:00 E-Learn_C",
-        "Fri 14:00-16:00 I3-AUD",
-        "Grp LG03: Mon 08:00-10:00 COM2-0108",
-        "Wed 14:00-15:00 E-Learn_C",
+        "Grp LG01: Mon 08:00-10:00 COM2-0108",
+        "Wed 14:00-15:00 COM1-0210",
         "Thu 08:00-10:00 COM2-0108",
         "Fri 14:00-16:00 I3-AUD",
-        "Grp LG04: Mon 10:00-12:00 E-Learn_C",
-        "Wed 13:00-14:00 E-Learn_C",
-        "Thu 10:00-12:00 E-Learn_C",
+        "Grp LG02: Mon 08:00-10:00 AS6-0209",
+        "Thu 08:00-10:00 AS6-0209",
         "Fri 14:00-16:00 I3-AUD",
-        "Grp LG05: Tue 10:00-12:00 E-Learn_C",
-        "Thu 11:00-12:00 E-Learn_C",
-        "Fri 10:00-12:00 E-Learn_C",
+        "Grp LG03: Mon 10:00-12:00 COM2-0108",
+        "Wed 13:00-14:00 COM1-0210",
+        "Thu 10:00-12:00 COM2-0108",
         "Fri 14:00-16:00 I3-AUD",
-        "Grp LG06: Tue 12:00-14:00 E-Learn_C",
-        "Thu 12:00-13:00 E-Learn_C",
-        "Fri 12:00-14:00 E-Learn_C",
+        "Grp LG04: Mon 10:00-12:00 AS6-0209",
+        "Thu 10:00-12:00 AS6-0209",
         "Fri 14:00-16:00 I3-AUD",
-        "Grp LG07: Tue 08:00-10:00 E-Learn_C",
-        "Thu 16:00-17:00 E-Learn_C",
-        "Fri 08:00-10:00 E-Learn_C",
+        "Grp LG05: Mon 12:00-14:00 COM2-0108",
+        "Wed 15:00-16:00 COM1-0210",
+        "Thu 12:00-14:00 COM2-0108",
         "Fri 14:00-16:00 I3-AUD",
-        "Grp LG08: Mon 12:00-14:00 E-Learn_C",
-        "Wed 15:00-16:00 E-Learn_C",
-        "Thu 12:00-14:00 E-Learn_C",
+        "Grp LG06: Mon 14:00-16:00 COM2-0108",
+        "Wed 11:00-12:00 COM1-0210",
+        "Thu 14:00-16:00 COM2-0108",
         "Fri 14:00-16:00 I3-AUD",
-        "Grp LG09: Tue 16:00-18:00 E-Learn_C",
-        "Thu 13:00-14:00 E-Learn_C",
+        "Grp LG07: Mon 14:00-16:00 AS6-0209",
+        "Wed 09:00-10:00 COM1-0210",
+        "Thu 14:00-16:00 AS6-0209",
         "Fri 14:00-16:00 I3-AUD",
-        "Fri 16:00-18:00 E-Learn_C",
-        "Grp LG10: Mon 14:00-16:00 E-Learn_C",
-        "Wed 09:00-10:00 E-Learn_C",
-        "Thu 14:00-16:00 E-Learn_C",
+        "Grp LG08: Mon 16:00-18:00 COM2-0108",
+        "Wed 12:00-13:00 COM1-0210",
+        "Thu 16:00-18:00 COM2-0108",
         "Fri 14:00-16:00 I3-AUD",
-        "Grp LG11: Tue 16:00-18:00 E-Learn_C",
-        "Thu 17:00-18:00 E-Learn_C",
-        "Fri 16:00-18:00 E-Learn_C",
+        "Grp LG09: Mon 16:00-18:00 AS6-0209",
+        "Thu 16:00-18:00 AS6-0209",
         "Fri 14:00-16:00 I3-AUD",
-        "Grp LG12: Tue 08:00-10:00 E-Learn_C",
-        "Thu 10:00-11:00 E-Learn_C",
-        "Fri 08:00-10:00 E-Learn_C",
+        "Grp LG10: Tue 08:00-10:00 COM2-0108",
+        "Thu 16:00-17:00 COM1-0210",
+        "Fri 08:00-10:00 COM2-0108",
         "Fri 14:00-16:00 I3-AUD",
-        "Grp LG13: Tue 12:00-14:00 E-Learn_C",
-        "Thu 09:00-10:00 E-Learn_C",
+        "Grp LG11: Tue 08:00-10:00 COM1-0217",
+        "Thu 10:00-11:00 COM1-0210",
+        "Fri 08:00-10:00 COM1-0217",
         "Fri 14:00-16:00 I3-AUD",
-        "Fri 12:00-14:00 E-Learn_C",
-        "Grp LG14: Fri 14:00-16:00 I3-AUD",
-        "Grp LG15: Fri 14:00-16:00 I3-AUD",
-        "Grp LG16: Fri 14:00-16:00 I3-AUD",
-        "Grp LG17: Fri 14:00-16:00 I3-AUD",
+        "Grp LG12: Tue 10:00-12:00 COM2-0108",
+        "Thu 11:00-12:00 COM1-0210",
+        "Fri 10:00-12:00 COM2-0108",
+        "Fri 14:00-16:00 I3-AUD",
+        "Grp LG13: Tue 10:00-12:00 COM1-0217",
+        "Fri 10:00-12:00 COM1-0217",
+        "Fri 14:00-16:00 I3-AUD",
+        "Grp LG14: Tue 12:00-14:00 COM2-0108",
+        "Thu 12:00-13:00 COM1-0210",
+        "Fri 12:00-14:00 COM2-0108",
+        "Fri 14:00-16:00 I3-AUD",
+        "Grp LG15: Tue 12:00-14:00 COM1-0217",
+        "Thu 09:00-10:00 COM1-0210",
+        "Fri 12:00-14:00 COM1-0217",
+        "Fri 14:00-16:00 I3-AUD",
+        "Grp LG16: Tue 16:00-18:00 COM2-0108",
+        "Thu 13:00-14:00 COM1-0210",
+        "Fri 14:00-16:00 I3-AUD",
+        "Fri 16:00-18:00 COM2-0108",
+        "Grp LG17: Tue 16:00-18:00 COM1-0217",
+        "Thu 17:00-18:00 COM1-0210",
+        "Fri 14:00-16:00 I3-AUD",
+        "Fri 16:00-18:00 COM1-0217",
         "Grp LG18: Fri 14:00-16:00 I3-AUD",
         "Grp LG19: Fri 14:00-16:00 I3-AUD",
         "Exam: 26 APR 2023 09:00-11:00"
@@ -1191,17 +1199,9 @@
       ],
       "Semester II": [
         "Akshay NARAYAN",
-        "Grp LC01: Tue 12:00-14:00 E-Learn_C",
+        "Grp LC01: Mon 12:00-14:00 E-Learn_C",
+        "Thu 12:00-14:00 E-Learn_C",
         "Thu 09:00-10:00 COM1-0210",
-        "Fri 16:00-18:00 I3-AUD",
-        "Fri 12:00-14:00 E-Learn_C",
-        "Grp LC02: Mon 10:00-12:00 E-Learn_C",
-        "Thu 10:00-12:00 E-Learn_C",
-        "Fri 09:00-10:00 COM1-0210",
-        "Fri 16:00-18:00 I3-AUD",
-        "Grp LC03: Tue 10:00-12:00 E-Learn_C",
-        "Thu 10:00-11:00 COM1-0210",
-        "Fri 10:00-12:00 E-Learn_C",
         "Fri 16:00-18:00 I3-AUD",
         "Exam: 03 MAY 2023 09:00-11:00"
       ]
@@ -2392,7 +2392,7 @@
         "Grp L2: Tue 18:30-20:30 LT14"
       ],
       "Semester II": [
-        "YOU Yang",
+        "Amirhassan MONAJEMI",
         "Grp L1: Mon 18:30-20:30 COM1-0212"
       ]
     },
@@ -2435,7 +2435,7 @@
         "-"
       ],
       "Semester II": [
-        "Amirhassan MONAJEMI",
+        "YOU Yang",
         "Grp L1: Fri 18:30-20:30 LT15",
         "Exam: 03 MAY 2023 17:00-19:00"
       ]
@@ -3437,7 +3437,7 @@
     {
       "Module Code": "IS4151",
       "Module Title": [
-        "Pervasive Technology Solutions and Development",
+        "AIoT Solutions and Development",
         "Modular Credits = 4"
       ],
       "Semester I": [
@@ -3562,7 +3562,7 @@
       ],
       "Semester II": [
         "HENG Cheng Suang",
-        "Grp L1: Wed 08:00-10:00 COM3-MPH",
+        "Grp L1: Wed 09:00-11:00 COM3-MPH",
         "Exam: 03 MAY 2023 13:00-15:00"
       ]
     },
@@ -3576,7 +3576,7 @@
         "-"
       ],
       "Semester II": [
-        "External teaching staff",
+        "SUN Chenshuo",
         "Grp L1: Thu 14:00-16:00 RMI-SR1",
         "Exam: 03 MAY 2023 09:00-11:00"
       ]
@@ -3804,7 +3804,9 @@
       "Semester I": [
         "-"
       ],
-      "Semester II": []
+      "Semester II": [
+        "Thomas Frank Marie CHEVRIER"
+      ]
     },
     {
       "Module Code": "IS5116",
@@ -3893,7 +3895,7 @@
     {
       "Module Code": "IS5451",
       "Module Title": [
-        "Pervasive Technology Solutions and Development",
+        "AIoT Solutions and Development",
         "Modular Credits = 4"
       ],
       "Semester I": [
@@ -4005,7 +4007,7 @@
       "Semester II": [
         "Prabhu NATARAJAN",
         "Muhammad Rizki Aulia Rahman Maulana",
-        "Grp L1: Fri 08:00-10:00 E-Learn_C",
+        "Grp L1: Fri 10:00-12:00 E-Learn_C",
         "Exam: 26 APR 2023 13:00-15:00"
       ]
     },
