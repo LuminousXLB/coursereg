@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "1 Aug - 3 Dec 2022",
     "Semester II": "9 Jan - 6 May 2023",
-    "last_modified": "2022-10-23T23:00:12"
+    "last_modified": "2022-10-30T23:00:12"
   },
   "schedule": [
     {
@@ -283,7 +283,7 @@
       ],
       "Semester II": [
         "QIAO Dandan",
-        "Grp L1: Tue 18:30-21:30 LT19"
+        "Grp L1: Wed 18:30-21:30 LT19"
       ]
     },
     {
@@ -514,7 +514,7 @@
       "Semester II": [
         "ZHOU Lifeng",
         "TAN Sun Teck",
-        "Adi Yoga Sidi PRABAWA",
+        "CHONG Ket Fah",
         "Grp S1: Tue 16:00-18:00 UT-AUD1",
         "Grp S2: Mon 14:00-16:00 UT-AUD1",
         "Exam: 28 APR 2023 14:30-16:30"
@@ -866,8 +866,8 @@
         "Exam: 22 NOV 2022 17:00-19:00"
       ],
       "Semester II": [
-        "CHAN Chee Yong",
         "XIAO Xiaokui",
+        "Adi Yoga Sidi PRABAWA",
         "Grp L1: Mon 12:00-14:00 LT19",
         "Exam: 29 APR 2023 13:00-15:00"
       ]
@@ -1200,7 +1200,7 @@
       "Semester II": [
         "Akshay NARAYAN",
         "Grp LC01: Mon 12:00-14:00 AS6-0209",
-        "Thu 09:00-10:00 COM1-0210",
+        "Thu 09:00-10:00 COM1-0201",
         "Thu 12:00-14:00 AS6-0209",
         "Fri 16:00-18:00 I3-AUD",
         "Exam: 03 MAY 2023 09:00-11:00"
@@ -1376,7 +1376,7 @@
         "-"
       ],
       "Semester II": [
-        "TAN Kian Lee",
+        "CHAN Chee Yong",
         "Grp L1: Fri 10:00-12:00 LT19",
         "Exam: 28 APR 2023 09:00-11:00"
       ]
@@ -1751,7 +1751,7 @@
       ],
       "Semester II": [
         "Ambuj VARSHNEY",
-        "Grp L1: Fri 18:30-20:30",
+        "Grp L1: Tue 18:30-20:30 LT19",
         "Exam: 24 APR 2023 09:00-11:00"
       ]
     },
@@ -2000,7 +2000,7 @@
         "KAN Min Yen",
         "Christian Von Der WETH",
         "Grp L1: Fri 09:00-12:00 LT15",
-        "Grp L2: Mon 18:30-20:30 COM1-0204",
+        "Grp L2: Mon 18:30-21:30 COM1-0204",
         "Exam: 02 MAY 2023 09:00-11:00"
       ]
     },
@@ -2462,7 +2462,7 @@
       ],
       "Semester II": [
         "Daisuke MASHIMA",
-        "Grp L1: Mon 18:30-20:30"
+        "Grp L1: Mon 18:30-20:30 I3-0344"
       ]
     },
     {
@@ -2608,7 +2608,7 @@
       ],
       "Semester II": [
         "Ambuj VARSHNEY",
-        "Grp L1: Fri 18:30-20:30",
+        "Grp L1: Tue 18:30-20:30 LT19",
         "Exam: 24 APR 2023 09:00-11:00"
       ]
     },
@@ -2818,7 +2818,7 @@
       ],
       "Semester II": [
         "ZHAO Shengdong",
-        "Grp L1: Wed 11:00-13:00 COM1-VCRM"
+        "Grp L1: Wed 11:00-13:00 SR_LT19"
       ]
     },
     {
@@ -2843,7 +2843,7 @@
         "-"
       ],
       "Semester II": [
-        "External",
+        "Xavier Roger Gilbert BRESSON",
         "Grp L1: Tue 14:00-16:00 SR_LT19"
       ]
     },
@@ -3013,7 +3013,7 @@
       ],
       "Semester II": [
         "Warut SUKSOMPONG",
-        "Grp L1: Wed 14:00-16:00 COM1-VCRM"
+        "Grp L1: Wed 14:00-16:00 SR_LT19"
       ]
     },
     {
@@ -3064,7 +3064,7 @@
         "Grp L1: Thu 12:00-14:00 COM1-VCRM"
       ],
       "Semester II": [
-        "-"
+        "SHAO Lin"
       ]
     },
     {
@@ -3805,7 +3805,8 @@
         "-"
       ],
       "Semester II": [
-        "Thomas Frank Marie CHEVRIER"
+        "Thomas Frank Marie CHEVRIER",
+        "Grp L1: Fri 18:30-20:30 COM1-0212"
       ]
     },
     {
