@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "1 Aug - 3 Dec 2022",
     "Semester II": "9 Jan - 6 May 2023",
-    "last_modified": "2022-10-30T23:00:12"
+    "last_modified": "2022-11-06T23:00:12"
   },
   "schedule": [
     {
@@ -37,7 +37,7 @@
       ],
       "Semester II": [
         "Nakyung KYUNG",
-        "Grp L1: Wed 10:00-12:00 LT15",
+        "Grp L1: Wed 10:00-12:00 LT19",
         "Exam: 25 APR 2023 17:00-19:00"
       ]
     },
@@ -224,6 +224,7 @@
       "Semester II": [
         "Praneeth Shalinda Adikari A. A.",
         "Sharon TAN Swee Lin",
+        "WANG Qiuhong",
         "Grp L1: Wed 13:00-16:00 COM3-MPH"
       ]
     },
@@ -607,7 +608,7 @@
       ],
       "Semester II": [
         "Math Dept Lecturer",
-        "Grp S1: Wed 09:00-10:00 I3-AUD",
+        "Grp S1: Wed 09:00-10:00 LT19",
         "Thu 12:00-14:00 LT19",
         "Exam: 25 APR 2023 09:00-11:00"
       ]
@@ -629,7 +630,7 @@
       "Semester II": [
         "Aaron TAN Tuck Choy",
         "Rajendra Prasad SIRIGINA",
-        "Grp L1: Wed 09:00-10:00 LT15",
+        "Grp L1: Wed 09:00-10:00 I3-AUD",
         "Thu 12:00-14:00 LT15",
         "Exam: 25 APR 2023 09:00-11:00"
       ]
@@ -1486,7 +1487,7 @@
       ],
       "Semester II": [
         "Bimlesh WADHWA",
-        "Grp L1: Wed 09:00-12:00 LT19",
+        "Grp L1: Wed 09:00-12:00 LT15",
         "Exam: 03 MAY 2023 13:00-15:00"
       ]
     },
@@ -1813,6 +1814,19 @@
       ],
       "Semester II": [
         "-"
+      ]
+    },
+    {
+      "Module Code": "CS4230",
+      "Module Title": [
+        "Foundations of Modern Cryptography",
+        "Modular Credits = -"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Prashant Nalini VASUDEVAN"
       ]
     },
     {
@@ -2645,6 +2659,20 @@
       ]
     },
     {
+      "Module Code": "CS5430",
+      "Module Title": [
+        "Foundations of Modern Cryptography",
+        "Modular Credits = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Prashant Nalini VASUDEVAN",
+        "Grp L1: Thu 16:00-18:00 COM1-VCRM"
+      ]
+    },
+    {
       "Module Code": "CS5439",
       "Module Title": [
         "Software Security",
@@ -3064,7 +3092,8 @@
         "Grp L1: Thu 12:00-14:00 COM1-VCRM"
       ],
       "Semester II": [
-        "SHAO Lin"
+        "SHAO Lin",
+        "Grp L1: Fri 14:00-16:00 COM1-VCRM"
       ]
     },
     {
@@ -3295,7 +3324,8 @@
         "Exam: 30 NOV 2022 09:00-11:00"
       ],
       "Semester II": [
-        "WANG Qiuhong",
+        "Nakyung KYUNG",
+        "External teaching staff",
         "Grp L1: Fri 16:00-18:00 LT15",
         "Exam: 02 MAY 2023 09:00-11:00"
       ]
@@ -3488,7 +3518,7 @@
         "Grp L1: Tue 18:30-21:30 LT19"
       ],
       "Semester II": [
-        "External teaching staff",
+        "Nicholas Mac Gregor GARCIA",
         "Grp L1: Tue 18:30-21:30 I3-AUD"
       ]
     },
@@ -3593,21 +3623,6 @@
       "Semester II": [
         "TEO Hock Hai",
         "Grp L1: Mon 09:00-12:00 COM1-0212"
-      ]
-    },
-    {
-      "Module Code": "IS4246",
-      "Module Title": [
-        "Smart Systems and AI Governance",
-        "Modular Credits = 4"
-      ],
-      "Semester I": [
-        "-"
-      ],
-      "Semester II": [
-        "External teaching staff",
-        "Grp L1: Tue 12:00-14:00 COM3-MPH",
-        "Exam: 28 APR 2023 14:30-16:30"
       ]
     },
     {
@@ -3961,7 +3976,7 @@
       ],
       "Semester II": [
         "GOH Khim Yong",
-        "Grp L1: Wed 18:30-21:30 I3-0344",
+        "Grp L1: Wed 18:30-21:30",
         "Exam: 27 APR 2023 17:00-19:00"
       ]
     },
