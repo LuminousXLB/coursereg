@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "1 Aug - 3 Dec 2022",
     "Semester II": "9 Jan - 6 May 2023",
-    "last_modified": "2022-11-20T23:00:12"
+    "last_modified": "2022-11-27T23:00:12"
   },
   "schedule": [
     {
@@ -1156,13 +1156,13 @@
       ],
       "Semester I": [
         "Ben LEONG Wing Lup",
-        "Muhammad Rizki Aulia Rahman Maulana",
+        "External",
         "Grp L1: Fri 10:00-12:00 I3-AUD",
         "Exam: 25 NOV 2022 14:30-16:30"
       ],
       "Semester II": [
         "Ben LEONG Wing Lup",
-        "Muhammad Rizki Aulia Rahman Maulana",
+        "External",
         "Grp L1: Tue 16:00-18:00 I3-AUD",
         "Exam: 25 APR 2023 17:00-19:00"
       ]
@@ -1348,7 +1348,7 @@
       "Semester II": [
         "LEONG Wai Kay",
         "Grp L1: Mon 14:00-16:00 COM1-VCRM",
-        "Tue 14:00-15:00 COM1-VCRM"
+        "Tue 13:00-14:00 COM1-VCRM"
       ]
     },
     {
@@ -2074,7 +2074,7 @@
       ],
       "Semester II": [
         "Umang MATHUR",
-        "Grp L1: Mon 18:30-20:30 COM1-0206",
+        "Grp L1: Tue 15:00-17:00 COM1-VCRM",
         "Exam: 25 APR 2023 13:00-15:00"
       ]
     },
@@ -2580,7 +2580,7 @@
         "Grp L1: Fri 18:30-20:30 COM1-0206"
       ],
       "Semester II": [
-        "LEE Mong Li",
+        "Anthony TUNG Kum Hoe",
         "Grp L1: Tue 18:30-20:30 LT15"
       ]
     },
@@ -2734,7 +2734,7 @@
       ],
       "Semester II": [
         "Umang MATHUR",
-        "Grp L1: Mon 18:30-20:30 COM1-0206",
+        "Grp L1: Tue 15:00-17:00 COM1-VCRM",
         "Exam: 25 APR 2023 13:00-15:00"
       ]
     },
@@ -2933,7 +2933,9 @@
         "Kenji KAWAGUCHI",
         "Grp L1: Fri 14:00-16:00 COM1-VCRM"
       ],
-      "Semester II": []
+      "Semester II": [
+        "Grp L1: Thu 12:00-14:00 COM1-VCRM"
+      ]
     },
     {
       "Module Code": "CS6217",
@@ -3978,7 +3980,7 @@
       ],
       "Semester II": [
         "LIM Shi Ying",
-        "Grp L1: Fri 15:00-18:00"
+        "Grp L1: Fri 15:00-18:00 COM2-0225"
       ]
     },
     {
@@ -4006,7 +4008,7 @@
       ],
       "Semester II": [
         "GOH Khim Yong",
-        "Grp L1: Wed 18:30-21:30",
+        "Grp L1: Wed 18:30-21:30 COM2-0402",
         "Exam: 27 APR 2023 17:00-19:00"
       ]
     },
@@ -4034,8 +4036,8 @@
         "-"
       ],
       "Semester II": [
-        "External teaching staff",
-        "Grp L1: Mon 18:30-21:30 COM1-0209"
+        "KIM Seung Hyun",
+        "Grp L1: Mon 18:30-21:30"
       ]
     },
     {
@@ -4046,13 +4048,13 @@
       ],
       "Semester I": [
         "Prabhu NATARAJAN",
-        "Muhammad Rizki Aulia Rahman Maulana",
+        "Muhammad Rizki Aulia Rahman MAULANA",
         "Grp L1: Mon 10:00-12:00 E-Learn_C",
         "Exam: 21 NOV 2022 17:00-19:00"
       ],
       "Semester II": [
         "Prabhu NATARAJAN",
-        "Muhammad Rizki Aulia Rahman Maulana",
+        "Muhammad Rizki Aulia Rahman MAULANA",
         "Grp L1: Fri 10:00-12:00 E-Learn_C",
         "Exam: 26 APR 2023 13:00-15:00"
       ]
