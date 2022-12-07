@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "1 Aug - 3 Dec 2022",
     "Semester II": "9 Jan - 6 May 2023",
-    "last_modified": "2022-12-06T23:00:13"
+    "last_modified": "2022-12-07T23:00:13"
   },
   "schedule": [
     {
@@ -649,6 +649,7 @@
       "Semester II": [
         "Henry CHIA Wai Kit",
         "Grp L1: Mon 12:00-14:00 I3-AUD",
+        "Grp L2: Mon 12:00-14:00",
         "Exam: 27 APR 2023 09:00-11:00"
       ]
     },
@@ -691,6 +692,8 @@
         "CHONG Ket Fah",
         "Grp L1: Mon 16:00-18:00 I3-AUD",
         "Wed 13:00-14:00 I3-AUD",
+        "Grp L2: Mon 16:00-18:00",
+        "Wed 13:00-14:00",
         "Exam: 26 APR 2023 13:00-15:00"
       ]
     },
@@ -870,6 +873,7 @@
         "XIAO Xiaokui",
         "Adi Yoga Sidi PRABAWA",
         "Grp L1: Mon 12:00-14:00 LT19",
+        "Grp L2: Mon 12:00-14:00",
         "Exam: 29 APR 2023 13:00-15:00"
       ]
     },
@@ -989,6 +993,7 @@
         "Fri 14:00-16:00 I3-AUD",
         "Grp LG02: Mon 08:00-10:00 AS6-0209",
         "Thu 08:00-10:00 AS6-0209",
+        "Thu 14:00-15:00 COM1-0210",
         "Fri 14:00-16:00 I3-AUD",
         "Grp LG03: Mon 10:00-12:00 COM2-0108",
         "Wed 13:00-14:00 COM1-0210",
@@ -996,6 +1001,7 @@
         "Fri 14:00-16:00 I3-AUD",
         "Grp LG04: Mon 10:00-12:00 AS6-0209",
         "Thu 10:00-12:00 AS6-0209",
+        "Thu 15:00-16:00 COM1-0210",
         "Fri 14:00-16:00 I3-AUD",
         "Grp LG05: Mon 12:00-14:00 COM2-0108",
         "Wed 15:00-16:00 COM1-0210",
@@ -1015,6 +1021,7 @@
         "Fri 14:00-16:00 I3-AUD",
         "Grp LG09: Mon 16:00-18:00 AS6-0209",
         "Thu 16:00-18:00 AS6-0209",
+        "Fri 12:00-13:00 COM1-0210",
         "Fri 14:00-16:00 I3-AUD",
         "Grp LG10: Tue 08:00-10:00 COM2-0108",
         "Thu 16:00-17:00 COM1-0210",
@@ -1029,6 +1036,7 @@
         "Fri 10:00-12:00 COM2-0108",
         "Fri 14:00-16:00 I3-AUD",
         "Grp LG13: Tue 10:00-12:00 COM1-0217",
+        "Wed 10:00-11:00 COM1-0210",
         "Fri 10:00-12:00 COM1-0217",
         "Fri 14:00-16:00 I3-AUD",
         "Grp LG14: Tue 12:00-14:00 COM2-0108",
@@ -1082,6 +1090,7 @@
         "Richard MA Tianbai",
         "Jithin VACHERY",
         "Grp L1: Thu 16:00-18:00 I3-AUD",
+        "Grp L2: Thu 16:00-18:00",
         "Exam: 26 APR 2023 13:00-15:00"
       ]
     },
@@ -1102,6 +1111,7 @@
         "Prabhu NATARAJAN",
         "Nitya LAKSHMANAN",
         "Grp L1: Wed 10:00-12:00 I3-AUD",
+        "Grp L2: Wed 10:00-12:00",
         "Exam: 02 MAY 2023 17:00-19:00"
       ]
     },
@@ -1397,6 +1407,7 @@
         "Steven HALIM",
         "Diptarka CHAKRABORTY",
         "Grp L1: Thu 14:00-16:00 I3-AUD",
+        "Grp L2: Thu 14:00-16:00",
         "Exam: 27 APR 2023 13:00-15:00"
       ]
     },
@@ -2113,7 +2124,6 @@
       ],
       "Semester II": [
         "Ken SUNG Wing Kin",
-        "Grp L1: Thu 14:00-16:00 COM1-0212",
         "Exam: 27 APR 2023 13:00-15:00"
       ]
     },
@@ -3694,7 +3704,7 @@
       ],
       "Semester II": [
         "LEE Boon Kee",
-        "Grp L1: Mon 14:00-16:00 COM3-01-23",
+        "Grp L1: Mon 14:00-16:00 I3-AUD",
         "Exam: 26 APR 2023 17:00-19:00"
       ]
     },
