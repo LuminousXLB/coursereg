@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "1 Aug - 3 Dec 2022",
     "Semester II": "9 Jan - 6 May 2023",
-    "last_modified": "2022-12-08T23:00:12"
+    "last_modified": "2022-12-11T23:00:13"
   },
   "schedule": [
     {
@@ -1129,6 +1129,7 @@
       "Semester II": [
         "CHANG Ee Chien",
         "Grp L1: Thu 10:00-12:00 I3-AUD",
+        "Grp L2: Thu 10:00-12:00",
         "Exam: 24 APR 2023 09:00-11:00"
       ]
     },
@@ -1164,13 +1165,13 @@
       ],
       "Semester I": [
         "Ben LEONG Wing Lup",
-        "External",
+        "Muhammad Rizki Aulia Rahman MAULANA",
         "Grp L1: Fri 10:00-12:00 I3-AUD",
         "Exam: 25 NOV 2022 14:30-16:30"
       ],
       "Semester II": [
         "Ben LEONG Wing Lup",
-        "External",
+        "Muhammad Rizki Aulia Rahman MAULANA",
         "Grp L1: Tue 16:00-18:00 I3-AUD",
         "Exam: 25 APR 2023 17:00-19:00"
       ]
