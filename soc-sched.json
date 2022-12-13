@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "1 Aug - 3 Dec 2022",
     "Semester II": "9 Jan - 6 May 2023",
-    "last_modified": "2022-12-12T23:00:13"
+    "last_modified": "2022-12-13T23:00:12"
   },
   "schedule": [
     {
@@ -3207,7 +3207,8 @@
       ],
       "Semester II": [
         "LEE Boon Kee",
-        "Grp L1: Fri 12:00-14:00 I3-AUD"
+        "Grp L1: Fri 12:00-14:00 I3-AUD",
+        "Grp L2: Fri 12:00-14:00 I3-AUD"
       ]
     },
     {
