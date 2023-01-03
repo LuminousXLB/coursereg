@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "1 Aug - 3 Dec 2022",
     "Semester II": "9 Jan - 6 May 2023",
-    "last_modified": "2023-01-01T23:00:12"
+    "last_modified": "2023-01-03T23:00:13"
   },
   "schedule": [
     {
@@ -284,7 +284,7 @@
       ],
       "Semester II": [
         "QIAO Dandan",
-        "Grp L1: Wed 18:30-21:30 LT19"
+        "Grp L1: Wed 18:30-21:30 COM3-MPH"
       ]
     },
     {
@@ -1832,7 +1832,7 @@
       ],
       "Semester II": [
         "YU Haifeng",
-        "Grp L1: Wed 18:30-20:30 COM3-MPH",
+        "Grp L1: Wed 18:30-20:30 LT19",
         "Exam: 03 MAY 2023 13:00-15:00"
       ]
     },
@@ -2412,7 +2412,7 @@
       ],
       "Semester II": [
         "WONG Weng Fai",
-        "Grp L1: Mon 18:30-20:30 COM1-0212",
+        "Grp L1: Mon 18:30-20:30 COM1-0206",
         "Exam: 25 APR 2023 17:00-19:00"
       ]
     },
