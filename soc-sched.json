@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "1 Aug - 3 Dec 2022",
     "Semester II": "9 Jan - 6 May 2023",
-    "last_modified": "2023-01-05T23:00:12"
+    "last_modified": "2023-01-06T23:00:12"
   },
   "schedule": [
     {
@@ -37,7 +37,7 @@
       ],
       "Semester II": [
         "Nakyung KYUNG",
-        "Grp L1: Wed 10:00-12:00 LT19",
+        "Grp L1: Wed 10:00-12:00 COM3-01-23",
         "Exam: 25 APR 2023 17:00-19:00"
       ]
     },
@@ -99,7 +99,7 @@
       ],
       "Semester II": [
         "NG Teck Khim",
-        "Grp L1: Tue 16:00-18:00 COM3-MPH",
+        "Grp L1: Tue 16:00-18:00 COM1-0206",
         "Exam: 29 APR 2023 09:00-11:00"
       ]
     },
@@ -132,8 +132,8 @@
       ],
       "Semester II": [
         "Shashank Shekhar TRIPATHI",
-        "Grp L1: Mon 12:00-15:00 COM3-MPH",
-        "Grp L2: Mon 18:30-21:30 COM3-MPH"
+        "Grp L1: Mon 12:00-15:00 COM1-0206",
+        "Grp L2: Mon 18:30-21:30 LT15"
       ]
     },
     {
@@ -225,7 +225,7 @@
         "Praneeth Shalinda Adikari A. A.",
         "Sharon TAN Swee Lin",
         "WANG Qiuhong",
-        "Grp L1: Wed 13:00-16:00 COM3-MPH"
+        "Grp L1: Wed 13:00-16:00 E-Learn_C"
       ]
     },
     {
@@ -314,7 +314,7 @@
       ],
       "Semester II": [
         "LU Weiquan",
-        "Grp L1: Mon 15:00-18:00 COM3-MPH"
+        "Grp L1: Mon 15:00-18:00 COM1-0210"
       ]
     },
     {
@@ -357,7 +357,7 @@
       "Semester II": [
         "Vaibhav RAJAN",
         "Grp L1: Mon 14:00-16:00 LT15",
-        "Grp L2: Mon 18:30-20:30 LT15"
+        "Grp L2: Mon 18:30-20:30 SR_LT19"
       ]
     },
     {
@@ -1119,7 +1119,7 @@
       ],
       "Semester II": [
         "CHANG Ee Chien",
-        "Grp L1: Thu 10:00-12:00 I3-AUD",
+        "Grp L1: Thu 10:00-12:00 UT-AUD2",
         "Grp L2: Thu 10:00-12:00",
         "Exam: 24 APR 2023 09:00-11:00"
       ]
@@ -1599,7 +1599,7 @@
       "Semester I": [],
       "Semester II": [
         "LEONG Tze Yun",
-        "Grp L1: Mon 10:00-12:00 COM3-MPH",
+        "Grp L1: Mon 10:00-12:00 COM1-0204",
         "Exam: 29 APR 2023 09:00-11:00"
       ]
     },
@@ -1612,7 +1612,7 @@
       "Semester I": [],
       "Semester II": [
         "LOW Kian Hsiang",
-        "Grp L1: Thu 10:00-12:00 COM3-MPH",
+        "Grp L1: Thu 10:00-12:00 COM3-01-20",
         "Exam: 25 APR 2023 17:00-19:00"
       ]
     },
@@ -1938,7 +1938,7 @@
       ],
       "Semester II": [
         "Angela YAO Yingjie",
-        "Grp L1: Tue 14:00-16:00 COM3-MPH",
+        "Grp L1: Tue 14:00-16:00 LT19",
         "Exam: 04 MAY 2023 13:00-15:00"
       ]
     },
@@ -2195,7 +2195,7 @@
         "Dumitrel LOGHIN",
         "TEO Yong Meng",
         "Grp L1: Tue 18:30-20:30 COM3-MPH",
-        "Grp L2: Wed 16:00-18:00 COM3-MPH"
+        "Grp L2: Wed 16:00-18:00 COM1-0206"
       ]
     },
     {
@@ -3339,7 +3339,7 @@
       ],
       "Semester II": [
         "Praneeth Shalinda Adikari A. A.",
-        "Grp L1: Tue 14:00-16:00 LT19",
+        "Grp L1: Tue 14:00-16:00 RMI-SR1",
         "Exam: 03 MAY 2023 09:00-11:00"
       ]
     },
@@ -3588,7 +3588,7 @@
       ],
       "Semester II": [
         "HENG Cheng Suang",
-        "Grp L1: Wed 10:00-12:00 COM3-MPH",
+        "Grp L1: Wed 10:00-12:00 LT15",
         "Exam: 03 MAY 2023 13:00-15:00"
       ]
     },
@@ -3632,7 +3632,7 @@
       ],
       "Semester II": [
         "LU Weiquan",
-        "Grp L1: Tue 09:00-12:00 COM3-MPH"
+        "Grp L1: Tue 09:00-12:00 COM1-0210"
       ]
     },
     {
@@ -4015,7 +4015,7 @@
       ],
       "Semester II": [
         "KIM Seung Hyun",
-        "Grp L1: Mon 18:30-21:30"
+        "Grp L1: Mon 18:30-21:30 COM2-0402"
       ]
     },
     {
