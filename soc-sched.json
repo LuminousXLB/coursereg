@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "1 Aug - 3 Dec 2022",
     "Semester II": "9 Jan - 6 May 2023",
-    "last_modified": "2023-01-17T23:00:15"
+    "last_modified": "2023-01-18T23:00:13"
   },
   "schedule": [
     {
@@ -1172,7 +1172,7 @@
       "Semester II": [
         "Akshay NARAYAN",
         "Grp L1: Fri 16:00-18:00 I3-AUD",
-        "Exam: 03 MAY 2023 09:00-11:00"
+        "Exam: 03 MAY 2023 09:00-10:30"
       ]
     },
     {
@@ -1195,7 +1195,7 @@
         "Thu 09:00-10:00 COM1-0201",
         "Thu 12:00-14:00 AS6-0209",
         "Fri 16:00-18:00 I3-AUD",
-        "Exam: 03 MAY 2023 09:00-11:00"
+        "Exam: 03 MAY 2023 09:00-10:30"
       ]
     },
     {
@@ -1265,6 +1265,10 @@
         "Grp L1: Tue 10:00-12:00 I3-AUD",
         "Tue 14:00-16:00 I3-AUD",
         "Grp L2: Tue 10:00-12:00 I3-AUD",
+        "Tue 14:00-16:00 I3-AUD",
+        "Grp L3: Tue 10:00-12:00 I3-AUD",
+        "Tue 14:00-16:00 I3-AUD",
+        "Grp L4: Tue 10:00-12:00 I3-AUD",
         "Tue 14:00-16:00 I3-AUD"
       ]
     },
