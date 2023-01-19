@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "1 Aug - 3 Dec 2022",
     "Semester II": "9 Jan - 6 May 2023",
-    "last_modified": "2023-01-18T23:00:13"
+    "last_modified": "2023-01-19T23:00:12"
   },
   "schedule": [
     {
@@ -99,7 +99,7 @@
       ],
       "Semester II": [
         "NG Teck Khim",
-        "Grp L1: Tue 16:00-18:00 COM1-0206",
+        "Grp L1: Tue 16:00-18:00 COM3-MPH",
         "Exam: 29 APR 2023 09:00-11:00"
       ]
     },
@@ -132,8 +132,8 @@
       ],
       "Semester II": [
         "Shashank Shekhar TRIPATHI",
-        "Grp L1: Mon 12:00-15:00 COM1-0206",
-        "Grp L2: Mon 18:30-21:30 LT15"
+        "Grp L1: Mon 12:00-15:00 COM3-MPH",
+        "Grp L2: Mon 18:30-21:30 COM3-MPH"
       ]
     },
     {
@@ -205,7 +205,7 @@
       ],
       "Semester II": [
         "Frank XING Zhutian",
-        "Grp L1: Thu 12:00-14:00 COM1-0206",
+        "Grp L1: Thu 12:00-14:00 COM3-MPH",
         "Exam: 27 APR 2023 09:00-11:00"
       ]
     },
@@ -239,7 +239,7 @@
       ],
       "Semester II": [
         "Vivek Sundar MAGESH",
-        "Grp L1: Thu 15:00-18:00 COM3-01-23"
+        "Grp L1: Thu 15:00-18:00 COM3-MPH"
       ]
     },
     {
@@ -2198,8 +2198,8 @@
       "Semester II": [
         "Dumitrel LOGHIN",
         "TEO Yong Meng",
-        "Grp L1: Tue 18:30-20:30 LT17",
-        "Grp L2: Wed 16:00-18:00 COM1-0206"
+        "Grp L1: Tue 18:30-20:30 COM3-MPH",
+        "Grp L2: Wed 16:00-18:00 COM3-MPH"
       ]
     },
     {
@@ -3592,7 +3592,7 @@
       ],
       "Semester II": [
         "HENG Cheng Suang",
-        "Grp L1: Wed 10:00-12:00 LT15",
+        "Grp L1: Wed 10:00-12:00 COM3-MPH",
         "Exam: 03 MAY 2023 13:00-15:00"
       ]
     },
