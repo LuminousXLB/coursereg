@@ -2,12 +2,12 @@
   "meta": {
     "Semester I": "1 Aug - 3 Dec 2022",
     "Semester II": "9 Jan - 6 May 2023",
-    "last_modified": "2023-02-02T23:00:13"
+    "last_modified": "2023-03-06T23:00:12"
   },
   "schedule": [
     {
-      "Module Code": "BT1101",
-      "Module Title": [
+      "Course Code": "BT1101",
+      "Course Title": [
         "Introduction to Business Analytics",
         "Modular Credits = 4"
       ],
@@ -25,8 +25,8 @@
       ]
     },
     {
-      "Module Code": "BT2101",
-      "Module Title": [
+      "Course Code": "BT2101",
+      "Course Title": [
         "Econometrics Modeling for Business Analytics",
         "Modular Credits = 4"
       ],
@@ -42,8 +42,8 @@
       ]
     },
     {
-      "Module Code": "BT2102",
-      "Module Title": [
+      "Course Code": "BT2102",
+      "Course Title": [
         "Data Management and Visualisation",
         "Modular Credits = 4"
       ],
@@ -57,8 +57,8 @@
       ]
     },
     {
-      "Module Code": "BT2103",
-      "Module Title": [
+      "Course Code": "BT2103",
+      "Course Title": [
         "Optimization Methods in Business Analytics",
         "Modular Credits = 4"
       ],
@@ -74,8 +74,8 @@
       ]
     },
     {
-      "Module Code": "BT2201",
-      "Module Title": [
+      "Course Code": "BT2201",
+      "Course Title": [
         "Business Concepts and Metrics for Analytics",
         "Modular Credits = 4"
       ],
@@ -89,8 +89,8 @@
       ]
     },
     {
-      "Module Code": "BT3017",
-      "Module Title": [
+      "Course Code": "BT3017",
+      "Course Title": [
         "Feature Engineering for Machine Learning",
         "Modular Credits = 4"
       ],
@@ -104,8 +104,8 @@
       ]
     },
     {
-      "Module Code": "BT3102",
-      "Module Title": [
+      "Course Code": "BT3102",
+      "Course Title": [
         "Computational Methods for Business Analytics",
         "Modular Credits = 4"
       ],
@@ -121,8 +121,8 @@
       ]
     },
     {
-      "Module Code": "BT3103",
-      "Module Title": [
+      "Course Code": "BT3103",
+      "Course Title": [
         "Application Systems Development for Business Analytics",
         "Modular Credits = 4"
       ],
@@ -137,8 +137,8 @@
       ]
     },
     {
-      "Module Code": "BT4012",
-      "Module Title": [
+      "Course Code": "BT4012",
+      "Course Title": [
         "Fraud Analytics",
         "Modular Credits = 4"
       ],
@@ -152,8 +152,8 @@
       ]
     },
     {
-      "Module Code": "BT4013",
-      "Module Title": [
+      "Course Code": "BT4013",
+      "Course Title": [
         "Analytics for Capital Market Trading and Investment",
         "Modular Credits = 4"
       ],
@@ -167,8 +167,8 @@
       ]
     },
     {
-      "Module Code": "BT4014",
-      "Module Title": [
+      "Course Code": "BT4014",
+      "Course Title": [
         "Analytics Driven Design of Adaptive Systems",
         "Modular Credits = 4"
       ],
@@ -181,8 +181,8 @@
       ]
     },
     {
-      "Module Code": "BT4015",
-      "Module Title": [
+      "Course Code": "BT4015",
+      "Course Title": [
         "Geospatial Analytics",
         "Modular Credits = 4"
       ],
@@ -195,8 +195,8 @@
       ]
     },
     {
-      "Module Code": "BT4016",
-      "Module Title": [
+      "Course Code": "BT4016",
+      "Course Title": [
         "Risk Analytics for Financial Services",
         "Modular Credits = 4"
       ],
@@ -210,8 +210,8 @@
       ]
     },
     {
-      "Module Code": "BT4103",
-      "Module Title": [
+      "Course Code": "BT4103",
+      "Course Title": [
         "Business Analytics Capstone Project",
         "Modular Credits = 8"
       ],
@@ -229,8 +229,8 @@
       ]
     },
     {
-      "Module Code": "BT4211",
-      "Module Title": [
+      "Course Code": "BT4211",
+      "Course Title": [
         "Data-Driven Marketing",
         "Modular Credits = 4"
       ],
@@ -243,8 +243,8 @@
       ]
     },
     {
-      "Module Code": "BT4212",
-      "Module Title": [
+      "Course Code": "BT4212",
+      "Course Title": [
         "Search Engine Optimization and Analytics",
         "Modular Credits = 4"
       ],
@@ -258,8 +258,8 @@
       ]
     },
     {
-      "Module Code": "BT4221",
-      "Module Title": [
+      "Course Code": "BT4221",
+      "Course Title": [
         "Big Data Techniques and Technologies",
         "Modular Credits = 4"
       ],
@@ -273,8 +273,8 @@
       ]
     },
     {
-      "Module Code": "BT4222",
-      "Module Title": [
+      "Course Code": "BT4222",
+      "Course Title": [
         "Mining Web Data for Business Insights",
         "Modular Credits = 4"
       ],
@@ -288,8 +288,8 @@
       ]
     },
     {
-      "Module Code": "BT4240",
-      "Module Title": [
+      "Course Code": "BT4240",
+      "Course Title": [
         "Machine Learning for Predictive Data Analytics",
         "Modular Credits = 4"
       ],
@@ -303,8 +303,8 @@
       ]
     },
     {
-      "Module Code": "BT4301",
-      "Module Title": [
+      "Course Code": "BT4301",
+      "Course Title": [
         "Business Analytics Solutions Development and Deployment",
         "Modular Credits = 4"
       ],
@@ -318,8 +318,8 @@
       ]
     },
     {
-      "Module Code": "BT5110",
-      "Module Title": [
+      "Course Code": "BT5110",
+      "Course Title": [
         "Data Management and Warehousing",
         "Modular Credits = 4"
       ],
@@ -332,8 +332,8 @@
       ]
     },
     {
-      "Module Code": "BT5126",
-      "Module Title": [
+      "Course Code": "BT5126",
+      "Course Title": [
         "Hands-on with Business Analytics",
         "Modular Credits = 4"
       ],
@@ -346,8 +346,8 @@
       ]
     },
     {
-      "Module Code": "BT5151",
-      "Module Title": [
+      "Course Code": "BT5151",
+      "Course Title": [
         "Advanced Analytics and Machine Learning",
         "Modular Credits = 4"
       ],
@@ -361,8 +361,8 @@
       ]
     },
     {
-      "Module Code": "BT5153",
-      "Module Title": [
+      "Course Code": "BT5153",
+      "Course Title": [
         "Applied Machine Learning for Business Analytics",
         "Modular Credits = 4"
       ],
@@ -375,8 +375,8 @@
       ]
     },
     {
-      "Module Code": "CG1111A",
-      "Module Title": [
+      "Course Code": "CG1111A",
+      "Course Title": [
         "Engineering Principles and Practice I",
         "Modular Credits = 4"
       ],
@@ -389,8 +389,8 @@
       ]
     },
     {
-      "Module Code": "CG2111A",
-      "Module Title": [
+      "Course Code": "CG2111A",
+      "Course Title": [
         "Engineering Principles and Practice II",
         "Modular Credits = 4"
       ],
@@ -405,8 +405,8 @@
       ]
     },
     {
-      "Module Code": "CG2271",
-      "Module Title": [
+      "Course Code": "CG2271",
+      "Course Title": [
         "Real-Time Operating Systems",
         "Modular Credits = 4"
       ],
@@ -420,8 +420,8 @@
       ]
     },
     {
-      "Module Code": "CG4002",
-      "Module Title": [
+      "Course Code": "CG4002",
+      "Course Title": [
         "Computer Engineering Capstone Project",
         "Modular Credits = 8"
       ],
@@ -438,8 +438,8 @@
       ]
     },
     {
-      "Module Code": "CP2106",
-      "Module Title": [
+      "Course Code": "CP2106",
+      "Course Title": [
         "Independent Software Development Project (Orbital)",
         "Modular Credits = 4"
       ],
@@ -454,8 +454,8 @@
       ]
     },
     {
-      "Module Code": "CP2201",
-      "Module Title": [
+      "Course Code": "CP2201",
+      "Course Title": [
         "Journey of the Innovator",
         "Modular Credits = 2"
       ],
@@ -468,8 +468,8 @@
       ]
     },
     {
-      "Module Code": "CP3201",
-      "Module Title": [
+      "Course Code": "CP3201",
+      "Course Title": [
         "Industry Seminar",
         "Modular Credits = 2"
       ],
@@ -483,8 +483,8 @@
       ]
     },
     {
-      "Module Code": "CS1010",
-      "Module Title": [
+      "Course Code": "CS1010",
+      "Course Title": [
         "Programming Methodology",
         "Modular Credits = 4"
       ],
@@ -500,8 +500,8 @@
       ]
     },
     {
-      "Module Code": "CS1010E",
-      "Module Title": [
+      "Course Code": "CS1010E",
+      "Course Title": [
         "Programming Methodology",
         "Modular Credits = 4"
       ],
@@ -522,8 +522,8 @@
       ]
     },
     {
-      "Module Code": "CS1010J",
-      "Module Title": [
+      "Course Code": "CS1010J",
+      "Course Title": [
         "Programming Methodology",
         "Modular Credits = 4"
       ],
@@ -537,8 +537,8 @@
       ]
     },
     {
-      "Module Code": "CS1010S",
-      "Module Title": [
+      "Course Code": "CS1010S",
+      "Course Title": [
         "Programming Methodology",
         "Modular Credits = 4"
       ],
@@ -558,10 +558,10 @@
       ]
     },
     {
-      "Module Code": "CS1010X",
-      "Module Title": [
+      "Course Code": "CS1010X",
+      "Course Title": [
         "Programming Methodology",
-        "(iBLOC Module, not for Undergraduate, offered from Jan - Jun.",
+        "(iBLOC Course, not for Undergraduate, offered from Jan - Jun.",
         "Details at https://www.nus.edu.sg/ibloc/iBLOC.html)",
         "Modular Credits = 4"
       ],
@@ -574,8 +574,8 @@
       ]
     },
     {
-      "Module Code": "CS1101S",
-      "Module Title": [
+      "Course Code": "CS1101S",
+      "Course Title": [
         "Programming Methodology",
         "Modular Credits = 4"
       ],
@@ -594,8 +594,8 @@
       ]
     },
     {
-      "Module Code": "CS1231",
-      "Module Title": [
+      "Course Code": "CS1231",
+      "Course Title": [
         "Discrete Structures",
         "Modular Credits = 4"
       ],
@@ -613,8 +613,8 @@
       ]
     },
     {
-      "Module Code": "CS1231S",
-      "Module Title": [
+      "Course Code": "CS1231S",
+      "Course Title": [
         "Discrete Structures",
         "Modular Credits = 4"
       ],
@@ -635,8 +635,8 @@
       ]
     },
     {
-      "Module Code": "CS2030",
-      "Module Title": [
+      "Course Code": "CS2030",
+      "Course Title": [
         "Programming Methodology II",
         "Modular Credits = 4"
       ],
@@ -653,8 +653,8 @@
       ]
     },
     {
-      "Module Code": "CS2030S",
-      "Module Title": [
+      "Course Code": "CS2030S",
+      "Course Title": [
         "Programming Methodology II",
         "Modular Credits = 4"
       ],
@@ -672,8 +672,8 @@
       ]
     },
     {
-      "Module Code": "CS2040",
-      "Module Title": [
+      "Course Code": "CS2040",
+      "Course Title": [
         "Data Structures and Algorithms",
         "Modular Credits = 4"
       ],
@@ -697,8 +697,8 @@
       ]
     },
     {
-      "Module Code": "CS2040C",
-      "Module Title": [
+      "Course Code": "CS2040C",
+      "Course Title": [
         "Data Structures and Algorithms",
         "Modular Credits = 4"
       ],
@@ -716,8 +716,8 @@
       ]
     },
     {
-      "Module Code": "CS2040S",
-      "Module Title": [
+      "Course Code": "CS2040S",
+      "Course Title": [
         "Data Structures and Algorithms",
         "Modular Credits = 4"
       ],
@@ -736,8 +736,8 @@
       ]
     },
     {
-      "Module Code": "CS2100",
-      "Module Title": [
+      "Course Code": "CS2100",
+      "Course Title": [
         "Computer Organisation",
         "Modular Credits = 4"
       ],
@@ -756,8 +756,8 @@
       ]
     },
     {
-      "Module Code": "CS2101",
-      "Module Title": [
+      "Course Code": "CS2101",
+      "Course Title": [
         "Effective Communication for Computing Professionals",
         "Modular Credits = 4"
       ],
@@ -855,8 +855,8 @@
       ]
     },
     {
-      "Module Code": "CS2102",
-      "Module Title": [
+      "Course Code": "CS2102",
+      "Course Title": [
         "Database Systems",
         "Modular Credits = 4"
       ],
@@ -877,8 +877,8 @@
       ]
     },
     {
-      "Module Code": "CS2103",
-      "Module Title": [
+      "Course Code": "CS2103",
+      "Course Title": [
         "Software Engineering",
         "Modular Credits = 4"
       ],
@@ -894,8 +894,8 @@
       ]
     },
     {
-      "Module Code": "CS2103T",
-      "Module Title": [
+      "Course Code": "CS2103T",
+      "Course Title": [
         "Software Engineering",
         "Modular Credits = 4"
       ],
@@ -1050,8 +1050,8 @@
       ]
     },
     {
-      "Module Code": "CS2104",
-      "Module Title": [
+      "Course Code": "CS2104",
+      "Course Title": [
         "Programming Language Concepts",
         "Modular Credits = 4"
       ],
@@ -1065,8 +1065,8 @@
       ]
     },
     {
-      "Module Code": "CS2105",
-      "Module Title": [
+      "Course Code": "CS2105",
+      "Course Title": [
         "Introduction to Computer Networks",
         "Modular Credits = 4"
       ],
@@ -1086,8 +1086,8 @@
       ]
     },
     {
-      "Module Code": "CS2106",
-      "Module Title": [
+      "Course Code": "CS2106",
+      "Course Title": [
         "Introduction to Operating Systems",
         "Modular Credits = 4"
       ],
@@ -1107,8 +1107,8 @@
       ]
     },
     {
-      "Module Code": "CS2107",
-      "Module Title": [
+      "Course Code": "CS2107",
+      "Course Title": [
         "Introduction to Information Security",
         "Modular Credits = 4"
       ],
@@ -1125,8 +1125,8 @@
       ]
     },
     {
-      "Module Code": "CS2108",
-      "Module Title": [
+      "Course Code": "CS2108",
+      "Course Title": [
         "Introduction to Media Computing",
         "Modular Credits = 4"
       ],
@@ -1140,8 +1140,8 @@
       ]
     },
     {
-      "Module Code": "CS2109S",
-      "Module Title": [
+      "Course Code": "CS2109S",
+      "Course Title": [
         "Introduction to AI and Machine Learning",
         "Modular Credits = 4"
       ],
@@ -1158,8 +1158,8 @@
       ]
     },
     {
-      "Module Code": "CS2113",
-      "Module Title": [
+      "Course Code": "CS2113",
+      "Course Title": [
         "Software Engineering & Object-Oriented Programming",
         "Modular Credits = 4"
       ],
@@ -1175,8 +1175,8 @@
       ]
     },
     {
-      "Module Code": "CS2113T",
-      "Module Title": [
+      "Course Code": "CS2113T",
+      "Course Title": [
         "Software Engineering & Object-Oriented Programming",
         "Modular Credits = 4"
       ],
@@ -1198,8 +1198,8 @@
       ]
     },
     {
-      "Module Code": "CS2220",
-      "Module Title": [
+      "Course Code": "CS2220",
+      "Course Title": [
         "Introduction to Computational Biology",
         "Modular Credits = 4"
       ],
@@ -1213,8 +1213,8 @@
       ]
     },
     {
-      "Module Code": "CS2309",
-      "Module Title": [
+      "Course Code": "CS2309",
+      "Course Title": [
         "CS Research Methodology",
         "Modular Credits = 4"
       ],
@@ -1228,8 +1228,8 @@
       ]
     },
     {
-      "Module Code": "CS3103",
-      "Module Title": [
+      "Course Code": "CS3103",
+      "Course Title": [
         "Computer Networks Practice",
         "Modular Credits = 4"
       ],
@@ -1242,8 +1242,8 @@
       ]
     },
     {
-      "Module Code": "CS3203",
-      "Module Title": [
+      "Course Code": "CS3203",
+      "Course Title": [
         "Software Engineering Project",
         "Modular Credits = 8"
       ],
@@ -1272,8 +1272,8 @@
       ]
     },
     {
-      "Module Code": "CS3210",
-      "Module Title": [
+      "Course Code": "CS3210",
+      "Course Title": [
         "Parallel Computing",
         "Modular Credits = 4"
       ],
@@ -1287,8 +1287,8 @@
       ]
     },
     {
-      "Module Code": "CS3211",
-      "Module Title": [
+      "Course Code": "CS3211",
+      "Course Title": [
         "Parallel and Concurrent Programming",
         "Modular Credits = 4"
       ],
@@ -1302,8 +1302,8 @@
       ]
     },
     {
-      "Module Code": "CS3213",
-      "Module Title": [
+      "Course Code": "CS3213",
+      "Course Title": [
         "Foundations of Software Engineering",
         "Modular Credits = 4"
       ],
@@ -1317,8 +1317,8 @@
       ]
     },
     {
-      "Module Code": "CS3216",
-      "Module Title": [
+      "Course Code": "CS3216",
+      "Course Title": [
         "Software Product Engineering for Digital Markets",
         "Modular Credits = 5"
       ],
@@ -1331,8 +1331,8 @@
       ]
     },
     {
-      "Module Code": "CS3217",
-      "Module Title": [
+      "Course Code": "CS3217",
+      "Course Title": [
         "Software Engineering on Modern Application Platforms",
         "Modular Credits = 5"
       ],
@@ -1346,8 +1346,8 @@
       ]
     },
     {
-      "Module Code": "CS3219",
-      "Module Title": [
+      "Course Code": "CS3219",
+      "Course Title": [
         "Software Engineering Principles and Patterns",
         "Modular Credits = 4"
       ],
@@ -1362,8 +1362,8 @@
       ]
     },
     {
-      "Module Code": "CS3223",
-      "Module Title": [
+      "Course Code": "CS3223",
+      "Course Title": [
         "Database Systems Implementation",
         "Modular Credits = 4"
       ],
@@ -1377,8 +1377,8 @@
       ]
     },
     {
-      "Module Code": "CS3230",
-      "Module Title": [
+      "Course Code": "CS3230",
+      "Course Title": [
         "Design and Analysis of Algorithms",
         "Modular Credits = 4"
       ],
@@ -1398,8 +1398,8 @@
       ]
     },
     {
-      "Module Code": "CS3231",
-      "Module Title": [
+      "Course Code": "CS3231",
+      "Course Title": [
         "Theory of Computation",
         "Modular Credits = 4"
       ],
@@ -1413,8 +1413,8 @@
       ]
     },
     {
-      "Module Code": "CS3233",
-      "Module Title": [
+      "Course Code": "CS3233",
+      "Course Title": [
         "Competitive Programming",
         "Modular Credits = 4"
       ],
@@ -1427,8 +1427,8 @@
       ]
     },
     {
-      "Module Code": "CS3235",
-      "Module Title": [
+      "Course Code": "CS3235",
+      "Course Title": [
         "Computer Security",
         "Modular Credits = 4"
       ],
@@ -1442,8 +1442,8 @@
       ]
     },
     {
-      "Module Code": "CS3236",
-      "Module Title": [
+      "Course Code": "CS3236",
+      "Course Title": [
         "Introduction to Information Theory",
         "Modular Credits = 4"
       ],
@@ -1457,8 +1457,8 @@
       ]
     },
     {
-      "Module Code": "CS3237",
-      "Module Title": [
+      "Course Code": "CS3237",
+      "Course Title": [
         "Introduction to Internet of Things",
         "Modular Credits = 4"
       ],
@@ -1471,8 +1471,8 @@
       ]
     },
     {
-      "Module Code": "CS3240",
-      "Module Title": [
+      "Course Code": "CS3240",
+      "Course Title": [
         "Interaction Design",
         "Modular Credits = 4"
       ],
@@ -1487,8 +1487,8 @@
       ]
     },
     {
-      "Module Code": "CS3241",
-      "Module Title": [
+      "Course Code": "CS3241",
+      "Course Title": [
         "Computer Graphics",
         "Modular Credits = 4"
       ],
@@ -1502,8 +1502,8 @@
       ]
     },
     {
-      "Module Code": "CS3242",
-      "Module Title": [
+      "Course Code": "CS3242",
+      "Course Title": [
         "3D Modeling and Animation",
         "Modular Credits = 4"
       ],
@@ -1517,8 +1517,8 @@
       ]
     },
     {
-      "Module Code": "CS3243",
-      "Module Title": [
+      "Course Code": "CS3243",
+      "Course Title": [
         "Introduction to Artificial Intelligence",
         "Modular Credits = 4"
       ],
@@ -1534,8 +1534,8 @@
       ]
     },
     {
-      "Module Code": "CS3244",
-      "Module Title": [
+      "Course Code": "CS3244",
+      "Course Title": [
         "Machine Learning",
         "Modular Credits = 4"
       ],
@@ -1554,8 +1554,8 @@
       ]
     },
     {
-      "Module Code": "CS3245",
-      "Module Title": [
+      "Course Code": "CS3245",
+      "Course Title": [
         "Information Retrieval",
         "Modular Credits = 4"
       ],
@@ -1569,8 +1569,8 @@
       ]
     },
     {
-      "Module Code": "CS3247",
-      "Module Title": [
+      "Course Code": "CS3247",
+      "Course Title": [
         "Game Development",
         "Modular Credits = 4"
       ],
@@ -1583,8 +1583,8 @@
       ]
     },
     {
-      "Module Code": "CS3249",
-      "Module Title": [
+      "Course Code": "CS3249",
+      "Course Title": [
         "User Interface Development",
         "Modular Credits = 4"
       ],
@@ -1594,8 +1594,8 @@
       "Semester II": []
     },
     {
-      "Module Code": "CS3263",
-      "Module Title": [
+      "Course Code": "CS3263",
+      "Course Title": [
         "Foundations of Artificial Intelligence",
         "Modular Credits = 4"
       ],
@@ -1606,8 +1606,8 @@
       ]
     },
     {
-      "Module Code": "CS3264",
-      "Module Title": [
+      "Course Code": "CS3264",
+      "Course Title": [
         "Foundations of Machine Learning",
         "Modular Credits = 4"
       ],
@@ -1619,8 +1619,8 @@
       ]
     },
     {
-      "Module Code": "CS3281",
-      "Module Title": [
+      "Course Code": "CS3281",
+      "Course Title": [
         "Thematic Systems Project I",
         "Modular Credits = 4"
       ],
@@ -1633,8 +1633,8 @@
       ]
     },
     {
-      "Module Code": "CS3282",
-      "Module Title": [
+      "Course Code": "CS3282",
+      "Course Title": [
         "Thematic Systems Project II",
         "Modular Credits = 4"
       ],
@@ -1647,8 +1647,8 @@
       ]
     },
     {
-      "Module Code": "CS4211",
-      "Module Title": [
+      "Course Code": "CS4211",
+      "Course Title": [
         "Formal Methods for Software Engineering",
         "Modular Credits = 4"
       ],
@@ -1661,8 +1661,8 @@
       ]
     },
     {
-      "Module Code": "CS4212",
-      "Module Title": [
+      "Course Code": "CS4212",
+      "Course Title": [
         "Compiler Design",
         "Modular Credits = 4"
       ],
@@ -1676,8 +1676,8 @@
       ]
     },
     {
-      "Module Code": "CS4215",
-      "Module Title": [
+      "Course Code": "CS4215",
+      "Course Title": [
         "Programming Language Implementation",
         "Modular Credits = 4"
       ],
@@ -1690,8 +1690,8 @@
       ]
     },
     {
-      "Module Code": "CS4218",
-      "Module Title": [
+      "Course Code": "CS4218",
+      "Course Title": [
         "Software Testing",
         "Modular Credits = 4"
       ],
@@ -1705,8 +1705,8 @@
       ]
     },
     {
-      "Module Code": "CS4220",
-      "Module Title": [
+      "Course Code": "CS4220",
+      "Course Title": [
         "Knowledge Discovery Methods in Bioinformatics",
         "Modular Credits = 4"
       ],
@@ -1721,8 +1721,8 @@
       ]
     },
     {
-      "Module Code": "CS4221",
-      "Module Title": [
+      "Course Code": "CS4221",
+      "Course Title": [
         "Database Applications Design and Tuning",
         "Modular Credits = 4"
       ],
@@ -1735,8 +1735,8 @@
       ]
     },
     {
-      "Module Code": "CS4222",
-      "Module Title": [
+      "Course Code": "CS4222",
+      "Course Title": [
         "Wireless Networking",
         "Modular Credits = 4"
       ],
@@ -1750,8 +1750,8 @@
       ]
     },
     {
-      "Module Code": "CS4223",
-      "Module Title": [
+      "Course Code": "CS4223",
+      "Course Title": [
         "Multi-core Architectures",
         "Modular Credits = 4"
       ],
@@ -1764,8 +1764,8 @@
       ]
     },
     {
-      "Module Code": "CS4224",
-      "Module Title": [
+      "Course Code": "CS4224",
+      "Course Title": [
         "Distributed Databases",
         "Modular Credits = 4"
       ],
@@ -1779,8 +1779,8 @@
       ]
     },
     {
-      "Module Code": "CS4225",
-      "Module Title": [
+      "Course Code": "CS4225",
+      "Course Title": [
         "Big Data Systems for Data Science",
         "Modular Credits = 4"
       ],
@@ -1796,8 +1796,8 @@
       ]
     },
     {
-      "Module Code": "CS4226",
-      "Module Title": [
+      "Course Code": "CS4226",
+      "Course Title": [
         "Internet Architecture",
         "Modular Credits = 4"
       ],
@@ -1811,8 +1811,8 @@
       ]
     },
     {
-      "Module Code": "CS4230",
-      "Module Title": [
+      "Course Code": "CS4230",
+      "Course Title": [
         "Foundations of Modern Cryptography",
         "Modular Credits = 4"
       ],
@@ -1825,8 +1825,8 @@
       ]
     },
     {
-      "Module Code": "CS4231",
-      "Module Title": [
+      "Course Code": "CS4231",
+      "Course Title": [
         "Parallel and Distributed Algorithms",
         "Modular Credits = 4"
       ],
@@ -1840,8 +1840,8 @@
       ]
     },
     {
-      "Module Code": "CS4234",
-      "Module Title": [
+      "Course Code": "CS4234",
+      "Course Title": [
         "Optimisation Algorithms",
         "Modular Credits = 4"
       ],
@@ -1855,8 +1855,8 @@
       ]
     },
     {
-      "Module Code": "CS4236",
-      "Module Title": [
+      "Course Code": "CS4236",
+      "Course Title": [
         "Cryptography Theory and Practice",
         "Modular Credits = 4"
       ],
@@ -1870,8 +1870,8 @@
       ]
     },
     {
-      "Module Code": "CS4238",
-      "Module Title": [
+      "Course Code": "CS4238",
+      "Course Title": [
         "Computer Security Practice",
         "Modular Credits = 4"
       ],
@@ -1885,8 +1885,8 @@
       ]
     },
     {
-      "Module Code": "CS4239",
-      "Module Title": [
+      "Course Code": "CS4239",
+      "Course Title": [
         "Software Security",
         "Modular Credits = 4"
       ],
@@ -1902,8 +1902,8 @@
       ]
     },
     {
-      "Module Code": "CS4240",
-      "Module Title": [
+      "Course Code": "CS4240",
+      "Course Title": [
         "Interaction Design for Virtual and Augmented Reality",
         "Modular Credits = 4"
       ],
@@ -1916,8 +1916,8 @@
       ]
     },
     {
-      "Module Code": "CS4242",
-      "Module Title": [
+      "Course Code": "CS4242",
+      "Course Title": [
         "Social Media Computing",
         "Modular Credits = 4"
       ],
@@ -1930,8 +1930,8 @@
       ]
     },
     {
-      "Module Code": "CS4243",
-      "Module Title": [
+      "Course Code": "CS4243",
+      "Course Title": [
         "Computer Vision and Pattern Recognition",
         "Modular Credits = 4"
       ],
@@ -1947,8 +1947,8 @@
       ]
     },
     {
-      "Module Code": "CS4244",
-      "Module Title": [
+      "Course Code": "CS4244",
+      "Course Title": [
         "Knowledge Representation and Reasoning",
         "Modular Credits = 4"
       ],
@@ -1961,8 +1961,8 @@
       ]
     },
     {
-      "Module Code": "CS4246",
-      "Module Title": [
+      "Course Code": "CS4246",
+      "Course Title": [
         "AI Planning and Decision Making",
         "Modular Credits = 4"
       ],
@@ -1979,8 +1979,8 @@
       ]
     },
     {
-      "Module Code": "CS4247",
-      "Module Title": [
+      "Course Code": "CS4247",
+      "Course Title": [
         "Graphics Rendering Techniques",
         "Modular Credits = 4"
       ],
@@ -1995,8 +1995,8 @@
       ]
     },
     {
-      "Module Code": "CS4248",
-      "Module Title": [
+      "Course Code": "CS4248",
+      "Course Title": [
         "Natural Language Processing",
         "Modular Credits = 4"
       ],
@@ -2014,8 +2014,8 @@
       ]
     },
     {
-      "Module Code": "CS4249",
-      "Module Title": [
+      "Course Code": "CS4249",
+      "Course Title": [
         "Phenomena and Theories of Human-Computer Interaction",
         "Modular Credits = 4"
       ],
@@ -2028,8 +2028,8 @@
       ]
     },
     {
-      "Module Code": "CS4261",
-      "Module Title": [
+      "Course Code": "CS4261",
+      "Course Title": [
         "Algorithmic Mechanism Design",
         "Modular Credits = 4"
       ],
@@ -2043,8 +2043,8 @@
       ]
     },
     {
-      "Module Code": "CS4268",
-      "Module Title": [
+      "Course Code": "CS4268",
+      "Course Title": [
         "Quantum Computing",
         "Modular Credits = 4"
       ],
@@ -2058,8 +2058,8 @@
       ]
     },
     {
-      "Module Code": "CS4269",
-      "Module Title": [
+      "Course Code": "CS4269",
+      "Course Title": [
         "Fundamentals of Logic in Computer Science",
         "Modular Credits = 4"
       ],
@@ -2072,8 +2072,8 @@
       ]
     },
     {
-      "Module Code": "CS4277",
-      "Module Title": [
+      "Course Code": "CS4277",
+      "Course Title": [
         "3D Computer Vision",
         "Modular Credits = 4"
       ],
@@ -2087,8 +2087,8 @@
       ]
     },
     {
-      "Module Code": "CS4278",
-      "Module Title": [
+      "Course Code": "CS4278",
+      "Course Title": [
         "Intelligent Robots: Algorithms and Systems",
         "Modular Credits = 4"
       ],
@@ -2099,8 +2099,8 @@
       ]
     },
     {
-      "Module Code": "CS4347",
-      "Module Title": [
+      "Course Code": "CS4347",
+      "Course Title": [
         "Sound and Music Computing",
         "Modular Credits = 4"
       ],
@@ -2113,8 +2113,8 @@
       ]
     },
     {
-      "Module Code": "CS4350",
-      "Module Title": [
+      "Course Code": "CS4350",
+      "Course Title": [
         "Game Development Project",
         "Modular Credits = 4"
       ],
@@ -2127,8 +2127,8 @@
       ]
     },
     {
-      "Module Code": "CS5218",
-      "Module Title": [
+      "Course Code": "CS5218",
+      "Course Title": [
         "Principles and Practice of Program Analysis",
         "Modular Credits = 4"
       ],
@@ -2141,8 +2141,8 @@
       ]
     },
     {
-      "Module Code": "CS5219",
-      "Module Title": [
+      "Course Code": "CS5219",
+      "Course Title": [
         "Automated Software Validation",
         "Modular Credits = 4"
       ],
@@ -2156,8 +2156,8 @@
       ]
     },
     {
-      "Module Code": "CS5222",
-      "Module Title": [
+      "Course Code": "CS5222",
+      "Course Title": [
         "Advanced Computer Architecture",
         "Modular Credits = 4"
       ],
@@ -2170,8 +2170,8 @@
       ]
     },
     {
-      "Module Code": "CS5223",
-      "Module Title": [
+      "Course Code": "CS5223",
+      "Course Title": [
         "Distributed Systems",
         "Modular Credits = 4"
       ],
@@ -2185,8 +2185,8 @@
       ]
     },
     {
-      "Module Code": "CS5224",
-      "Module Title": [
+      "Course Code": "CS5224",
+      "Course Title": [
         "Cloud Computing",
         "Modular Credits = 4"
       ],
@@ -2201,8 +2201,8 @@
       ]
     },
     {
-      "Module Code": "CS5228",
-      "Module Title": [
+      "Course Code": "CS5228",
+      "Course Title": [
         "Knowledge Discovery and Data Mining",
         "Modular Credits = 4"
       ],
@@ -2217,8 +2217,8 @@
       ]
     },
     {
-      "Module Code": "CS5229",
-      "Module Title": [
+      "Course Code": "CS5229",
+      "Course Title": [
         "Advanced Computer Networks",
         "Modular Credits = 4"
       ],
@@ -2232,8 +2232,8 @@
       ]
     },
     {
-      "Module Code": "CS5230",
-      "Module Title": [
+      "Course Code": "CS5230",
+      "Course Title": [
         "Computational Complexity",
         "Modular Credits = 4"
       ],
@@ -2247,8 +2247,8 @@
       ]
     },
     {
-      "Module Code": "CS5231",
-      "Module Title": [
+      "Course Code": "CS5231",
+      "Course Title": [
         "Systems Security",
         "Modular Credits = 4"
       ],
@@ -2261,8 +2261,8 @@
       ]
     },
     {
-      "Module Code": "CS5232",
-      "Module Title": [
+      "Course Code": "CS5232",
+      "Course Title": [
         "Formal Specification and Design Techniques",
         "Modular Credits = 4"
       ],
@@ -2275,8 +2275,8 @@
       ]
     },
     {
-      "Module Code": "CS5233",
-      "Module Title": [
+      "Course Code": "CS5233",
+      "Course Title": [
         "Simulation and Modelling Techniques",
         "Modular Credits = 4"
       ],
@@ -2290,8 +2290,8 @@
       ]
     },
     {
-      "Module Code": "CS5234",
-      "Module Title": [
+      "Course Code": "CS5234",
+      "Course Title": [
         "Algorithms at Scale",
         "Modular Credits = 4"
       ],
@@ -2304,8 +2304,8 @@
       ]
     },
     {
-      "Module Code": "CS5236",
-      "Module Title": [
+      "Course Code": "CS5236",
+      "Course Title": [
         "Advanced Automata Theory",
         "Modular Credits = 4"
       ],
@@ -2319,8 +2319,8 @@
       ]
     },
     {
-      "Module Code": "CS5237",
-      "Module Title": [
+      "Course Code": "CS5237",
+      "Course Title": [
         "Computational Geometry and Applications",
         "Modular Credits = 4"
       ],
@@ -2330,8 +2330,8 @@
       "Semester II": []
     },
     {
-      "Module Code": "CS5238",
-      "Module Title": [
+      "Course Code": "CS5238",
+      "Course Title": [
         "Advanced Combinatorial Methods in Bioinformatics",
         "Modular Credits = 4"
       ],
@@ -2345,8 +2345,8 @@
       ]
     },
     {
-      "Module Code": "CS5239",
-      "Module Title": [
+      "Course Code": "CS5239",
+      "Course Title": [
         "Computer System Performance Analysis",
         "Modular Credits = 4"
       ],
@@ -2359,8 +2359,8 @@
       ]
     },
     {
-      "Module Code": "CS5240",
-      "Module Title": [
+      "Course Code": "CS5240",
+      "Course Title": [
         "Theoretical Foundations in MultiMedia",
         "Modular Credits = 4"
       ],
@@ -2373,8 +2373,8 @@
       ]
     },
     {
-      "Module Code": "CS5242",
-      "Module Title": [
+      "Course Code": "CS5242",
+      "Course Title": [
         "Neural Networks and Deep Learning",
         "Modular Credits = 4"
       ],
@@ -2390,8 +2390,8 @@
       ]
     },
     {
-      "Module Code": "CS5246",
-      "Module Title": [
+      "Course Code": "CS5246",
+      "Course Title": [
         "Text Mining",
         "Modular Credits = 4"
       ],
@@ -2404,8 +2404,8 @@
       ]
     },
     {
-      "Module Code": "CS5250",
-      "Module Title": [
+      "Course Code": "CS5250",
+      "Course Title": [
         "Advanced Operating Systems",
         "Modular Credits = 4"
       ],
@@ -2419,8 +2419,8 @@
       ]
     },
     {
-      "Module Code": "CS5260",
-      "Module Title": [
+      "Course Code": "CS5260",
+      "Course Title": [
         "Neural Networks and Deep Learning II",
         "Modular Credits = 4"
       ],
@@ -2433,8 +2433,8 @@
       ]
     },
     {
-      "Module Code": "CS5272",
-      "Module Title": [
+      "Course Code": "CS5272",
+      "Course Title": [
         "Embedded Software Design",
         "Modular Credits = 4"
       ],
@@ -2444,8 +2444,8 @@
       "Semester II": []
     },
     {
-      "Module Code": "CS5321",
-      "Module Title": [
+      "Course Code": "CS5321",
+      "Course Title": [
         "Network Security",
         "Modular Credits = 4"
       ],
@@ -2458,8 +2458,8 @@
       ]
     },
     {
-      "Module Code": "CS5322",
-      "Module Title": [
+      "Course Code": "CS5322",
+      "Course Title": [
         "Database Security",
         "Modular Credits = 4"
       ],
@@ -2473,8 +2473,8 @@
       ]
     },
     {
-      "Module Code": "CS5330",
-      "Module Title": [
+      "Course Code": "CS5330",
+      "Course Title": [
         "Randomized Algorithms",
         "Modular Credits = 4"
       ],
@@ -2487,8 +2487,8 @@
       ]
     },
     {
-      "Module Code": "CS5331",
-      "Module Title": [
+      "Course Code": "CS5331",
+      "Course Title": [
         "Web Security",
         "Modular Credits = 4"
       ],
@@ -2502,8 +2502,8 @@
       ]
     },
     {
-      "Module Code": "CS5332",
-      "Module Title": [
+      "Course Code": "CS5332",
+      "Course Title": [
         "Biometric Authentication",
         "Modular Credits = 4"
       ],
@@ -2516,8 +2516,8 @@
       ]
     },
     {
-      "Module Code": "CS5339",
-      "Module Title": [
+      "Course Code": "CS5339",
+      "Course Title": [
         "Theory and Algorithms for Machine Learning",
         "Modular Credits = 4"
       ],
@@ -2531,8 +2531,8 @@
       ]
     },
     {
-      "Module Code": "CS5340",
-      "Module Title": [
+      "Course Code": "CS5340",
+      "Course Title": [
         "Uncertainty Modelling in AI",
         "Modular Credits = 4"
       ],
@@ -2548,8 +2548,8 @@
       ]
     },
     {
-      "Module Code": "CS5344",
-      "Module Title": [
+      "Course Code": "CS5344",
+      "Course Title": [
         "Big-Data Analytics Technology",
         "Modular Credits = 4"
       ],
@@ -2563,8 +2563,8 @@
       ]
     },
     {
-      "Module Code": "CS5346",
-      "Module Title": [
+      "Course Code": "CS5346",
+      "Course Title": [
         "Information Visualisation",
         "Modular Credits = 4"
       ],
@@ -2577,8 +2577,8 @@
       ]
     },
     {
-      "Module Code": "CS5421",
-      "Module Title": [
+      "Course Code": "CS5421",
+      "Course Title": [
         "Database Applications Design and Tuning",
         "Modular Credits = 4"
       ],
@@ -2591,8 +2591,8 @@
       ]
     },
     {
-      "Module Code": "CS5422",
-      "Module Title": [
+      "Course Code": "CS5422",
+      "Course Title": [
         "Wireless Networking",
         "Modular Credits = 4"
       ],
@@ -2606,8 +2606,8 @@
       ]
     },
     {
-      "Module Code": "CS5424",
-      "Module Title": [
+      "Course Code": "CS5424",
+      "Course Title": [
         "Distributed Databases",
         "Modular Credits = 4"
       ],
@@ -2621,8 +2621,8 @@
       ]
     },
     {
-      "Module Code": "CS5425",
-      "Module Title": [
+      "Course Code": "CS5425",
+      "Course Title": [
         "Big Data Systems for Data Science",
         "Modular Credits = 4"
       ],
@@ -2638,8 +2638,8 @@
       ]
     },
     {
-      "Module Code": "CS5430",
-      "Module Title": [
+      "Course Code": "CS5430",
+      "Course Title": [
         "Foundations of Modern Cryptography",
         "Modular Credits = 4"
       ],
@@ -2652,8 +2652,8 @@
       ]
     },
     {
-      "Module Code": "CS5439",
-      "Module Title": [
+      "Course Code": "CS5439",
+      "Course Title": [
         "Software Security",
         "Modular Credits = 4"
       ],
@@ -2669,8 +2669,8 @@
       ]
     },
     {
-      "Module Code": "CS5446",
-      "Module Title": [
+      "Course Code": "CS5446",
+      "Course Title": [
         "AI Planning and Decision Making",
         "Modular Credits = 4"
       ],
@@ -2687,8 +2687,8 @@
       ]
     },
     {
-      "Module Code": "CS5461",
-      "Module Title": [
+      "Course Code": "CS5461",
+      "Course Title": [
         "Algorithmic Mechanism Design",
         "Modular Credits = 4"
       ],
@@ -2702,8 +2702,8 @@
       ]
     },
     {
-      "Module Code": "CS5469",
-      "Module Title": [
+      "Course Code": "CS5469",
+      "Course Title": [
         "Fundamentals of Logic in Computer Science",
         "Modular Credits = 4"
       ],
@@ -2716,8 +2716,8 @@
       ]
     },
     {
-      "Module Code": "CS5477",
-      "Module Title": [
+      "Course Code": "CS5477",
+      "Course Title": [
         "3D Computer Vision",
         "Modular Credits = 4"
       ],
@@ -2731,8 +2731,8 @@
       ]
     },
     {
-      "Module Code": "CS5478",
-      "Module Title": [
+      "Course Code": "CS5478",
+      "Course Title": [
         "Intelligent Robots: Algorithms and Systems",
         "Modular Credits = 4"
       ],
@@ -2743,10 +2743,10 @@
       ]
     },
     {
-      "Module Code": "CS5562",
-      "Module Title": [
+      "Course Code": "CS5562",
+      "Course Title": [
         "Trustworthy Machine Learning",
-        "(Module will only be offered from Round 1 onwards)",
+        "(Course will only be offered from Round 1 onwards)",
         "Modular Credits = 4"
       ],
       "Semester I": [
@@ -2758,8 +2758,8 @@
       ]
     },
     {
-      "Module Code": "CS5647",
-      "Module Title": [
+      "Course Code": "CS5647",
+      "Course Title": [
         "Sound and Music Computing",
         "Modular Credits = 4"
       ],
@@ -2772,8 +2772,8 @@
       ]
     },
     {
-      "Module Code": "CS6101",
-      "Module Title": [
+      "Course Code": "CS6101",
+      "Course Title": [
         "Exploration of Computer Science Research",
         "Modular Credits = 4"
       ],
@@ -2785,8 +2785,8 @@
       ]
     },
     {
-      "Module Code": "CS6203",
-      "Module Title": [
+      "Course Code": "CS6203",
+      "Course Title": [
         "Advanced Topics in Database Systems",
         "Modular Credits = 4"
       ],
@@ -2800,8 +2800,8 @@
       ]
     },
     {
-      "Module Code": "CS6204",
-      "Module Title": [
+      "Course Code": "CS6204",
+      "Course Title": [
         "Advanced Topics in Networking",
         "Modular Credits = 4"
       ],
@@ -2814,8 +2814,8 @@
       ]
     },
     {
-      "Module Code": "CS6206",
-      "Module Title": [
+      "Course Code": "CS6206",
+      "Course Title": [
         "Advanced Topics in Human-Computer Interaction",
         "Modular Credits = 4"
       ],
@@ -2828,8 +2828,8 @@
       ]
     },
     {
-      "Module Code": "CS6207",
-      "Module Title": [
+      "Course Code": "CS6207",
+      "Course Title": [
         "Advanced Natural Language Processing",
         "Modular Credits = 4"
       ],
@@ -2840,8 +2840,8 @@
       ]
     },
     {
-      "Module Code": "CS6208",
-      "Module Title": [
+      "Course Code": "CS6208",
+      "Course Title": [
         "Advanced Topics in Artificial Intelligence",
         "Modular Credits = 4"
       ],
@@ -2854,8 +2854,8 @@
       ]
     },
     {
-      "Module Code": "CS6210",
-      "Module Title": [
+      "Course Code": "CS6210",
+      "Course Title": [
         "The Art of Computer Science Research",
         "Modular Credits = 4"
       ],
@@ -2865,8 +2865,8 @@
       "Semester II": []
     },
     {
-      "Module Code": "CS6211",
-      "Module Title": [
+      "Course Code": "CS6211",
+      "Course Title": [
         "Analytical Performance Modelling for Computer Systems",
         "Modular Credits = 4"
       ],
@@ -2876,8 +2876,8 @@
       ]
     },
     {
-      "Module Code": "CS6213",
-      "Module Title": [
+      "Course Code": "CS6213",
+      "Course Title": [
         "Special Topics in Distributed Computing",
         "Modular Credits = 4"
       ],
@@ -2887,8 +2887,8 @@
       ]
     },
     {
-      "Module Code": "CS6215",
-      "Module Title": [
+      "Course Code": "CS6215",
+      "Course Title": [
         "Advanced Topics in Program Analysis",
         "Modular Credits = 4"
       ],
@@ -2901,8 +2901,8 @@
       ]
     },
     {
-      "Module Code": "CS6216",
-      "Module Title": [
+      "Course Code": "CS6216",
+      "Course Title": [
         "Advanced Topics in Machine Learning",
         "Modular Credits = 4"
       ],
@@ -2916,8 +2916,8 @@
       ]
     },
     {
-      "Module Code": "CS6217",
-      "Module Title": [
+      "Course Code": "CS6217",
+      "Course Title": [
         "Topics in Prog. Languages & Software Engineering",
         "Modular Credits = 4"
       ],
@@ -2930,8 +2930,8 @@
       ]
     },
     {
-      "Module Code": "CS6218",
-      "Module Title": [
+      "Course Code": "CS6218",
+      "Course Title": [
         "Principles of Prog. Languages & Software Engineering",
         "Modular Credits = 4"
       ],
@@ -2944,8 +2944,8 @@
       ]
     },
     {
-      "Module Code": "CS6219",
-      "Module Title": [
+      "Course Code": "CS6219",
+      "Course Title": [
         "Advanced Topics in Computer Systems",
         "Modular Credits = 4"
       ],
@@ -2958,8 +2958,8 @@
       ]
     },
     {
-      "Module Code": "CS6220",
-      "Module Title": [
+      "Course Code": "CS6220",
+      "Course Title": [
         "Advanced Topics in Data Mining",
         "Modular Credits = 4"
       ],
@@ -2972,8 +2972,8 @@
       ]
     },
     {
-      "Module Code": "CS6222",
-      "Module Title": [
+      "Course Code": "CS6222",
+      "Course Title": [
         "Advanced Topics in Computational Biology",
         "Modular Credits = 4"
       ],
@@ -2984,8 +2984,8 @@
       "Semester II": []
     },
     {
-      "Module Code": "CS6231",
-      "Module Title": [
+      "Course Code": "CS6231",
+      "Course Title": [
         "Advanced Topics in Security and Privacy",
         "Modular Credits = 4"
       ],
@@ -2998,8 +2998,8 @@
       ]
     },
     {
-      "Module Code": "CS6234",
-      "Module Title": [
+      "Course Code": "CS6234",
+      "Course Title": [
         "Advanced Algorithms",
         "Modular Credits = 4"
       ],
@@ -3012,8 +3012,8 @@
       ]
     },
     {
-      "Module Code": "CS6235",
-      "Module Title": [
+      "Course Code": "CS6235",
+      "Course Title": [
         "Advanced Topics in Theoretical Computer Science",
         "Modular Credits = 4"
       ],
@@ -3026,8 +3026,8 @@
       ]
     },
     {
-      "Module Code": "CS6240",
-      "Module Title": [
+      "Course Code": "CS6240",
+      "Course Title": [
         "Multimedia Analysis",
         "Modular Credits = 4"
       ],
@@ -3040,8 +3040,8 @@
       ]
     },
     {
-      "Module Code": "CS6241",
-      "Module Title": [
+      "Course Code": "CS6241",
+      "Course Title": [
         "Advanced Topics in Computer Graphics",
         "Modular Credits = 4"
       ],
@@ -3051,8 +3051,8 @@
       ]
     },
     {
-      "Module Code": "CS6244",
-      "Module Title": [
+      "Course Code": "CS6244",
+      "Course Title": [
         "Advanced Topics in Robotics",
         "Modular Credits = 4"
       ],
@@ -3063,8 +3063,8 @@
       ]
     },
     {
-      "Module Code": "CS6284",
-      "Module Title": [
+      "Course Code": "CS6284",
+      "Course Title": [
         "Topics in Computer Science: Advanced Topics in Reinforcement Learning",
         "Modular Credits = 4"
       ],
@@ -3078,8 +3078,8 @@
       ]
     },
     {
-      "Module Code": "CS6880",
-      "Module Title": [
+      "Course Code": "CS6880",
+      "Course Title": [
         "Advanced Topics in Software Engineering",
         "Modular Credits = 4"
       ],
@@ -3089,8 +3089,8 @@
       "Semester II": []
     },
     {
-      "Module Code": "GEI1000",
-      "Module Title": [
+      "Course Code": "GEI1000",
+      "Course Title": [
         "Computational Thinking",
         "Modular Credits = 4"
       ],
@@ -3104,8 +3104,8 @@
       ]
     },
     {
-      "Module Code": "GET1031",
-      "Module Title": [
+      "Course Code": "GET1031",
+      "Course Title": [
         "Computational Thinking",
         "Modular Credits = 4"
       ],
@@ -3119,8 +3119,8 @@
       ]
     },
     {
-      "Module Code": "IFS4101",
-      "Module Title": [
+      "Course Code": "IFS4101",
+      "Course Title": [
         "Legal Aspects of Information Security",
         "Modular Credits = 4"
       ],
@@ -3134,8 +3134,8 @@
       ]
     },
     {
-      "Module Code": "IFS4102",
-      "Module Title": [
+      "Course Code": "IFS4102",
+      "Course Title": [
         "Digital Forensics",
         "Modular Credits = 4"
       ],
@@ -3148,8 +3148,8 @@
       ]
     },
     {
-      "Module Code": "IFS4103",
-      "Module Title": [
+      "Course Code": "IFS4103",
+      "Course Title": [
         "Penetration Testing Practice",
         "Modular Credits = 4"
       ],
@@ -3163,8 +3163,8 @@
       ]
     },
     {
-      "Module Code": "IFS4205",
-      "Module Title": [
+      "Course Code": "IFS4205",
+      "Course Title": [
         "Information Security Capstone Project.",
         "Modular Credits = 8"
       ],
@@ -3177,8 +3177,8 @@
       ]
     },
     {
-      "Module Code": "IS1108",
-      "Module Title": [
+      "Course Code": "IS1108",
+      "Course Title": [
         "Digital Ethics and Data Privacy",
         "Modular Credits = 4"
       ],
@@ -3195,8 +3195,8 @@
       ]
     },
     {
-      "Module Code": "IS1128",
-      "Module Title": [
+      "Course Code": "IS1128",
+      "Course Title": [
         "IT, Management and Organisation",
         "Modular Credits = 4"
       ],
@@ -3210,8 +3210,8 @@
       ]
     },
     {
-      "Module Code": "IS2101",
-      "Module Title": [
+      "Course Code": "IS2101",
+      "Course Title": [
         "Business and Technical Communication",
         "Modular Credits = 4"
       ],
@@ -3248,8 +3248,8 @@
       ]
     },
     {
-      "Module Code": "IS2102",
-      "Module Title": [
+      "Course Code": "IS2102",
+      "Course Title": [
         "Enterprise Systems Architecture and Design",
         "Modular Credits = 4"
       ],
@@ -3263,8 +3263,8 @@
       ]
     },
     {
-      "Module Code": "IS2103",
-      "Module Title": [
+      "Course Code": "IS2103",
+      "Course Title": [
         "Enterprise Systems Server-side Design and Development",
         "Modular Credits = 4"
       ],
@@ -3280,8 +3280,8 @@
       ]
     },
     {
-      "Module Code": "IS2218",
-      "Module Title": [
+      "Course Code": "IS2218",
+      "Course Title": [
         "Digital Platforms for Business",
         "Modular Credits = 4"
       ],
@@ -3295,8 +3295,8 @@
       ]
     },
     {
-      "Module Code": "IS2238",
-      "Module Title": [
+      "Course Code": "IS2238",
+      "Course Title": [
         "Economics of IT and AI",
         "Modular Credits = 4"
       ],
@@ -3312,8 +3312,8 @@
       ]
     },
     {
-      "Module Code": "IS3103",
-      "Module Title": [
+      "Course Code": "IS3103",
+      "Course Title": [
         "Information Systems Leadership and Communication",
         "Modular Credits = 4"
       ],
@@ -3327,8 +3327,8 @@
       ]
     },
     {
-      "Module Code": "IS3106",
-      "Module Title": [
+      "Course Code": "IS3106",
+      "Course Title": [
         "Enterprise Systems Interface Design and Development",
         "Modular Credits = 4"
       ],
@@ -3344,8 +3344,8 @@
       ]
     },
     {
-      "Module Code": "IS3107",
-      "Module Title": [
+      "Course Code": "IS3107",
+      "Course Title": [
         "Data Engineering",
         "Modular Credits = 4"
       ],
@@ -3359,8 +3359,8 @@
       ]
     },
     {
-      "Module Code": "IS3150",
-      "Module Title": [
+      "Course Code": "IS3150",
+      "Course Title": [
         "Digital Media Marketing",
         "Modular Credits = 4"
       ],
@@ -3373,8 +3373,8 @@
       ]
     },
     {
-      "Module Code": "IS3221",
-      "Module Title": [
+      "Course Code": "IS3221",
+      "Course Title": [
         "ERP Systems with Analytics Solutions",
         "Modular Credits = 4"
       ],
@@ -3388,8 +3388,8 @@
       ]
     },
     {
-      "Module Code": "IS3240",
-      "Module Title": [
+      "Course Code": "IS3240",
+      "Course Title": [
         "Digital Platform Strategy and Architecture",
         "Modular Credits = 4"
       ],
@@ -3403,8 +3403,8 @@
       ]
     },
     {
-      "Module Code": "IS3251",
-      "Module Title": [
+      "Course Code": "IS3251",
+      "Course Title": [
         "Principles of Technology Entrepreneurship",
         "Modular Credits = 4"
       ],
@@ -3417,8 +3417,8 @@
       ]
     },
     {
-      "Module Code": "IS4100",
-      "Module Title": [
+      "Course Code": "IS4100",
+      "Course Title": [
         "IT Project Management",
         "Modular Credits = 4"
       ],
@@ -3431,8 +3431,8 @@
       ]
     },
     {
-      "Module Code": "IS4103",
-      "Module Title": [
+      "Course Code": "IS4103",
+      "Course Title": [
         "Information Systems Capstone Project",
         "Modular Credits = 8"
       ],
@@ -3446,8 +3446,8 @@
       ]
     },
     {
-      "Module Code": "IS4151",
-      "Module Title": [
+      "Course Code": "IS4151",
+      "Course Title": [
         "AIoT Solutions and Development",
         "Modular Credits = 4"
       ],
@@ -3460,8 +3460,8 @@
       ]
     },
     {
-      "Module Code": "IS4204",
-      "Module Title": [
+      "Course Code": "IS4204",
+      "Course Title": [
         "IT Governance",
         "Modular Credits = 4"
       ],
@@ -3475,8 +3475,8 @@
       ]
     },
     {
-      "Module Code": "IS4226",
-      "Module Title": [
+      "Course Code": "IS4226",
+      "Course Title": [
         "Systematic Trading Strategies and Systems",
         "Modular Credits = 4"
       ],
@@ -3489,8 +3489,8 @@
       ]
     },
     {
-      "Module Code": "IS4228",
-      "Module Title": [
+      "Course Code": "IS4228",
+      "Course Title": [
         "Information Technologies in Financial Services",
         "Modular Credits = 4"
       ],
@@ -3504,8 +3504,8 @@
       ]
     },
     {
-      "Module Code": "IS4231",
-      "Module Title": [
+      "Course Code": "IS4231",
+      "Course Title": [
         "Information Security Management",
         "Modular Credits = 4"
       ],
@@ -3519,8 +3519,8 @@
       ]
     },
     {
-      "Module Code": "IS4233",
-      "Module Title": [
+      "Course Code": "IS4233",
+      "Course Title": [
         "Legal Aspects of Information Technology",
         "Modular Credits = 4"
       ],
@@ -3534,8 +3534,8 @@
       ]
     },
     {
-      "Module Code": "IS4234",
-      "Module Title": [
+      "Course Code": "IS4234",
+      "Course Title": [
         "Compliance and Regulation Technology",
         "Modular Credits = 4"
       ],
@@ -3548,8 +3548,8 @@
       ]
     },
     {
-      "Module Code": "IS4236",
-      "Module Title": [
+      "Course Code": "IS4236",
+      "Course Title": [
         "Cloud Services and Infrastructure Management",
         "Modular Credits = 4"
       ],
@@ -3563,8 +3563,8 @@
       ]
     },
     {
-      "Module Code": "IS4238",
-      "Module Title": [
+      "Course Code": "IS4238",
+      "Course Title": [
         "Strategic Cybersecurity",
         "Modular Credits = 4"
       ],
@@ -3578,8 +3578,8 @@
       ]
     },
     {
-      "Module Code": "IS4241",
-      "Module Title": [
+      "Course Code": "IS4241",
+      "Course Title": [
         "Social Media Network Analysis",
         "Modular Credits = 4"
       ],
@@ -3593,8 +3593,8 @@
       ]
     },
     {
-      "Module Code": "IS4242",
-      "Module Title": [
+      "Course Code": "IS4242",
+      "Course Title": [
         "Intelligent Systems and Techniques",
         "Modular Credits = 4"
       ],
@@ -3607,8 +3607,8 @@
       ]
     },
     {
-      "Module Code": "IS4243",
-      "Module Title": [
+      "Course Code": "IS4243",
+      "Course Title": [
         "Information Systems Consulting",
         "Modular Credits = 4"
       ],
@@ -3621,8 +3621,8 @@
       ]
     },
     {
-      "Module Code": "IS4248",
-      "Module Title": [
+      "Course Code": "IS4248",
+      "Course Title": [
         "Digital Business and the Metaverse",
         "Modular Credits = 4"
       ],
@@ -3635,8 +3635,8 @@
       ]
     },
     {
-      "Module Code": "IS4250",
-      "Module Title": [
+      "Course Code": "IS4250",
+      "Course Title": [
         "IT-enabled Healthcare Solutioning",
         "Modular Credits = 4"
       ],
@@ -3649,8 +3649,8 @@
       ]
     },
     {
-      "Module Code": "IS4261",
-      "Module Title": [
+      "Course Code": "IS4261",
+      "Course Title": [
         "Designing IT-enabled Business Innovations",
         "Modular Credits = 4"
       ],
@@ -3663,8 +3663,8 @@
       ]
     },
     {
-      "Module Code": "IS4262",
-      "Module Title": [
+      "Course Code": "IS4262",
+      "Course Title": [
         "Digital Product Management",
         "Modular Credits = 4"
       ],
@@ -3678,8 +3678,8 @@
       ]
     },
     {
-      "Module Code": "IS4301",
-      "Module Title": [
+      "Course Code": "IS4301",
+      "Course Title": [
         "Agile IT with DevOps",
         "Modular Credits = 4"
       ],
@@ -3692,8 +3692,8 @@
       ]
     },
     {
-      "Module Code": "IS4302",
-      "Module Title": [
+      "Course Code": "IS4302",
+      "Course Title": [
         "Blockchain and Distributed Ledger Technologies",
         "Modular Credits = 4"
       ],
@@ -3706,8 +3706,8 @@
       ]
     },
     {
-      "Module Code": "IS4303",
-      "Module Title": [
+      "Course Code": "IS4303",
+      "Course Title": [
         "IT-mediated financial solutions and platforms",
         "Modular Credits = 4"
       ],
@@ -3720,8 +3720,8 @@
       ]
     },
     {
-      "Module Code": "IS5002",
-      "Module Title": [
+      "Course Code": "IS5002",
+      "Course Title": [
         "Digital Transformation",
         "Modular Credits = 4"
       ],
@@ -3734,8 +3734,8 @@
       ]
     },
     {
-      "Module Code": "IS5003",
-      "Module Title": [
+      "Course Code": "IS5003",
+      "Course Title": [
         "Platform Design and Economy",
         "Modular Credits = 4"
       ],
@@ -3749,8 +3749,8 @@
       ]
     },
     {
-      "Module Code": "IS5004",
-      "Module Title": [
+      "Course Code": "IS5004",
+      "Course Title": [
         "Enterprise Architecture",
         "Modular Credits = 4"
       ],
@@ -3763,8 +3763,8 @@
       ]
     },
     {
-      "Module Code": "IS5005",
-      "Module Title": [
+      "Course Code": "IS5005",
+      "Course Title": [
         "Digital Engagement",
         "Modular Credits = 4"
       ],
@@ -3778,8 +3778,8 @@
       ]
     },
     {
-      "Module Code": "IS5006",
-      "Module Title": [
+      "Course Code": "IS5006",
+      "Course Title": [
         "Human-Centred Intelligent Systems",
         "Modular Credits = 4"
       ],
@@ -3792,8 +3792,8 @@
       ]
     },
     {
-      "Module Code": "IS5007",
-      "Module Title": [
+      "Course Code": "IS5007",
+      "Course Title": [
         "Strategising for Global IT-enabled Business Success",
         "Modular Credits = 4"
       ],
@@ -3806,8 +3806,8 @@
       ]
     },
     {
-      "Module Code": "IS5008",
-      "Module Title": [
+      "Course Code": "IS5008",
+      "Course Title": [
         "Technology Risk & Cyber Resilience",
         "Modular Credits = 4"
       ],
@@ -3820,8 +3820,8 @@
       ]
     },
     {
-      "Module Code": "IS5009",
-      "Module Title": [
+      "Course Code": "IS5009",
+      "Course Title": [
         "Topics in Financial Technology Solutions",
         "Modular Credits = 4"
       ],
@@ -3834,8 +3834,8 @@
       ]
     },
     {
-      "Module Code": "IS5116",
-      "Module Title": [
+      "Course Code": "IS5116",
+      "Course Title": [
         "Digital Entrepreneurship",
         "Modular Credits = 4"
       ],
@@ -3848,8 +3848,8 @@
       ]
     },
     {
-      "Module Code": "IS5117",
-      "Module Title": [
+      "Course Code": "IS5117",
+      "Course Title": [
         "Digital Government",
         "Modular Credits = 4"
       ],
@@ -3862,8 +3862,8 @@
       ]
     },
     {
-      "Module Code": "IS5126",
-      "Module Title": [
+      "Course Code": "IS5126",
+      "Course Title": [
         "Hands-on with Applied Analytics",
         "Modular Credits = 4"
       ],
@@ -3876,8 +3876,8 @@
       ]
     },
     {
-      "Module Code": "IS5128",
-      "Module Title": [
+      "Course Code": "IS5128",
+      "Course Title": [
         "Digital Innovation",
         "Modular Credits = 4"
       ],
@@ -3890,8 +3890,8 @@
       ]
     },
     {
-      "Module Code": "IS5151",
-      "Module Title": [
+      "Course Code": "IS5151",
+      "Course Title": [
         "Information Security Policy and Management",
         "Modular Credits = 4"
       ],
@@ -3904,8 +3904,8 @@
       ]
     },
     {
-      "Module Code": "IS5152",
-      "Module Title": [
+      "Course Code": "IS5152",
+      "Course Title": [
         "Data-Driven Decision Making",
         "Modular Credits = 4"
       ],
@@ -3918,8 +3918,8 @@
       ]
     },
     {
-      "Module Code": "IS5451",
-      "Module Title": [
+      "Course Code": "IS5451",
+      "Course Title": [
         "AIoT Solutions and Development",
         "Modular Credits = 4"
       ],
@@ -3932,8 +3932,8 @@
       ]
     },
     {
-      "Module Code": "IS6000",
-      "Module Title": [
+      "Course Code": "IS6000",
+      "Course Title": [
         "Topics in Information Systems and Analytics Research",
         "Modular Credits = 0"
       ],
@@ -3947,8 +3947,8 @@
       ]
     },
     {
-      "Module Code": "IS6001",
-      "Module Title": [
+      "Course Code": "IS6001",
+      "Course Title": [
         "Qualitative Methods for IS Research",
         "Modular Credits = 4"
       ],
@@ -3961,8 +3961,8 @@
       ]
     },
     {
-      "Module Code": "IS6002",
-      "Module Title": [
+      "Course Code": "IS6002",
+      "Course Title": [
         "Quantitative Methods for IS Research",
         "Modular Credits = 4"
       ],
@@ -3975,8 +3975,8 @@
       ]
     },
     {
-      "Module Code": "IS6004",
-      "Module Title": [
+      "Course Code": "IS6004",
+      "Course Title": [
         "Econometrics for IS Research",
         "Modular Credits = 4"
       ],
@@ -3989,8 +3989,8 @@
       ]
     },
     {
-      "Module Code": "IS6101",
-      "Module Title": [
+      "Course Code": "IS6101",
+      "Course Title": [
         "Topics in Machine Learning and Optimization",
         "Modular Credits = 4"
       ],
@@ -4003,8 +4003,8 @@
       ]
     },
     {
-      "Module Code": "IS6102",
-      "Module Title": [
+      "Course Code": "IS6102",
+      "Course Title": [
         "TOPICS IN INFORMATION SYSTEMS II",
         "Modular Credits = 4"
       ],
@@ -4017,8 +4017,8 @@
       ]
     },
     {
-      "Module Code": "IT1244",
-      "Module Title": [
+      "Course Code": "IT1244",
+      "Course Title": [
         "Artificial Intelligence: Technology and Impact",
         "Modular Credits = 4"
       ],
@@ -4036,8 +4036,8 @@
       ]
     },
     {
-      "Module Code": "IT2002",
-      "Module Title": [
+      "Course Code": "IT2002",
+      "Course Title": [
         "Database Technology and Management",
         "Modular Credits = 4"
       ],
@@ -4050,8 +4050,8 @@
       ]
     },
     {
-      "Module Code": "IT2900",
-      "Module Title": [
+      "Course Code": "IT2900",
+      "Course Title": [
         "Technical Management and Leadership",
         "Modular Credits = 4"
       ],
@@ -4064,8 +4064,8 @@
       ]
     },
     {
-      "Module Code": "IT3010",
-      "Module Title": [
+      "Course Code": "IT3010",
+      "Course Title": [
         "Data Management for Business Analytics",
         "Modular Credits = 4"
       ],
