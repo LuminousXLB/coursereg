@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "7 Aug - 9 Dec 2023",
     "Semester II": "15 Jan - 11 May 2024",
-    "last_modified": "2023-06-22T23:00:10"
+    "last_modified": "2023-06-23T23:00:10"
   },
   "schedule": [
     {
@@ -3619,12 +3619,9 @@
         "Units = 4"
       ],
       "Semester I": [
-        "External teaching staff",
-        "Grp L1: Wed 09:00-12:00 COM1-0204"
-      ],
-      "Semester II": [
         "-"
-      ]
+      ],
+      "Semester II": []
     },
     {
       "Course Code": "IS4262",
