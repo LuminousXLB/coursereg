@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "7 Aug - 9 Dec 2023",
     "Semester II": "15 Jan - 11 May 2024",
-    "last_modified": "2023-06-26T23:00:10"
+    "last_modified": "2023-06-28T13:00:10"
   },
   "schedule": [
     {
@@ -504,7 +504,6 @@
         "KHOO Siau Cheng",
         "Alan CHENG Holun",
         "CHONG Ket Fah",
-        "Brian LIM Youliang",
         "Grp S1: Mon 16:00-18:00 UT-AUD1",
         "Grp S2: Tue 16:00-18:00 UT-AUD1",
         "Exam: 27 NOV 2023 09:00-11:00"
@@ -542,8 +541,8 @@
       ],
       "Semester I": [
         "Ashish Deepak DANDEKAR",
-        "Nitya LAKSHMANAN",
         "Adi Yoga Sidi PRABAWA",
+        "Daren LER Shan Wen",
         "Grp L1: Wed 14:00-16:00 LT27",
         "Exam: 27 NOV 2023 13:00-15:00"
       ],
@@ -551,6 +550,7 @@
         "Sanka RASNAYAKA",
         "Nitya LAKSHMANAN",
         "Ashish Deepak DANDEKAR",
+        "Rajendra Prasad SIRIGINA",
         "Daren LER Shan Wen",
         "Grp L1: Wed 16:00-18:00 LT27",
         "Exam: 30 APR 2024 13:00-15:00"
@@ -1580,8 +1580,8 @@
         "Exam: 25 NOV 2023 09:00-11:00"
       ],
       "Semester II": [
-        "Rajendra Prasad SIRIGINA",
         "Xavier Roger Gilbert BRESSON",
+        "Brian LIM Youliang",
         "Grp L1: Mon 14:00-15:00 LT15",
         "Thu 12:00-14:00 LT15",
         "Grp L2: Mon 14:00-15:00 LT11",
