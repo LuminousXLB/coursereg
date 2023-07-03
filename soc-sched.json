@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "7 Aug - 9 Dec 2023",
     "Semester II": "15 Jan - 11 May 2024",
-    "last_modified": "2023-07-01T13:00:10"
+    "last_modified": "2023-07-03T23:00:10"
   },
   "schedule": [
     {
@@ -869,7 +869,7 @@
       "Semester I": [
         "Stephane BRESSAN",
         "Christian Von Der WETH",
-        "Shamkant NAVATHE",
+        "Shamkant B. NAVATHE",
         "Grp L1: Tue 12:00-14:00 LT19",
         "Grp L2: Tue 12:00-14:00 E-Learn_C",
         "Exam: 27 NOV 2023 17:00-19:00"
@@ -1227,7 +1227,7 @@
         "Units = 4"
       ],
       "Semester I": [
-        "Michael Gromiha",
+        "Michael Gromiha MARIA SILUVAY",
         "Grp L1: Thu 14:00-16:00 COM1-VCRM",
         "Exam: 04 DEC 2023 09:00-11:00"
       ],
@@ -1986,17 +1986,6 @@
         "Grp L1: Tue 14:00-16:00 LT15",
         "Exam: 08 MAY 2024 09:00-11:00"
       ]
-    },
-    {
-      "Course Code": "CS4244",
-      "Course Title": [
-        "Knowledge Representation and Reasoning",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "-"
-      ],
-      "Semester II": []
     },
     {
       "Course Code": "CS4246",
