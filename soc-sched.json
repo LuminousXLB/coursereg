@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "7 Aug - 9 Dec 2023",
     "Semester II": "15 Jan - 11 May 2024",
-    "last_modified": "2023-07-31T23:00:10"
+    "last_modified": "2023-08-02T23:00:10"
   },
   "schedule": [
     {
@@ -1172,11 +1172,13 @@
       "Semester I": [
         "Muhammad Rizki Aulia Rahman MAULANA",
         "Ben LEONG Wing Lup",
+        "HU Conghui",
         "Grp L1: Fri 10:00-12:00 I3-AUD",
         "Grp L2: Fri 10:00-12:00 E-Learn_C"
       ],
       "Semester II": [
         "Muhammad Rizki Aulia Rahman MAULANA",
+        "HU Conghui",
         "Grp L1: Tue 16:00-18:00 LT15",
         "Grp L2: Tue 16:00-18:00 LT11"
       ]
@@ -2846,7 +2848,7 @@
         "-"
       ],
       "Semester II": [
-        "SHOU Zheng",
+        "SHOU Zheng, Mike",
         "Grp L1: Tue 14:00-16:00 SR_LT19"
       ]
     },
@@ -3103,7 +3105,7 @@
       ],
       "Semester II": [
         "Sufatrio",
-        "Grp L1: Tue 15:00-17:00 COM1-0204"
+        "Grp L1: Tue 13:00-15:00 COM1-0204"
       ]
     },
     {
