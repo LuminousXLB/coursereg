@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "7 Aug - 9 Dec 2023",
     "Semester II": "15 Jan - 11 May 2024",
-    "last_modified": "2023-08-03T23:00:10"
+    "last_modified": "2023-08-08T23:00:10"
   },
   "schedule": [
     {
@@ -3050,6 +3050,116 @@
       ]
     },
     {
+      "Course Code": "FT5001",
+      "Course Title": [
+        "Fintech Innovations for Consumers",
+        "Units = 2"
+      ],
+      "Semester I": [
+        "LEE Boon Kee",
+        "Grp L1: Tue 18:00-21:00 COM3-01-21"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Course Code": "FT5002",
+      "Course Title": [
+        "Digital Transformation at Financial Institutions",
+        "Units = 2"
+      ],
+      "Semester I": [
+        "External teaching staff",
+        "Grp L1: Tue 18:00-21:00 COM3-01-21"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Course Code": "FT5003",
+      "Course Title": [
+        "Blockchain Innovations",
+        "Units = 2"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Nicholas Mac Gregor GARCIA",
+        "Grp L1: Fri 18:00-21:00 COM3-01-21"
+      ]
+    },
+    {
+      "Course Code": "FT5004",
+      "Course Title": [
+        "Programming for Blockchain Applications",
+        "Units = 2"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Nicholas Mac Gregor GARCIA",
+        "Grp L1: Fri 18:00-21:00 COM3-01-21"
+      ]
+    },
+    {
+      "Course Code": "FT5005",
+      "Course Title": [
+        "Machine Learning for Finance",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "HUANG Ke-Wei",
+        "Grp L1: Mon 18:00-21:00 E-Learn_C"
+      ]
+    },
+    {
+      "Course Code": "FT5007",
+      "Course Title": [
+        "FinTech Capstone Project",
+        "Units = 12"
+      ],
+      "Semester I": [
+        "HUANG Ke-Wei",
+        "Grp L1:  -"
+      ],
+      "Semester II": [
+        "HUANG Ke-Wei",
+        "Grp SL1: Thu 16:00-18:00 SR_LT19"
+      ]
+    },
+    {
+      "Course Code": "FT5008",
+      "Course Title": [
+        "Contemporary Topics in Blockchain Applications",
+        "Units = 2"
+      ],
+      "Semester I": [],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Course Code": "FT5009",
+      "Course Title": [
+        "Contemporary Topics in Financial Data Analytics",
+        "Units = 2"
+      ],
+      "Semester I": [
+        "Jerry PING Wenjie",
+        "Grp L1: Wed 18:30-20:30 COM1-0204"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
       "Course Code": "GEI1000",
       "Course Title": [
         "Computational Thinking",
@@ -3178,14 +3288,14 @@
       ],
       "Semester I": [
         "Grp SG01: Tue 09:00-12:00 AS6-0211",
-        "Grp SG02: Tue 12:00-15:00 AS6-0211",
+        "Grp SG02: Tue 12:00-15:00",
         "Grp SG03: Tue 15:00-18:00 AS6-0211",
-        "Grp SG04: Wed 09:00-12:00 AS6-0211",
-        "Grp SG05: Wed 12:00-15:00 AS6-0211",
+        "Grp SG04: Wed 09:00-12:00 CELC-SR1B",
+        "Grp SG05: Wed 12:00-15:00 CELC-SR1B",
         "Grp SG06: Wed 15:00-18:00 CELC-SR1B",
         "Grp SG07: Thu 09:00-12:00 AS6-0211",
         "Grp SG08: Thu 12:00-15:00 AS6-0211",
-        "Grp SG09: Thu 15:00-18:00 AS6-0211",
+        "Grp SG09: Thu 15:00-18:00",
         "Grp SG10: Fri 09:00-12:00 CELC-TR6",
         "Grp SG11: Fri 12:00-15:00 CELC-TR6"
       ],
