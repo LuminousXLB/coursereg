@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "7 Aug - 9 Dec 2023",
     "Semester II": "15 Jan - 11 May 2024",
-    "last_modified": "2023-08-22T13:00:11"
+    "last_modified": "2023-08-23T23:00:12"
   },
   "schedule": [
     {
@@ -553,7 +553,7 @@
         "Ashish Deepak DANDEKAR",
         "Rajendra Prasad SIRIGINA",
         "Daren LER Shan Wen",
-        "Grp L1: Wed 10:00-12:00 LT27",
+        "Grp L1: Wed 16:00-18:00 LT27",
         "Exam: 30 APR 2024 13:00-15:00"
       ]
     },
@@ -1005,11 +1005,12 @@
         "Damith Chatura RAJAPAKSE",
         "Ganesh NEELAKANTA IYER",
         "Grp LG01: Mon 08:00-10:00 COM2-0108",
-        "Wed 14:00-15:00 COM1-0210",
+        "Wed 08:00-09:00 COM1-0210",
         "Thu 08:00-10:00 COM2-0108",
         "Fri 14:00-16:00 LT19",
         "Grp LG02: Mon 08:00-10:00 AS6-0209",
         "Thu 08:00-10:00 AS6-0209",
+        "Thu 14:00-15:00 COM1-0210",
         "Fri 14:00-16:00 LT19",
         "Grp LG03: Mon 10:00-12:00 COM2-0108",
         "Wed 13:00-14:00 COM1-0210",
@@ -1017,9 +1018,10 @@
         "Fri 14:00-16:00 LT19",
         "Grp LG04: Mon 10:00-12:00 AS6-0209",
         "Thu 10:00-12:00 AS6-0209",
+        "Thu 15:00-16:00 COM1-0210",
         "Fri 14:00-16:00 LT19",
         "Grp LG05: Mon 12:00-14:00 COM2-0108",
-        "Wed 15:00-16:00 COM1-0210",
+        "Thu 08:00-09:00 COM1-0210",
         "Thu 12:00-14:00 COM2-0108",
         "Fri 14:00-16:00 LT19",
         "Grp LG06: Mon 14:00-16:00 COM2-0108",
@@ -1036,6 +1038,7 @@
         "Fri 14:00-16:00 LT19",
         "Grp LG09: Mon 16:00-18:00 AS6-0209",
         "Thu 16:00-18:00 AS6-0209",
+        "Fri 12:00-13:00 COM1-0210",
         "Fri 14:00-16:00 LT19",
         "Grp LG10: Tue 08:00-10:00 COM2-0108",
         "Thu 16:00-17:00 COM1-0210",
@@ -1050,6 +1053,7 @@
         "Fri 10:00-12:00 COM2-0108",
         "Fri 14:00-16:00 LT19",
         "Grp LG13: Tue 10:00-12:00 COM1-0217",
+        "Wed 10:00-11:00 COM1-0210",
         "Fri 10:00-12:00 COM1-0217",
         "Fri 14:00-16:00 LT19",
         "Grp LG14: Tue 12:00-14:00 COM2-0108",
@@ -1280,6 +1284,8 @@
         "Grp L1: Tue 12:00-14:00 LT15",
         "Tue 16:00-18:00 LT15",
         "Grp L2: Tue 12:00-14:00 LT15",
+        "Tue 16:00-18:00 LT15",
+        "Grp L3: Tue 12:00-14:00 LT15",
         "Tue 16:00-18:00 LT15"
       ],
       "Semester II": [
@@ -3294,7 +3300,7 @@
         "Grp SG06: Tue 15:00-18:00 AS6-0210",
         "Grp SG07: Wed 09:00-12:00 AS6-0210",
         "Grp SG08: Wed 12:00-15:00 AS6-0210",
-        "Grp SG09: Wed 15:00-18:00 AS6-0210",
+        "Grp SG09: Fri 09:00-12:00 AS6-0210",
         "Grp SG10: Thu 09:00-12:00 AS6-0210",
         "Grp SG11: Thu 12:00-15:00 AS6-0210",
         "Grp SG12: Thu 15:00-18:00 AS6-0210",
