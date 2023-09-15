@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "7 Aug - 9 Dec 2023",
     "Semester II": "15 Jan - 11 May 2024",
-    "last_modified": "2023-09-06T13:00:12"
+    "last_modified": "2023-09-15T23:00:11"
   },
   "schedule": [
     {
@@ -1202,7 +1202,7 @@
       "Semester II": [
         "Akshay NARAYAN",
         "Grp L1: Fri 16:00-18:00 LT15",
-        "Exam: 06 MAY 2024 17:00-19:00"
+        "Exam: 06 MAY 2024 17:00-18:30"
       ]
     },
     {
@@ -1225,7 +1225,7 @@
         "Thu 09:00-10:00 COM1-0210",
         "Thu 12:00-14:00 AS6-0209",
         "Fri 16:00-18:00 LT15",
-        "Exam: 06 MAY 2024 17:00-19:00"
+        "Exam: 06 MAY 2024 17:00-18:30"
       ]
     },
     {
@@ -3999,7 +3999,7 @@
         "Units = 0"
       ],
       "Semester I": [
-        "External",
+        "Vaibhav RAJAN",
         "Grp L1: Fri 14:00-17:00 COM1-VCRM",
         "-"
       ],
