@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "7 Aug - 9 Dec 2023",
     "Semester II": "15 Jan - 11 May 2024",
-    "last_modified": "2023-09-20T23:00:11"
+    "last_modified": "2023-09-26T23:00:12"
   },
   "schedule": [
     {
@@ -1590,7 +1590,6 @@
       ],
       "Semester II": [
         "Xavier Roger Gilbert BRESSON",
-        "Brian LIM Youliang",
         "Grp L1: Mon 14:00-15:00 LT15",
         "Thu 12:00-14:00 LT15",
         "Grp L2: Mon 14:00-15:00 LT11",
@@ -2054,7 +2053,7 @@
       ],
       "Semester I": [],
       "Semester II": [
-        "ZHAO Shengdong",
+        "Brian LIM Youliang",
         "Grp L1: Fri 15:00-17:00 COM3-MPH"
       ]
     },
