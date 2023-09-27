@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "7 Aug - 9 Dec 2023",
     "Semester II": "15 Jan - 11 May 2024",
-    "last_modified": "2023-09-26T23:00:12"
+    "last_modified": "2023-09-27T13:00:12"
   },
   "schedule": [
     {
@@ -236,21 +236,6 @@
       ],
       "Semester II": [
         "-"
-      ]
-    },
-    {
-      "Course Code": "BT4221",
-      "Course Title": [
-        "Big Data Techniques and Technologies",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "-"
-      ],
-      "Semester II": [
-        "External teaching staff",
-        "Grp L1: Fri 09:00-12:00 COM4SR3132",
-        "Exam: 07 MAY 2024 13:00-15:00"
       ]
     },
     {
@@ -550,7 +535,6 @@
       "Semester II": [
         "Sanka RASNAYAKA",
         "Nitya LAKSHMANAN",
-        "Rajendra Prasad SIRIGINA",
         "Daren LER Shan Wen",
         "Grp L1: Wed 16:00-18:00 LT27",
         "Exam: 30 APR 2024 13:00-15:00"
@@ -690,6 +674,7 @@
       ],
       "Semester II": [
         "CHONG Ket Fah",
+        "Rajendra Prasad SIRIGINA",
         "Grp L1: Mon 16:00-18:00 LT15",
         "Wed 13:00-14:00 LT19",
         "Grp L2: Mon 16:00-18:00 E-Learn_C",
@@ -3092,7 +3077,7 @@
         "-"
       ],
       "Semester II": [
-        "Nicholas Mac Gregor GARCIA",
+        "External teaching staff",
         "Grp L1: Fri 18:00-21:00 COM3-01-21"
       ]
     },
@@ -3131,9 +3116,11 @@
         "Contemporary Topics in Blockchain Applications",
         "Units = 2"
       ],
-      "Semester I": [],
-      "Semester II": [
+      "Semester I": [
         "-"
+      ],
+      "Semester II": [
+        "Nicholas Mac Gregor GARCIA"
       ]
     },
     {
@@ -3678,20 +3665,6 @@
       ]
     },
     {
-      "Course Code": "IS4248",
-      "Course Title": [
-        "Digital Business and the Metaverse",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "-"
-      ],
-      "Semester II": [
-        "External teaching staff",
-        "Grp L1: Tue 09:00-12:00 COM1-0210"
-      ]
-    },
-    {
       "Course Code": "IS4250",
       "Course Title": [
         "IT-enabled Healthcare Solutioning",
@@ -3887,7 +3860,7 @@
         "-"
       ],
       "Semester II": [
-        "External teaching staff",
+        "Thomas CHEVRIER",
         "Grp L1: Thu 18:30-20:30 COM3-01-21"
       ]
     },
