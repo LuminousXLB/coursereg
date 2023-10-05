@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "7 Aug - 9 Dec 2023",
     "Semester II": "15 Jan - 11 May 2024",
-    "last_modified": "2023-10-03T13:00:12"
+    "last_modified": "2023-10-05T23:00:11"
   },
   "schedule": [
     {
@@ -3299,9 +3299,9 @@
         "Grp SG07: Wed 12:00-15:00 AS6-0210",
         "Grp SG08: Thu 09:00-12:00 AS6-0210",
         "Grp SG09: Thu 12:00-15:00 AS6-0210",
-        "Grp SG10: Thu 15:00-18:00 AS6-0210",
-        "Grp SG11: Fri 09:00-12:00 AS6-0210",
-        "Grp SG12: Thu 12:00-15:00 AS6-0208",
+        "Grp SG10: Thu 12:00-15:00 AS6-0208",
+        "Grp SG11: Thu 15:00-18:00 AS6-0210",
+        "Grp SG12: Fri 09:00-12:00 AS6-0210",
         "Grp SG13: Fri 12:00-15:00 AS6-0210"
       ]
     },
