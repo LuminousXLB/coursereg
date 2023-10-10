@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "7 Aug - 9 Dec 2023",
     "Semester II": "15 Jan - 11 May 2024",
-    "last_modified": "2023-10-05T23:00:11"
+    "last_modified": "2023-10-10T23:00:15"
   },
   "schedule": [
     {
@@ -3090,7 +3090,7 @@
       ],
       "Semester II": [
         "External teaching staff",
-        "Grp L1: Fri 18:00-21:00 COM4SR3132"
+        "Grp L1: Fri 18:00-21:00"
       ]
     },
     {
@@ -3132,7 +3132,8 @@
         "-"
       ],
       "Semester II": [
-        "Nicholas Mac Gregor GARCIA"
+        "Nicholas Mac Gregor GARCIA",
+        "Grp L1: Fri 18:00-21:00 COM4SR3132"
       ]
     },
     {
