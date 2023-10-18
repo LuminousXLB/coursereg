@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "7 Aug - 9 Dec 2023",
     "Semester II": "15 Jan - 11 May 2024",
-    "last_modified": "2023-10-17T23:00:12"
+    "last_modified": "2023-10-18T13:00:12"
   },
   "schedule": [
     {
@@ -851,7 +851,8 @@
         "-",
         "Grp SG20:  -",
         "-",
-        "Grp SG21:  -"
+        "Grp SG21:  -",
+        "-"
       ]
     },
     {
@@ -3098,7 +3099,7 @@
       ],
       "Semester II": [
         "Nicholas Mac Gregor GARCIA",
-        "Grp L1: Fri 18:00-21:00 COM1-0206"
+        "Grp L1: Fri 18:00-21:00 COM4SR31"
       ]
     },
     {
@@ -3112,7 +3113,7 @@
       ],
       "Semester II": [
         "External teaching staff",
-        "Grp L1: Fri 18:00-21:00"
+        "Grp L1: Fri 18:00-21:00 COM4SR32"
       ]
     },
     {
@@ -3155,7 +3156,7 @@
       ],
       "Semester II": [
         "Nicholas Mac Gregor GARCIA",
-        "Grp L1: Fri 18:00-21:00 COM1-0206"
+        "Grp L1: Fri 18:00-21:00 COM4SR31"
       ]
     },
     {
