@@ -13,16 +13,29 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - uses: actions/checkout@v3
+
       - run: wget --no-verbose -i list.txt
       - run: pip3 install bs4 lxml
-      - run: ./task.sh
+
+      - run: |
+          gh repo clone $GITHUB_REPOSITORY repo
+          git -C repo config user.name "GitHub Actions"
+          git -C repo config user.email "$USER@$HOST"
         env:
           GH_TOKEN: ${{ github.token }}
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          directory: repo
+
+      - run: |
+          git -C repo checkout coursereg-report
+          commit-report.sh
+          git -C repo push https://$GH_TOKEN@$GITHUB_REPOSITORY
+
+      - run: |
+          git -C repo checkout soc-sched
+          commit-sched.sh
+          git -C repo push https://$GH_TOKEN@$GITHUB_REPOSITORY
