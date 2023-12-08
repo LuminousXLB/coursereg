@@ -13,13 +13,16 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - uses: actions/checkout@v3
-
+      - run: wget --no-verbose -i list.txt
+      - run: pip3 install bs4 lxml
       - run: ./task.sh
         env:
           GH_TOKEN: ${{ github.token }}
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          directory: repo

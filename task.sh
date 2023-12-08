@@ -2,16 +2,9 @@
 
 DIR=repo
 
-if ! $CI; then
-    GITHUB_REPOSITORY=LuminousXLB/coursereg
-fi
-
 export TZ=Asia/Singapore
 
 set -ex
-
-wget --no-verbose -i list.txt
-pip3 install bs4 lxml
 
 gh repo clone $GITHUB_REPOSITORY $DIR
 
@@ -38,8 +31,6 @@ for file in coursesNL courses_specialNL; do
     fi
 done
 
-git -C $DIR push
-
 # Checkout coursereg-report branch
 
 git -C $DIR checkout coursereg-report
@@ -56,5 +47,3 @@ for file in *.pdf; do
         popd
     fi
 done
-
-git -C $DIR push
