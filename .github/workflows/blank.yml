@@ -21,7 +21,6 @@ jobs:
       - uses: actions/checkout@v3
 
       - run: wget --no-verbose -i list.txt
-      - run: pip3 install bs4 lxml
 
       - run: |
           gh repo clone $GITHUB_REPOSITORY repo
@@ -30,12 +29,15 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
 
-      - run: |
+      - name: Fetch CourseReg report
+        run: |
           git -C repo checkout coursereg-report
           ./commit-report.sh
           git -C repo push https://$GH_TOKEN@$GITHUB_REPOSITORY
 
-      - run: |
+      - name: Fetch SoC schedule
+        run: |
+          pip3 install bs4 lxml
           git -C repo checkout soc-sched
           ./commit-sched.sh
           git -C repo push https://$GH_TOKEN@$GITHUB_REPOSITORY
