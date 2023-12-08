@@ -10,6 +10,9 @@ export TZ=Asia/Singapore
 
 set -ex
 
+wget --no-verbose -i list.txt
+pip3 install bs4 lxml
+
 gh repo clone $GITHUB_REPOSITORY $DIR
 
 pushd $DIR
@@ -17,13 +20,9 @@ git config user.name "GitHub Actions"
 git config user.email "$USER@$HOST"
 popd
 
-wget --no-verbose -i list.txt
-
 # Checkout soc-sched branch
 
 git -C $DIR checkout soc-sched
-
-pip3 install -r bs4 lxml
 
 for file in coursesNL courses_specialNL; do
     DATE=$(python3 clean-sched.py $file.html)
