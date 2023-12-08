@@ -1,5 +1,3 @@
-http://www.comp.nus.edu.sg/~online/course_list/courses_specialNL.html
-http://www.comp.nus.edu.sg/~online/course_list/coursesNL.html
 https://www.nus.edu.sg/ModReg/docs/DemandAllocationRptGD_R0.pdf
 https://www.nus.edu.sg/ModReg/docs/DemandAllocationRptGD_R1.pdf
 https://www.nus.edu.sg/ModReg/docs/DemandAllocationRptGD_R2.pdf
