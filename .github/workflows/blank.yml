@@ -32,10 +32,10 @@ jobs:
 
       - run: |
           git -C repo checkout coursereg-report
-          commit-report.sh
+          ./commit-report.sh
           git -C repo push https://$GH_TOKEN@$GITHUB_REPOSITORY
 
       - run: |
           git -C repo checkout soc-sched
-          commit-sched.sh
+          ./commit-sched.sh
           git -C repo push https://$GH_TOKEN@$GITHUB_REPOSITORY
