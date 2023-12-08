@@ -17,7 +17,7 @@ git config user.name "GitHub Actions"
 git config user.email "$USER@$HOST"
 popd
 
-wget -i list.txt
+wget --no-verbose -i list.txt
 
 # Checkout soc-sched branch
 
@@ -31,6 +31,8 @@ for file in coursesNL courses_specialNL; do
         echo "Failed to get date for $file.html"
         cat $file.html
         exit 1
+    else
+        echo "Date for $file.html is $DATE"
     fi
 
     DATE=$(date -d "$DATE" -Is)
