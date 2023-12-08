@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "7 Aug - 9 Dec 2023",
     "Semester II": "15 Jan - 11 May 2024",
-    "last_modified": "2023-10-30T13:00:13"
+    "last_modified": "2023-12-08T18:00:15"
   },
   "schedule": [
     {
@@ -53,7 +53,8 @@
       ],
       "Semester II": [
         "Danny POO Chiang Choon",
-        "Grp L1: Mon 10:00-12:00 LT19"
+        "Grp L1: Mon 10:00-12:00 LT19",
+        "Grp L2: Mon 10:00-12:00 E-Learn_C"
       ]
     },
     {
@@ -67,7 +68,7 @@
       ],
       "Semester II": [
         "NG Teck Khim",
-        "Grp L1: Tue 16:00-18:00 COM3-MPH",
+        "Grp L1: Tue 16:00-18:00 LT18",
         "Exam: 29 APR 2024 17:00-19:00"
       ]
     },
@@ -188,7 +189,7 @@
       ],
       "Semester II": [
         "Frank XING Zhutian",
-        "Grp L1: Thu 12:00-14:00 COM3-MPH",
+        "Grp L1: Thu 12:00-14:00 LT18",
         "Exam: 07 MAY 2024 17:00-19:00"
       ]
     },
@@ -250,7 +251,7 @@
       ],
       "Semester II": [
         "WANG Qiuhong",
-        "Grp L1: Thu 09:00-12:00 COM3-MPH"
+        "Grp L1: Thu 09:00-12:00 LT18"
       ]
     },
     {
@@ -264,7 +265,7 @@
       ],
       "Semester II": [
         "Rudy SETIONO",
-        "Grp L1: Tue 09:00-12:00 COM3-MPH",
+        "Grp L1: Tue 09:00-12:00 LT18",
         "Exam: 08 MAY 2024 17:00-19:00"
       ]
     },
@@ -321,8 +322,8 @@
       ],
       "Semester II": [
         "Vaibhav RAJAN",
-        "Grp L1: Mon 14:00-16:00 COM3-MPH",
-        "Grp L2: Mon 18:30-20:30 COM3-MPH"
+        "Grp L1: Mon 14:00-16:00 LT18",
+        "Grp L2: Mon 18:30-20:30 LT18"
       ]
     },
     {
@@ -553,6 +554,7 @@
       ],
       "Semester II": [
         "TAN Sun Teck",
+        "TAN Tiow Seng",
         "Grp L1:  -"
       ]
     },
@@ -632,7 +634,7 @@
       "Semester II": [
         "Henry CHIA Wai Kit",
         "CHIN Wei Ngan",
-        "Grp L1: Mon 12:00-14:00 COM3-MPH",
+        "Grp L1: Mon 12:00-14:00 LT15",
         "Grp L2: Mon 12:00-14:00 E-Learn_C",
         "Exam: 02 MAY 2024 13:00-15:00"
       ]
@@ -697,9 +699,7 @@
       ],
       "Semester II": [
         "Alan CHENG Holun",
-        "Grp L1: Tue 12:00-14:00 LT19",
-        "Wed 12:00-13:00 LT19",
-        "Grp L2: Tue 12:00-14:00 LT11",
+        "Grp L1: Tue 12:00-14:00 LT11",
         "Wed 12:00-13:00 LT11",
         "Exam: 03 MAY 2024 14:30-16:30"
       ]
@@ -807,10 +807,6 @@
       "Semester II": [
         "Grp SC01:  -",
         "-",
-        "Grp SC03:  -",
-        "-",
-        "Grp SC04:  -",
-        "-",
         "Grp SG01:  -",
         "-",
         "Grp SG02:  -",
@@ -872,8 +868,7 @@
       "Semester II": [
         "XIAO Xiaokui",
         "Adi Yoga Sidi PRABAWA",
-        "Grp L1: Mon 12:00-14:00 LT15",
-        "Grp L2: Mon 12:00-14:00 E-Learn_C",
+        "Grp L1: Mon 12:00-14:00 E-Learn_C",
         "Exam: 03 MAY 2024 09:00-11:00"
       ]
     },
@@ -1002,84 +997,84 @@
         "Wed 08:00-09:00 COM3-01-20",
         "Thu 08:00-10:00 COM2-0108",
         "Fri 16:00-18:00 LT15",
-        "Grp LG02: Mon 08:00-10:00 AS6-0209",
-        "Thu 08:00-10:00 AS6-0209",
+        "Grp LG02: Mon 08:00-10:00 BIZ2-0302",
+        "Thu 08:00-10:00 BIZ2-0302",
         "Thu 14:00-15:00 COM3-01-20",
         "Fri 16:00-18:00 LT15",
         "Grp LG03: Mon 10:00-12:00 COM2-0108",
         "Wed 13:00-14:00 COM3-01-20",
         "Thu 10:00-12:00 COM2-0108",
         "Fri 16:00-18:00 LT15",
-        "Grp LG04: Mon 10:00-12:00 AS6-0209",
-        "Thu 10:00-12:00 AS6-0209",
+        "Grp LG04: Mon 10:00-12:00 BIZ2-0302",
+        "Thu 10:00-12:00 BIZ2-0302",
         "Thu 15:00-16:00 COM3-01-20",
         "Fri 16:00-18:00 LT15",
-        "Grp LG05: Mon 12:00-14:00 COM2-0108",
+        "Grp LG05: Mon 12:00-14:00 BIZ2-0303",
         "Thu 08:00-09:00 COM3-01-20",
-        "Thu 12:00-14:00 COM2-0108",
+        "Thu 12:00-14:00 BIZ2-0303",
         "Fri 16:00-18:00 LT15",
         "Grp LG06: Mon 14:00-16:00 COM2-0108",
         "Wed 11:00-12:00 COM3-01-20",
         "Thu 14:00-16:00 COM2-0108",
         "Fri 16:00-18:00 LT15",
-        "Grp LG07: Mon 14:00-16:00 AS6-0209",
+        "Grp LG07: Mon 14:00-16:00 BIZ2-0302",
         "Wed 09:00-10:00 COM3-01-20",
-        "Thu 14:00-16:00 AS6-0209",
+        "Thu 14:00-16:00 BIZ2-0302",
         "Fri 16:00-18:00 LT15",
         "Grp LG08: Mon 16:00-18:00 COM2-0108",
         "Wed 12:00-13:00 COM3-01-20",
         "Thu 16:00-18:00 COM2-0108",
         "Fri 16:00-18:00 LT15",
-        "Grp LG09: Mon 16:00-18:00 AS6-0209",
-        "Thu 16:00-18:00 AS6-0209",
+        "Grp LG09: Mon 16:00-18:00 BIZ2-0302",
+        "Thu 16:00-18:00 BIZ2-0302",
         "Fri 12:00-13:00 COM3-01-20",
         "Fri 16:00-18:00 LT15",
         "Grp LG10: Tue 08:00-10:00 COM2-0108",
         "Thu 16:00-17:00 COM3-01-20",
         "Fri 08:00-10:00 COM2-0108",
         "Fri 16:00-18:00 LT15",
-        "Grp LG11: Tue 08:00-10:00 COM1-0217",
+        "Grp LG11: Tue 08:00-10:00 BIZ2-0301",
         "Thu 10:00-11:00 COM3-01-20",
-        "Fri 08:00-10:00 COM1-0217",
+        "Fri 08:00-10:00 BIZ2-0301",
         "Fri 16:00-18:00 LT15",
         "Grp LG12: Tue 10:00-12:00 COM2-0108",
         "Thu 11:00-12:00 COM3-01-20",
         "Fri 10:00-12:00 COM2-0108",
         "Fri 16:00-18:00 LT15",
-        "Grp LG13: Tue 10:00-12:00 COM1-0217",
+        "Grp LG13: Tue 10:00-12:00 BIZ2-0301",
         "Wed 10:00-11:00 COM3-01-20",
-        "Fri 10:00-12:00 COM1-0217",
+        "Fri 10:00-12:00 BIZ2-0301",
         "Fri 16:00-18:00 LT15",
         "Grp LG14: Tue 12:00-14:00 COM2-0108",
         "Thu 12:00-13:00 COM3-01-20",
         "Fri 12:00-14:00 COM2-0108",
         "Fri 16:00-18:00 LT15",
-        "Grp LG15: Tue 12:00-14:00 COM1-0217",
+        "Grp LG15: Tue 12:00-14:00 BIZ2-0301",
         "Thu 09:00-10:00 COM3-01-20",
-        "Fri 12:00-14:00 COM1-0217",
+        "Fri 12:00-14:00 BIZ2-0301",
         "Fri 16:00-18:00 LT15",
-        "Grp LG16: Mon 14:00-16:00 AS6-0211",
+        "Grp LG16: Mon 14:00-16:00 BIZ2-0303",
         "Thu 13:00-14:00 COM3-01-20",
-        "Thu 14:00-16:00 AS6-0211",
+        "Thu 14:00-16:00 BIZ2-0303",
         "Fri 16:00-18:00 LT15",
-        "Grp LG17: Tue 14:00-16:00 COM1-0217",
+        "Grp LG17: Tue 14:00-16:00 BIZ2-0301",
         "Thu 17:00-18:00 COM3-01-20",
-        "Fri 14:00-16:00 COM1-0217",
+        "Fri 14:00-16:00 BIZ2-0301",
         "Fri 16:00-18:00 LT15",
-        "Grp LG18: Mon 16:00-18:00 AS6-0211",
-        "Thu 16:00-18:00 AS6-0211",
+        "Grp LG18: Mon 16:00-18:00 BIZ2-0303",
+        "Thu 16:00-18:00 BIZ2-0303",
         "Fri 13:00-14:00 COM3-01-20",
         "Fri 16:00-18:00 LT15",
-        "Grp LG19: Tue 14:00-16:00 AS6-0211",
+        "Grp LG19: Tue 14:00-16:00 BIZ2-0303",
         "Fri 11:00-12:00 COM3-01-20",
         "Fri 16:00-18:00 LT15",
-        "Fri 14:00-16:00 AS6-0211",
-        "Grp LG20: Tue 10:00-12:00 AS6-0211",
-        "Fri 10:00-12:00 AS6-0211",
+        "Fri 14:00-16:00 BIZ2-0303",
+        "Grp LG20: Tue 10:00-12:00 BIZ2-0303",
+        "Fri 10:00-12:00 BIZ2-0303",
         "Fri 14:00-15:00 COM3-01-20",
         "Fri 16:00-18:00 LT15",
-        "Grp LG21: Tue 12:00-14:00 AS6-0211",
-        "Fri 12:00-14:00 AS6-0211",
+        "Grp LG21: Tue 12:00-14:00 BIZ2-0303",
+        "Fri 12:00-14:00 BIZ2-0303",
         "Fri 10:00-11:00 COM3-01-20",
         "Fri 16:00-18:00 LT15",
         "Exam: 27 APR 2024 09:00-11:00"
@@ -1191,8 +1186,7 @@
       "Semester II": [
         "Muhammad Rizki Aulia Rahman MAULANA",
         "HU Conghui",
-        "Grp L1: Tue 16:00-18:00 LT15",
-        "Grp L2: Tue 16:00-18:00 LT11"
+        "Grp L1: Tue 16:00-18:00 LT11"
       ]
     },
     {
@@ -1228,9 +1222,9 @@
       ],
       "Semester II": [
         "Akshay NARAYAN",
-        "Grp LC01: Mon 12:00-14:00 AS6-0209",
+        "Grp LC01: Mon 12:00-14:00 BIZ2-0302",
         "Thu 09:00-10:00 COM1-0210",
-        "Thu 12:00-14:00 AS6-0209",
+        "Thu 12:00-14:00 BIZ2-0302",
         "Fri 16:00-18:00 COM1-0206",
         "Exam: 06 MAY 2024 17:00-18:30"
       ]
@@ -1472,7 +1466,7 @@
       ],
       "Semester II": [
         "Olivier Gerard Henri Marie DANVY",
-        "Grp L1: Fri 12:00-14:00 COM1-VCRM",
+        "Grp L1: Fri 12:00-14:00 LT18",
         "Exam: 27 APR 2024 09:00-11:00"
       ]
     },
@@ -1881,7 +1875,7 @@
       ],
       "Semester II": [
         "Prashant Nalini VASUDEVAN",
-        "Grp L1: Mon 13:00-15:00 SR_LT19"
+        "Grp L1: Thu 15:00-17:00 COM1-VCRM"
       ]
     },
     {
@@ -2408,7 +2402,7 @@
       ],
       "Semester II": [
         "Christian Von Der WETH",
-        "Grp L1: Wed 18:30-20:30 COM3-MPH"
+        "Grp L1: Wed 18:30-20:30 LT18"
       ]
     },
     {
@@ -2674,7 +2668,7 @@
       ],
       "Semester II": [
         "Prashant Nalini VASUDEVAN",
-        "Grp L1: Thu 16:00-18:00 COM1-VCRM"
+        "Grp L1: Thu 15:00-17:00 COM1-VCRM"
       ]
     },
     {
@@ -2888,7 +2882,7 @@
       ],
       "Semester II": [
         "WANG Ye",
-        "Grp L1: Fri 15:00-17:00 COM1-VCRM"
+        "Grp L1: Fri 16:00-18:00 COM1-VCRM"
       ]
     },
     {
@@ -2906,20 +2900,6 @@
       ]
     },
     {
-      "Course Code": "CS6215",
-      "Course Title": [
-        "Advanced Topics in Program Analysis",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "-"
-      ],
-      "Semester II": [
-        "Abhik ROYCHOUDHURY",
-        "Grp L1: Mon 14:00-16:00 COM3-01-21"
-      ]
-    },
-    {
       "Course Code": "CS6216",
       "Course Title": [
         "Advanced Topics in Machine Learning",
@@ -2929,7 +2909,7 @@
         "-"
       ],
       "Semester II": [
-        "Michael XIE Qizhe",
+        "External",
         "Grp L1: Tue 16:00-18:00 SR_LT19"
       ]
     },
@@ -3061,6 +3041,20 @@
       ]
     },
     {
+      "Course Code": "CS6285",
+      "Course Title": [
+        "Topics in Computer Science: Wireless Networks and Applications",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "WANG Jingxian",
+        "Grp L1: Fri 14:00-16:00 COM1-VCRM"
+      ]
+    },
+    {
       "Course Code": "FT5001",
       "Course Title": [
         "Fintech Innovations for Consumers",
@@ -3081,7 +3075,7 @@
         "Units = 2"
       ],
       "Semester I": [
-        "External teaching staff",
+        "Sarat Chandra MOHANTY",
         "Grp L1: Tue 18:00-21:00 COM3-01-21"
       ],
       "Semester II": [
@@ -3174,6 +3168,20 @@
       ]
     },
     {
+      "Course Code": "FT5010",
+      "Course Title": [
+        "Algorithmic Trading Systems Design and Deployment",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Shashank Shekhar TRIPATHI",
+        "Grp L1: Tue 18:00-21:00 LT14"
+      ]
+    },
+    {
       "Course Code": "GEI1000",
       "Course Title": [
         "Computational Thinking",
@@ -3244,7 +3252,7 @@
       ],
       "Semester II": [
         "Sufatrio",
-        "Grp L1: Thu 14:00-16:00 COM3-01-21"
+        "Grp L1: Thu 14:00-16:00 COM3-01-22"
       ]
     },
     {
@@ -3314,19 +3322,19 @@
         "Grp SG11: Fri 12:00-15:00 CELC-TR6"
       ],
       "Semester II": [
-        "Grp SG01: Mon 09:00-12:00 AS6-0210",
-        "Grp SG02: Mon 15:00-18:00 AS6-0210",
-        "Grp SG03: Tue 09:00-12:00 AS6-0210",
-        "Grp SG04: Tue 12:00-15:00 AS6-0210",
-        "Grp SG05: Tue 15:00-18:00 AS6-0210",
-        "Grp SG06: Wed 09:00-12:00 AS6-0210",
-        "Grp SG07: Wed 12:00-15:00 AS6-0210",
-        "Grp SG08: Thu 09:00-12:00 AS6-0210",
-        "Grp SG09: Thu 12:00-15:00 AS6-0210",
+        "Grp SG01: Mon 09:00-12:00 AS6-0209",
+        "Grp SG02: Mon 15:00-18:00 AS6-0209",
+        "Grp SG03: Tue 09:00-12:00 AS6-0209",
+        "Grp SG04: Tue 12:00-15:00 AS6-0209",
+        "Grp SG05: Tue 15:00-18:00 AS6-0209",
+        "Grp SG06: Wed 09:00-12:00 AS6-0209",
+        "Grp SG07: Wed 12:00-15:00 AS6-0209",
+        "Grp SG08: Thu 09:00-12:00 AS6-0209",
+        "Grp SG09: Thu 12:00-15:00 AS6-0209",
         "Grp SG10: Thu 12:00-15:00 CELC-TR6",
-        "Grp SG11: Thu 15:00-18:00 AS6-0210",
-        "Grp SG12: Fri 09:00-12:00 AS6-0210",
-        "Grp SG13: Fri 12:00-15:00 AS6-0210"
+        "Grp SG11: Thu 15:00-18:00 AS6-0209",
+        "Grp SG12: Fri 09:00-12:00 AS6-0209",
+        "Grp SG13: Fri 12:00-15:00 AS6-0209"
       ]
     },
     {
@@ -3592,7 +3600,7 @@
       ],
       "Semester II": [
         "WANG Qiuhong",
-        "Grp L1: Mon 09:00-12:00 COM1-0212",
+        "Grp L1: Tue 09:00-12:00 COM4SR31",
         "Exam: 30 APR 2024 09:00-11:00"
       ]
     },
@@ -3711,20 +3719,6 @@
       ],
       "Semester II": [
         "-"
-      ]
-    },
-    {
-      "Course Code": "IS4261",
-      "Course Title": [
-        "Designing IT-enabled Business Innovations",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "-"
-      ],
-      "Semester II": [
-        "External teaching staff",
-        "Grp L1: Thu 09:00-12:00 COM1-0204"
       ]
     },
     {
@@ -4070,6 +4064,20 @@
       ]
     },
     {
+      "Course Code": "IS6006",
+      "Course Title": [
+        "Computational Social Science",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "QIAO Dandan",
+        "Grp L1: Thu 15:00-18:00 COM1-0209"
+      ]
+    },
+    {
       "Course Code": "IT1244",
       "Course Title": [
         "Artificial Intelligence: Technology and Impact",
@@ -4097,7 +4105,7 @@
       ],
       "Semester II": [
         "Stephane BRESSAN",
-        "Grp L1: Tue 12:00-14:00 COM3-MPH"
+        "Grp L1: Tue 12:00-14:00 LT18"
       ]
     },
     {
