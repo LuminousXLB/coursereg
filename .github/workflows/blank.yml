@@ -33,7 +33,7 @@ jobs:
           git -C repo checkout soc-sched
           wget --no-verbose -i list-soc-sched.txt
           ./commit-sched.sh
-          git -C repo push https://$GH_TOKEN@github.com/$GITHUB_REPOSITORY
+          git -C repo push https://oauth2:$GH_TOKEN@github.com/$GITHUB_REPOSITORY
         env:
           GH_TOKEN: ${{ github.token }}
 
@@ -42,6 +42,6 @@ jobs:
           git -C repo checkout coursereg-report
           wget --no-verbose -i list-coursereg.txt
           ./commit-report.sh
-          git -C repo push https://$GH_TOKEN@github.com/$GITHUB_REPOSITORY
+          git -C repo push https://oauth2:$GH_TOKEN@github.com/$GITHUB_REPOSITORY
         env:
           GH_TOKEN: ${{ github.token }}
