@@ -23,19 +23,10 @@ wget --no-verbose -i list.txt
 
 git -C $DIR checkout soc-sched
 
+pip3 install -r bs4 lxml
+
 for file in coursesNL courses_specialNL; do
-
-    DATE=$(grep -oP '(?<=Last Modified on: ).*(?=</div>)' $file.html)
-
-    if [ -z "$DATE" ]; then
-        echo "Failed to get date for $file.html"
-        cat $file.html
-        exit 1
-    else
-        echo "Date for $file.html is $DATE"
-    fi
-
-    DATE=$(date -d "$DATE" -Is)
+    DATE=$(python3 clean-sched.py $file.html)
 
     if [ -f $DIR/$file.sha1 ] && cmp -s $file.sha1 $DIR/$file.sha1; then
         echo "No change in $file.html"
