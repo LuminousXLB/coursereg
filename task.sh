@@ -17,14 +17,22 @@ git config user.name "GitHub Actions"
 git config user.email "$USER@$HOST"
 popd
 
-wget -q -i list.txt
+wget -i list.txt
 
 # Checkout soc-sched branch
 
 git -C $DIR checkout soc-sched
 
 for file in coursesNL courses_specialNL; do
+
     DATE=$(grep -oP '(?<=Last Modified on: ).*(?=</div>)' $file.html)
+
+    if [ -z "$DATE" ]; then
+        echo "Failed to get date for $file.html"
+        cat $file.html
+        exit 1
+    fi
+
     DATE=$(date -d "$DATE" -Is)
 
     if [ -f $DIR/$file.sha1 ] && cmp -s $file.sha1 $DIR/$file.sha1; then
