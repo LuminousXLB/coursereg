@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "7 Aug - 9 Dec 2023",
     "Semester II": "15 Jan - 11 May 2024",
-    "last_modified": "2023-12-13T18:00:11"
+    "last_modified": "2023-12-14T10:00:12"
   },
   "schedule": [
     {
@@ -1187,7 +1187,8 @@
       "Semester II": [
         "Muhammad Rizki Aulia Rahman MAULANA",
         "HU Conghui",
-        "Grp L1: Tue 16:00-18:00 LT11"
+        "Grp L1: Tue 16:00-18:00 LT11",
+        "Grp L2: Tue 16:00-18:00 E-Learn_C"
       ]
     },
     {
@@ -1424,6 +1425,7 @@
         "Diptarka CHAKRABORTY",
         "Sanjay JAIN",
         "Grp L1: Thu 14:00-16:00 COM1-0206",
+        "Grp L2: Thu 14:00-16:00 E-Learn_C",
         "Exam: 30 APR 2024 13:00-15:00"
       ]
     },
