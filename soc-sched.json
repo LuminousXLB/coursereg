@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "7 Aug - 9 Dec 2023",
     "Semester II": "15 Jan - 11 May 2024",
-    "last_modified": "2023-12-14T10:00:12"
+    "last_modified": "2023-12-14T18:00:16"
   },
   "schedule": [
     {
@@ -280,7 +280,7 @@
       ],
       "Semester II": [
         "TAN Wee Kek",
-        "Grp L1: Wed 18:30-21:30 COM1-0210"
+        "Grp L1: Wed 18:30-21:30 COM1-0206"
       ]
     },
     {
@@ -1329,6 +1329,7 @@
       "Semester II": [
         "Cristina CARBUNARU",
         "Grp L1: Tue 12:00-14:00 LT15",
+        "Grp L2: Tue 12:00-14:00 E-Learn_C",
         "Exam: 07 MAY 2024 13:00-15:00"
       ]
     },
@@ -1403,7 +1404,7 @@
       ],
       "Semester II": [
         "CHAN Chee Yong",
-        "Grp L1: Fri 10:00-12:00 LT19",
+        "Grp L1: Fri 10:00-12:00 LT11",
         "Exam: 02 MAY 2024 17:00-19:00"
       ]
     },
@@ -3381,7 +3382,8 @@
       ],
       "Semester II": [
         "Vivek Sundar MAGESH",
-        "Grp L1: Tue 16:00-18:00 LT19"
+        "Grp L1: Tue 16:00-18:00 LT19",
+        "Grp L2: Tue 16:00-18:00 E-Learn_C"
       ]
     },
     {
@@ -3735,7 +3737,7 @@
       ],
       "Semester II": [
         "LEE Boon Kee",
-        "Grp L1: Mon 14:00-16:00 COM3-01-23",
+        "Grp L1: Mon 14:00-16:00 COM1-0206",
         "Exam: 29 APR 2024 13:00-15:00"
       ]
     },
