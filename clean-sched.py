@@ -14,7 +14,9 @@ with open(path, "r") as f:
 
 
 mo = re.search(r"Last Modified on: (\d+ \w+ \d+ \d+:\d+:\d+)", html)
-assert mo, "No last modified time found"
+if not mo:
+    print(html)
+    raise ValueError("Could not find last modified date")
 
 mtime = datetime.datetime.strptime(mo.group(1), "%d %B %Y %H:%M:%S")
 print(mtime)
