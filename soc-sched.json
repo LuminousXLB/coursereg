@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "7 Aug - 9 Dec 2023",
     "Semester II": "15 Jan - 11 May 2024",
-    "last_modified": "2024-01-15T18:00:13"
+    "last_modified": "2024-01-16T10:00:20"
   },
   "schedule": [
     {
@@ -402,6 +402,19 @@
         "PEH Li Shiuan",
         "Jithin VACHERY",
         "Grp L01: Wed 14:00-17:00 COM3-01-19"
+      ]
+    },
+    {
+      "Course Code": "CP1008",
+      "Course Title": [
+        "Learning with Generative AI Tools",
+        "Units = 2"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "Grp L1:  - E-Learn_C"
       ]
     },
     {
