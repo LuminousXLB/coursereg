@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "7 Aug - 9 Dec 2023",
     "Semester II": "15 Jan - 11 May 2024",
-    "last_modified": "2024-01-23T10:00:16"
+    "last_modified": "2024-01-23T18:00:13"
   },
   "schedule": [
     {
@@ -1314,7 +1314,9 @@
         "Grp L1: Tue 10:00-12:00 LT19",
         "Tue 14:00-16:00 LT19",
         "Grp L2: Tue 10:00-12:00 LT19",
-        "Tue 14:00-16:00 LT19"
+        "Tue 14:00-16:00 LT19",
+        "Grp L3: Tue 10:00-12:00 LT19",
+        "Tue 16:00-18:00 LT19"
       ]
     },
     {
@@ -2114,7 +2116,7 @@
       ],
       "Semester II": [
         "Umang MATHUR",
-        "Grp L1: Tue 15:00-17:00 COM1-VCRM",
+        "Grp L1: Tue 15:00-18:00 COM1-VCRM",
         "Exam: 08 MAY 2024 13:00-15:00"
       ]
     },
@@ -2743,7 +2745,7 @@
       ],
       "Semester II": [
         "Umang MATHUR",
-        "Grp L1: Tue 15:00-17:00 COM1-VCRM",
+        "Grp L1: Tue 15:00-18:00 COM1-VCRM",
         "Exam: 08 MAY 2024 13:00-15:00"
       ]
     },
