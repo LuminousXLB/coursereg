@@ -1,12 +1,12 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: CourseReg Reports
 
 # Controls when the workflow will run
 on:
   schedule:
-    - cron: "30 1 * * *"
-    - cron: "30 13 * * *"
+    - cron: "30 0 * * *"
+    - cron: "30 12 * * *"
 
   workflow_dispatch:
 
@@ -27,21 +27,6 @@ jobs:
           gh repo clone $GITHUB_REPOSITORY repo
           git -C repo config user.name "GitHub Actions"
           git -C repo config user.email "$USER@$HOST"
-        env:
-          GH_TOKEN: ${{ github.token }}
-
-      - name: Fetch SoC schedule
-        run: |
-          pip3 install bs4 lxml
-          git -C repo checkout soc-sched
-          wget --no-verbose -i list-soc-sched.txt
-          ./commit-sched.sh
-          git -C repo push https://oauth2:$GH_TOKEN@github.com/$GITHUB_REPOSITORY
-        env:
-          GH_TOKEN: ${{ github.token }}
-
-      - name: Fetch CourseReg report
-        run: |
           git -C repo checkout coursereg-report
           wget --no-verbose -i list-coursereg.txt
           ./commit-report.sh
