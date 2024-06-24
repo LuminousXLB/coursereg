@@ -28,8 +28,7 @@ jobs:
           git -C repo config user.name "GitHub Actions"
           git -C repo config user.email "$USER@$HOST"
           git -C repo checkout coursereg-report
-          wget --no-verbose -i list-coursereg.txt
-          ./commit-report.sh
+          ./update-report.sh
           git -C repo push https://oauth2:$GH_TOKEN@github.com/$GITHUB_REPOSITORY
         env:
           GH_TOKEN: ${{ github.token }}
