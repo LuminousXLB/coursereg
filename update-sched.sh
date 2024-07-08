@@ -9,7 +9,6 @@ if [ ! -d $DIR ]; then
 fi
 
 set -e
-# set -x
 if [ -n "$GITHUB_ACTIONS" ]; then
     set -x
 
@@ -20,7 +19,8 @@ fi
 for file in soc-sched specialterm; do
     if [ -f $file.html ]; then
         DATE=$(./clean-sched.py $file.html)
-        mv $file.{html,json} ./$DIR
+        mv $file.json ./$DIR
+        sed -n '/<article/,/<\/article>/p' $file.html >./$DIR/$file.html
         pushd ./$DIR
         if [ -n "$(git status -s)" ]; then
             git config user.email "github-actions[bot]@users.noreply.github.com"
