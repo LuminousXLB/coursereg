@@ -1,28 +1,18 @@
-# This is a basic workflow to help you get started with Actions
-
 name: CourseReg Reports
 
-# Controls when the workflow will run
 on:
-  schedule:
-    - cron: "30 0 * * *"
-    - cron: "30 12 * * *"
-
   workflow_dispatch:
+  schedule:
+    - cron: "30 16 * * *" # 00:30 Asia/Singapore
+    - cron: "30 4 * * *" # 12:30 Asia/Singapore
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - uses: actions/checkout@v3
-
       - run: |
           gh repo clone $GITHUB_REPOSITORY repo
           git -C repo config user.name "GitHub Actions"
