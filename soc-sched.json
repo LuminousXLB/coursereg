@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2024-07-09T12:00:12"
+    "last_modified": "2024-07-09T23:00:11"
   },
   "schedule": [
     {
@@ -616,8 +616,8 @@
       ],
       "Semester I": [
         "Math Dept Lecturer",
-        "Grp S1: Wed 12:00-14:00 UT-AUD2",
-        "Fri 12:00-13:00 UT-AUD2",
+        "Grp S1: Wed 12:00-14:00 UT-AUD1",
+        "Fri 12:00-13:00 UT-AUD1",
         "Exam: 29 NOV 2024 14:30-16:30"
       ],
       "Semester II": [
@@ -3823,7 +3823,8 @@
         "-"
       ],
       "Semester II": [
-        "Atreyi KANKANHALLI"
+        "Atreyi KANKANHALLI",
+        "Grp L1: Tue 18:30-20:30 COM1-0212"
       ]
     },
     {
