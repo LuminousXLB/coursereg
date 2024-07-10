@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2024-07-10T12:00:12"
+    "last_modified": "2024-07-10T23:00:11"
   },
   "schedule": [
     {
@@ -787,32 +787,32 @@
       ],
       "Semester I": [
         "CELC Lecturers",
-        "Grp SC01:  -",
         "Grp SG01:  -",
-        "-",
-        "-",
         "Grp SG02:  -",
-        "-",
-        "-",
         "Grp SG03:  -",
-        "-",
-        "-",
         "Grp SG04:  -",
-        "-",
         "Grp SG05:  -",
-        "-",
         "Grp SG06:  -",
-        "-",
+        "Grp SG07:  -",
+        "Grp SG08:  -",
         "Grp SG09:  -",
-        "-",
         "Grp SG10:  -",
-        "-",
         "Grp SG11:  -",
-        "-",
         "Grp SG12:  -",
-        "-",
+        "Grp SG13:  -",
+        "Grp SG14:  -",
+        "Grp SG15:  -",
+        "Grp SG16:  -",
+        "Grp SG17:  -",
+        "Grp SG18:  -",
+        "Grp SG19:  -",
         "Grp SG20:  -",
-        "Grp SG21:  -"
+        "Grp SG21:  -",
+        "Grp SG22:  -",
+        "Grp SG23:  -",
+        "Grp SG24:  -",
+        "Grp SG25:  -",
+        "Grp SG26:  -"
       ],
       "Semester II": [
         "CELC Lecturers",
@@ -2980,7 +2980,7 @@
       ],
       "Semester I": [
         "FOONG Sew Bun",
-        "Grp L1: Mon 18:30-21:30 COM3-01-23"
+        "Grp L1: Thu 18:30-21:30 COM3-01-23"
       ],
       "Semester II": [
         "-"
@@ -3049,7 +3049,7 @@
         "Units = 2"
       ],
       "Semester I": [
-        "Grp L1: Wed 18:30-21:30 COM1-0204"
+        "Grp L1: Mon 18:30-21:30 COM3-01-23"
       ],
       "Semester II": [
         "-"
