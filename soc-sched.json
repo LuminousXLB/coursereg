@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2024-07-14T23:00:11"
+    "last_modified": "2024-07-15T12:00:13"
   },
   "schedule": [
     {
@@ -774,6 +774,7 @@
       "Semester II": [
         "Aaron TAN Tuck Choy",
         "Prabhu NATARAJAN",
+        "Anandha GOPALAN",
         "Grp L1: Mon 10:00-12:00 LT8",
         "Grp L2: Mon 10:00-12:00 E-Learn_C",
         "Exam: 03 MAY 2025 09:00-11:00"
@@ -1110,7 +1111,6 @@
       "Semester II": [
         "LEONG Wai Kay",
         "Jithin VACHERY",
-        "Anandha GOPALAN",
         "Grp L1: Fri 14:00-16:00 UT-AUD2",
         "Exam: 28 APR 2025 13:00-15:00"
       ]
@@ -2962,7 +2962,7 @@
       "Course Code": "FT5001",
       "Course Title": [
         "Fintech Innovations for Consumers",
-        "Units = 2"
+        "Units = 4"
       ],
       "Semester I": [
         "Victor NG Teck Wei",
@@ -2976,7 +2976,7 @@
       "Course Code": "FT5002",
       "Course Title": [
         "Digital Transformation at Financial Institutions",
-        "Units = 2"
+        "Units = 4"
       ],
       "Semester I": [
         "FOONG Sew Bun",
@@ -2990,7 +2990,7 @@
       "Course Code": "FT5003",
       "Course Title": [
         "Blockchain Innovations",
-        "Units = 2"
+        "Units = 4"
       ],
       "Semester I": [
         "-"
@@ -3004,7 +3004,7 @@
       "Course Code": "FT5004",
       "Course Title": [
         "Programming for Blockchain Applications",
-        "Units = 2"
+        "Units = 4"
       ],
       "Semester I": [
         "-"
@@ -3032,7 +3032,7 @@
       "Course Code": "FT5008",
       "Course Title": [
         "Contemporary Topics in Blockchain Applications",
-        "Units = 2"
+        "Units = 4"
       ],
       "Semester I": [
         "-"
@@ -3046,7 +3046,7 @@
       "Course Code": "FT5009",
       "Course Title": [
         "Contemporary Topics in Financial Data Analytics",
-        "Units = 2"
+        "Units = 4"
       ],
       "Semester I": [
         "Grp L1: Mon 18:30-21:30 COM3-01-23"
