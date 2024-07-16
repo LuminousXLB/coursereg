@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2024-07-16T12:00:12"
+    "last_modified": "2024-07-16T23:00:10"
   },
   "schedule": [
     {
@@ -306,7 +306,6 @@
       ],
       "Semester I": [
         "Stephane BRESSAN",
-        "Eldon CHUNG",
         "Grp L1: Wed 18:30-20:30 LT16"
       ],
       "Semester II": [
@@ -750,6 +749,7 @@
         "SHAO Lin",
         "Muhammad Rizki Aulia Rahman MAULANA",
         "Diptarka CHAKRABORTY",
+        "Eldon CHUNG",
         "Grp L1: Mon 16:00-18:00 LT11",
         "Wed 13:00-14:00 LT11",
         "Grp L2: Mon 16:00-18:00 E-Learn_C",
@@ -2819,6 +2819,20 @@
       ]
     },
     {
+      "Course Code": "CS6216",
+      "Course Title": [
+        "Advanced Topics in Machine Learning",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "LU Yao",
+        "Grp L1: Wed 10:00-12:00 COM1-VCRM"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
       "Course Code": "CS6217",
       "Course Title": [
         "Topics in Prog. Languages & Software Engineering",
@@ -2939,20 +2953,6 @@
       "Semester I": [
         "Michael SHIEH Qizhe",
         "Grp L1: Tue 10:00-12:00 COM1-VCRM"
-      ],
-      "Semester II": [
-        "-"
-      ]
-    },
-    {
-      "Course Code": "CS6284",
-      "Course Title": [
-        "Topics in Computer Science: Big Data Meets New Hardware",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "LU Yao",
-        "Grp L1: Wed 10:00-12:00 COM1-VCRM"
       ],
       "Semester II": [
         "-"
