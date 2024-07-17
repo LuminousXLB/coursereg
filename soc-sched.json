@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2024-07-16T23:00:10"
+    "last_modified": "2024-07-17T12:00:12"
   },
   "schedule": [
     {
@@ -188,7 +188,7 @@
         "-"
       ],
       "Semester II": [
-        "External teaching staff",
+        "Freddy LIM Jie",
         "Grp L1: Thu 12:00-14:00 LT12",
         "Exam: 07 MAY 2025 13:00-15:00"
       ]
@@ -3049,6 +3049,7 @@
         "Units = 4"
       ],
       "Semester I": [
+        "Jerry PING Wenjie",
         "Grp L1: Mon 18:30-21:30 COM3-01-23"
       ],
       "Semester II": [
