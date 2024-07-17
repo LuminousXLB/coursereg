@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2024-07-17T12:00:12"
+    "last_modified": "2024-07-17T23:00:11"
   },
   "schedule": [
     {
@@ -3842,7 +3842,8 @@
         "Units = 0"
       ],
       "Semester I": [
-        "QIAO Dandan"
+        "QIAO Dandan",
+        "Grp L1: Tue 15:00-18:00 COM1-VCRM"
       ],
       "Semester II": [
         "-"
