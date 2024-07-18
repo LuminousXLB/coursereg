@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2024-07-18T12:00:12"
+    "last_modified": "2024-07-18T23:00:11"
   },
   "schedule": [
     {
@@ -3324,7 +3324,7 @@
       ],
       "Semester I": [
         "Kisenchand Nathumal RANAI",
-        "Grp L1: Thu 09:00-12:00 COM1-0212",
+        "Grp L1: Thu 09:00-11:00 COM1-0212",
         "Exam: 03 DEC 2024 09:00-11:00"
       ],
       "Semester II": [
@@ -3637,20 +3637,6 @@
       ]
     },
     {
-      "Course Code": "IS5002",
-      "Course Title": [
-        "Digital Transformation",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "-"
-      ],
-      "Semester II": [
-        "External teaching staff",
-        "Grp L1: Thu 18:30-20:30 COM1-0212"
-      ]
-    },
-    {
       "Course Code": "IS5003",
       "Course Title": [
         "Platform Design and Economy",
@@ -3843,7 +3829,7 @@
       ],
       "Semester I": [
         "QIAO Dandan",
-        "Grp L1: Tue 15:00-18:00 COM1-VCRM"
+        "Grp L1: Fri 15:00-18:00 COM1-VCRM"
       ],
       "Semester II": [
         "-"
@@ -3871,7 +3857,7 @@
       ],
       "Semester I": [
         "TEO Hock Hai",
-        "Grp L1: Fri 15:00-18:00 COM1-VCRM"
+        "Grp L1: Tue 15:00-18:00 COM1-VCRM"
       ],
       "Semester II": [
         "-"
