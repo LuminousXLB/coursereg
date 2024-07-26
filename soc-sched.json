@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2024-07-26T12:00:12"
+    "last_modified": "2024-07-26T23:00:11"
   },
   "schedule": [
     {
@@ -1261,17 +1261,9 @@
         "Ganesh NEELAKANTA IYER",
         "Michael David ADAMS",
         "Grp L1: Tue 12:00-14:00 LT17",
-        "Tue 16:00-18:00 LT16",
-        "Tue 12:00-14:00 COM3-01-25",
         "Tue 16:00-18:00 COM3-01-25",
-        "Grp L2: Tue 12:00-14:00 LT17",
-        "Tue 16:00-18:00 LT16",
-        "Tue 16:00-18:00 COM3-B1-10",
-        "Tue 12:00-14:00 COM3-B1-10",
-        "Grp L3: Tue 12:00-14:00 LT17",
-        "Tue 12:00-14:00 COM3-B1-11",
-        "Tue 16:00-18:00 LT16",
-        "Tue 16:00-18:00 COM3-B1-11"
+        "Tue 12:00-14:00 COM3-01-25",
+        "Tue 16:00-18:00 LT16"
       ],
       "Semester II": [
         "Ganesh NEELAKANTA IYER",
