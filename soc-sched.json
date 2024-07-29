@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2024-07-28T23:00:11"
+    "last_modified": "2024-07-29T12:00:12"
   },
   "schedule": [
     {
@@ -894,6 +894,7 @@
       "Semester I": [
         "Damith Chatura RAJAPAKSE",
         "Prabhu NATARAJAN",
+        "Michael David ADAMS",
         "Grp L1: Fri 16:00-18:00 E-Learn_C",
         "Exam: 26 NOV 2024 17:00-18:30"
       ],
@@ -913,6 +914,7 @@
       "Semester I": [
         "Damith Chatura RAJAPAKSE",
         "Prabhu NATARAJAN",
+        "Michael David ADAMS",
         "Grp LG01: Mon 09:00-12:00 BIZ2-0404",
         "Wed 09:00-10:00 COM3-01-20",
         "Fri 16:00-18:00 UT-AUD2",
@@ -1259,11 +1261,8 @@
       ],
       "Semester I": [
         "Ganesh NEELAKANTA IYER",
-        "Michael David ADAMS",
-        "Grp L1: Tue 12:00-14:00 LT17",
-        "Tue 16:00-18:00 COM3-01-25",
-        "Tue 12:00-14:00 COM3-01-25",
-        "Tue 16:00-18:00 LT16"
+        "Grp L1: Tue 12:00-14:00 COM3-B1-10",
+        "Tue 12:00-14:00 COM3-B1-10"
       ],
       "Semester II": [
         "Ganesh NEELAKANTA IYER",
