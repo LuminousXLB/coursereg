@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2024-08-03T12:00:11"
+    "last_modified": "2024-08-03T23:00:11"
   },
   "schedule": [
     {
@@ -278,7 +278,7 @@
       ],
       "Semester I": [
         "CHEN Nan",
-        "Grp L1: Wed 09:00-12:00 COM1-0212"
+        "Grp L1: Wed 09:00-12:00 COM1-VCRM"
       ],
       "Semester II": [
         "-"
@@ -2817,7 +2817,7 @@
       ],
       "Semester I": [
         "LU Yao",
-        "Grp L1: Wed 10:00-12:00 COM1-VCRM"
+        "Grp L1: Wed 10:00-12:00 COM1-0212"
       ],
       "Semester II": [
         "-"
