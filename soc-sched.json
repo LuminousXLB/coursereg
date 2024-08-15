@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2024-08-15T12:00:12"
+    "last_modified": "2024-08-15T23:00:11"
   },
   "schedule": [
     {
@@ -3079,21 +3079,6 @@
       ],
       "Semester II": [
         "-"
-      ]
-    },
-    {
-      "Course Code": "IFS4101",
-      "Course Title": [
-        "Legal Aspects of Information Security",
-        "Units = 4"
-      ],
-      "Semester I": [
-        "-"
-      ],
-      "Semester II": [
-        "External teaching staff",
-        "Grp L1: Tue 18:30-21:30 SR_LT19",
-        "Exam: 06 MAY 2025 17:00-19:00"
       ]
     },
     {
