@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2024-08-29T10:00:12"
+    "last_modified": "2024-08-29T23:00:11"
   },
   "schedule": [
     {
@@ -697,9 +697,9 @@
         "Units = 4"
       ],
       "Semester I": [
-        "CHONG Ket Fah",
         "Roger ZIMMERMANN",
         "Anandha GOPALAN",
+        "Sanka RASNAYAKA",
         "Grp L1: Wed 10:00-12:00 E-Learn_C",
         "Thu 09:00-10:00 E-Learn_C",
         "Exam: 27 NOV 2024 17:00-19:00"
@@ -721,7 +721,6 @@
       ],
       "Semester I": [
         "Alan CHENG Holun",
-        "Sanka RASNAYAKA",
         "Grp L1: Wed 10:00-12:00 LT17",
         "Thu 09:00-10:00 LT17",
         "Exam: 27 NOV 2024 17:00-19:00"
