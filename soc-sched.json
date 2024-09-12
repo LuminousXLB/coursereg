@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2024-09-12T12:00:14"
+    "last_modified": "2024-09-12T23:00:12"
   },
   "schedule": [
     {
@@ -3168,7 +3168,6 @@
         "Grp SG11: Thu 15:00-18:00 AS6-0209",
         "Grp SG12: Fri 09:00-12:00 AS6-0209",
         "Grp SG13: Fri 12:00-15:00 AS6-0209",
-        "Grp SG14: Wed 09:00-12:00 CELC-TR6",
         "Grp SG15: Wed 12:00-15:00 CELC-TR6"
       ]
     },
