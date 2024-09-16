@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2024-09-16T12:00:13"
+    "last_modified": "2024-09-16T23:00:11"
   },
   "schedule": [
     {
@@ -442,6 +442,20 @@
       ],
       "Semester I": [
         "ZHAO Jin",
+        "Grp L1:  -"
+      ],
+      "Semester II": [
+        "-"
+      ]
+    },
+    {
+      "Course Code": "CP2107",
+      "Course Title": [
+        "Independent Introduction to CS Research (Odyssey)",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "Bimlesh WADHWA",
         "Grp L1:  -"
       ],
       "Semester II": [
