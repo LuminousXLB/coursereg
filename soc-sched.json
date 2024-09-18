@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2024-09-18T12:00:13"
+    "last_modified": "2024-09-18T23:00:12"
   },
   "schedule": [
     {
@@ -3175,9 +3175,9 @@
         "Grp SG04: Tue 12:00-15:00 AS6-0209",
         "Grp SG05: Tue 15:00-18:00 AS6-0209",
         "Grp SG06: Wed 09:00-12:00 AS6-0209",
-        "Grp SG07: Wed 09:00-12:00 CELC-03-06",
+        "Grp SG07: Wed 09:00-12:00 CELC-SR1B",
         "Grp SG08: Wed 12:00-15:00 AS6-0209",
-        "Grp SG09: Wed 12:00-15:00 CELC-TR6",
+        "Grp SG09: Wed 12:00-15:00 CELC-SR1B",
         "Grp SG10: Thu 09:00-12:00 AS6-0209",
         "Grp SG11: Thu 12:00-15:00 AS6-0209",
         "Grp SG12: Thu 15:00-18:00 AS6-0209",
@@ -3709,7 +3709,7 @@
       ],
       "Semester II": [
         "Thomas CHEVRIER",
-        "Grp L1: Tue 18:30-20:30 COM3-01-23"
+        "Grp L1: Tue 18:30-20:30 COM1-0204"
       ]
     },
     {
