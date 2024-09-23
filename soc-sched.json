@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2024-09-22T23:00:12"
+    "last_modified": "2024-09-23T12:00:13"
   },
   "schedule": [
     {
@@ -719,9 +719,10 @@
         "Exam: 27 NOV 2024 17:00-19:00"
       ],
       "Semester II": [
-        "CHONG Ket Fah",
         "Roger ZIMMERMANN",
         "Rajendra Prasad SIRIGINA",
+        "Sanka RASNAYAKA",
+        "CHONG Ket Fah",
         "Grp L1: Mon 16:00-18:00 E-Learn_C",
         "Wed 13:00-14:00 E-Learn_C",
         "Exam: 26 APR 2025 13:00-15:00"
@@ -914,6 +915,7 @@
       "Semester II": [
         "Damith Chatura RAJAPAKSE",
         "Eric HAN Liang Wee",
+        "Ganesh NEELAKANTA IYER",
         "Grp L1: Fri 16:00-18:00 E-Learn_C",
         "Exam: 30 APR 2025 17:00-19:00"
       ]
@@ -1011,6 +1013,7 @@
       "Semester II": [
         "Damith Chatura RAJAPAKSE",
         "Eric HAN Liang Wee",
+        "Ganesh NEELAKANTA IYER",
         "Grp LG01: Mon 08:00-10:00 COM2-0108",
         "Wed 08:00-09:00 COM3-01-20",
         "Thu 08:00-10:00 COM2-0108",
@@ -1281,7 +1284,6 @@
       ],
       "Semester II": [
         "Ganesh NEELAKANTA IYER",
-        "Sanka RASNAYAKA",
         "Grp L1: Tue 10:00-12:00 LT17",
         "Tue 14:00-16:00 LT17",
         "Grp L2: Tue 10:00-12:00 LT17",
@@ -2920,6 +2922,19 @@
       ],
       "Semester II": [
         "-"
+      ]
+    },
+    {
+      "Course Code": "CS6235",
+      "Course Title": [
+        "Advanced Topics in Theoretical Computer Science",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "-"
+      ],
+      "Semester II": [
+        "CHEN Yu"
       ]
     },
     {
