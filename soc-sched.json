@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2024-10-07T12:00:13"
+    "last_modified": "2024-10-07T23:00:12"
   },
   "schedule": [
     {
@@ -580,7 +580,6 @@
         "Ashish Deepak DANDEKAR",
         "Daren LER Shan Wen",
         "Adi Yoga Sidi PRABAWA",
-        "Sanka RASNAYAKA",
         "Grp L1: Wed 08:00-10:00 LT27",
         "Exam: 29 APR 2025 17:00-19:00"
       ]
@@ -719,9 +718,9 @@
         "Exam: 27 NOV 2024 17:00-19:00"
       ],
       "Semester II": [
+        "Sanka RASNAYAKA",
         "Roger ZIMMERMANN",
         "Rajendra Prasad SIRIGINA",
-        "Sanka RASNAYAKA",
         "CHONG Ket Fah",
         "Grp L1: Mon 16:00-18:00 E-Learn_C",
         "Wed 13:00-14:00 E-Learn_C",
@@ -2913,7 +2912,8 @@
         "-"
       ],
       "Semester II": [
-        "CHEN Yu"
+        "CHEN Yu",
+        "Grp L1: Tue 16:00-18:00 COM1-VCRM"
       ]
     },
     {
