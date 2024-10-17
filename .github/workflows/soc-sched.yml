@@ -20,7 +20,6 @@ jobs:
       - run: |
           gh repo clone $GITHUB_REPOSITORY repo
           git -C repo checkout soc-sched
-          pip3 install bs4
           ./update-sched.sh
           git -C repo push https://oauth2:$GH_TOKEN@github.com/$GITHUB_REPOSITORY
         env:
