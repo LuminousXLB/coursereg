@@ -17,6 +17,7 @@ jobs:
         with:
           python-version: "3.11"
           cache: "pip"
+      - run: pip install -r requirements.txt
       - run: |
           gh repo clone $GITHUB_REPOSITORY repo
           git -C repo checkout soc-sched
