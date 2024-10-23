@@ -2,7 +2,7 @@
   "meta": {
     "Semester I": "5 Aug - 7 Dec 2024",
     "Semester II": "13 Jan - 10 May 2025",
-    "last_modified": "2024-10-22T23:00:12"
+    "last_modified": "2024-10-23T12:00:13"
   },
   "schedule": [
     {
@@ -477,6 +477,56 @@
       ]
     },
     {
+      "Course Code": "CP3106",
+      "Course Title": [
+        "Independent Project",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "Grp L1:  -"
+      ],
+      "Semester II": [
+        "Grp L1:  -"
+      ]
+    },
+    {
+      "Course Code": "CP3108A",
+      "Course Title": [
+        "Independent Work",
+        "Units = 2"
+      ],
+      "Semester I": [
+        "Grp L1:  -"
+      ],
+      "Semester II": [
+        "Grp L1:  -"
+      ]
+    },
+    {
+      "Course Code": "CP3108B",
+      "Course Title": [
+        "Independent Work",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "Grp L1:  -"
+      ],
+      "Semester II": [
+        "Grp L1:  -"
+      ]
+    },
+    {
+      "Course Code": "CP3111",
+      "Course Title": [
+        "Independent Project II",
+        "Units = 4"
+      ],
+      "Semester I": [
+        "Grp L1:  -"
+      ],
+      "Semester II": []
+    },
+    {
       "Course Code": "CP3201",
       "Course Title": [
         "Industry Seminar",
@@ -488,6 +538,45 @@
       ],
       "Semester II": [
         "-"
+      ]
+    },
+    {
+      "Course Code": "CP3209",
+      "Course Title": [
+        "Undergraduate Research Project in Computing",
+        "Units = 8"
+      ],
+      "Semester I": [
+        "Grp L1:  -"
+      ],
+      "Semester II": [
+        "Grp L1:  -"
+      ]
+    },
+    {
+      "Course Code": "CP3209R",
+      "Course Title": [
+        "Undergraduate Research Project in Computing (REx)",
+        "Units = 0"
+      ],
+      "Semester I": [
+        "Grp L1:  -"
+      ],
+      "Semester II": [
+        "Grp L1:  -"
+      ]
+    },
+    {
+      "Course Code": "CP3880",
+      "Course Title": [
+        "Advanced Technology Attachment Programme",
+        "Units = 12"
+      ],
+      "Semester I": [
+        "Grp L1:  -"
+      ],
+      "Semester II": [
+        "Grp L1:  -"
       ]
     },
     {
@@ -916,6 +1005,19 @@
         "Ganesh NEELAKANTA IYER",
         "Grp L1: Fri 16:00-18:00 E-Learn_C",
         "Exam: 30 APR 2025 17:00-19:00"
+      ]
+    },
+    {
+      "Course Code": "CS2103R",
+      "Course Title": [
+        "Software Engineering",
+        "Units = 1"
+      ],
+      "Semester I": [
+        "Grp L1:  -"
+      ],
+      "Semester II": [
+        "Grp L1:  -"
       ]
     },
     {
